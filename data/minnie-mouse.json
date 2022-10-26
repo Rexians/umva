@@ -1,0 +1,172 @@
+{
+    "code_name": "minnie-mouse",
+    "name": "Minnie Mouse",
+    "catchline": "Heart's fire fighter",
+    "type": "Melee",
+    "data": {
+        "rarity_1": {
+            "health": 649,
+            "attack": 850,
+            "defense": 892,
+            "focus": 615
+        },
+        "rarity_2": {
+            "health": 878,
+            "attack": 1120,
+            "defense": 1170,
+            "focus": 819
+        },
+        "rarity_3": {
+            "health": 1574,
+            "attack": 2002,
+            "defense": 2089,
+            "focus": 1464
+        },
+        "rarity_4": {
+            "health": 2402,
+            "attack": 3057,
+            "defense": 3191,
+            "focus": 2235
+        },
+        "rarity_5": {
+            "health": 3722,
+            "attack": 4756,
+            "defense": 4968,
+            "focus": 3473
+        },
+        "astral_1": {
+            "health": 3722,
+            "attack": 4756,
+            "defense": 4968,
+            "focus": 3473
+        },
+        "astral_2": {
+            "health": 4155,
+            "attack": 5292,
+            "defense": 5525,
+            "focus": 3868
+        },
+        "astral_3": {
+            "health": 4487,
+            "attack": 5728,
+            "defense": 5982,
+            "focus": 4183
+        },
+        "astral_4": {
+            "health": 4819,
+            "attack": 6163,
+            "defense": 6439,
+            "focus": 4499
+        },
+        "astral_5": {
+            "health": 5151,
+            "attack": 6599,
+            "defense": 6896,
+            "focus": 4814
+        },
+        "astral_6": {
+            "health": 5484,
+            "attack": 7035,
+            "defense": 7352,
+            "focus": 5129
+        },
+        "astral_7": {
+            "health": 5650,
+            "attack": 7252,
+            "defense": 7581,
+            "focus": 5287
+        },
+        "astral_8": {
+            "health": 5816,
+            "attack": 7470,
+            "defense": 7809,
+            "focus": 5445
+        },
+        "astral_9": {
+            "health": 5982,
+            "attack": 7688,
+            "defense": 8038,
+            "focus": 5602
+        },
+        "astral_10": {
+            "health": 6148,
+            "attack": 7906,
+            "defense": 8266,
+            "focus": 5760
+        }
+    },
+    "abilities": [
+        {
+            "name": "Inner Strength",
+            "type": "Core",
+            "info": [
+                "When Minnie Mouse hits her target, she gains Heartsfire Charges equal to the number of Buffs on that enemy. Heartsfire Charges each grant 10% Attack and 10% Defense. Heartsfire Charges are removed and replaced if Minnie hits a new target. (Max Stacks: 10)",
+                "When Minnie Mouse hits her target, Basic Attacks have a 20% chance, and Heavy Attacks have a 100% chance to grant her 10% Attack Buffs for the rest of the current combat. (Max Stacks: 10)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/minnie_mouse_core.jpg"
+        },
+        {
+            "name": "Fist Of Heart'S Fire",
+            "type": "Special",
+            "info": [
+                "Deals 400% damage and Knocks Back all enemies in a short line towards the current target.",
+                "This attack inflicts a Burn, dealing 20% damage every second for 5 seconds to all enemies hit."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/minnie_mouse_special.jpg"
+        },
+        {
+            "name": "Plucky Punch",
+            "type": "Signature",
+            "info": [
+                "Minnie Mouse\u2019s Special Ability has a 20% chance per Attack Buff or Heartsfire Charge from her Core Ability to Stun enemies hit for 3 seconds.",
+                "Minnie Mouse\u2019s Special Ability applies a -20% Attack Debuff to enemies hit for 9 seconds. (Max Stacks: 1)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/minnie_mouse_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Soul's Tenacity",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_minniemouse_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Focus at the start of an encounter."
+        },
+        {
+            "name": "Heart's Courage",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_minniemouse_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Undaunted Strikes",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_minniemouse_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Minnie Mouse gains a 5% Critical Damage Buff from her Special Ability for each Attack Buff or Heartsfire Charge from her Core Ability for 6 seconds. [Max Stacks: 10]"
+        },
+        {
+            "name": "Strong Spirit",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_minniemouse_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Attack Buffs from Minnie Mouse's Core Ability grant an additional 5% Attack."
+        },
+        {
+            "name": "Passion's Fire",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_minniemouse_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Burns from Minnie Mouse's Special Ability last 4 second(s) longer."
+        },
+        {
+            "name": "Fearless Focus",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_minniemouse_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Minnie Mouse gains a 20% Focus Buff from her Special Ability for each Attack Buff or Heartsfire Charge from her Core Ability for 6 seconds."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-minnie-mouse.png"
+}

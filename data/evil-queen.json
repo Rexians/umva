@@ -1,0 +1,173 @@
+{
+    "code_name": "evil-queen",
+    "name": "Evil Queen",
+    "catchline": "Poison hearted monarch",
+    "type": "Support",
+    "data": {
+        "rarity_1": {
+            "health": 973,
+            "attack": 519,
+            "defense": 573,
+            "focus": 693
+        },
+        "rarity_2": {
+            "health": 1267,
+            "attack": 703,
+            "defense": 758,
+            "focus": 927
+        },
+        "rarity_3": {
+            "health": 2261,
+            "attack": 1259,
+            "defense": 1354,
+            "focus": 1658
+        },
+        "rarity_4": {
+            "health": 3453,
+            "attack": 1922,
+            "defense": 2068,
+            "focus": 2532
+        },
+        "rarity_5": {
+            "health": 5384,
+            "attack": 2978,
+            "defense": 3216,
+            "focus": 3931
+        },
+        "astral_1": {
+            "health": 5384,
+            "attack": 2978,
+            "defense": 3216,
+            "focus": 3931
+        },
+        "astral_2": {
+            "health": 5982,
+            "attack": 3324,
+            "defense": 3580,
+            "focus": 4381
+        },
+        "astral_3": {
+            "health": 6480,
+            "attack": 3589,
+            "defense": 3873,
+            "focus": 4736
+        },
+        "astral_4": {
+            "health": 6979,
+            "attack": 3855,
+            "defense": 4167,
+            "focus": 5091
+        },
+        "astral_5": {
+            "health": 7477,
+            "attack": 4121,
+            "defense": 4461,
+            "focus": 5446
+        },
+        "astral_6": {
+            "health": 7975,
+            "attack": 4387,
+            "defense": 4754,
+            "focus": 5801
+        },
+        "astral_7": {
+            "health": 8224,
+            "attack": 4520,
+            "defense": 4901,
+            "focus": 5979
+        },
+        "astral_8": {
+            "health": 8474,
+            "attack": 4653,
+            "defense": 5048,
+            "focus": 6156
+        },
+        "astral_9": {
+            "health": 8723,
+            "attack": 4786,
+            "defense": 5195,
+            "focus": 6334
+        },
+        "astral_10": {
+            "health": 8972,
+            "attack": 4918,
+            "defense": 5341,
+            "focus": 6511
+        }
+    },
+    "abilities": [
+        {
+            "name": "Heartsbane Toxin",
+            "type": "Core",
+            "info": [
+                "The Evil Queen's Heavy Attack can hit and Push Back all enemies in a wide arc in front of her. The Evil Queen has a 20% chance on Basic Attacks and a 40% chance on Heavy Attacks to inflict her target with Poison, dealing 10% damage per second, for 10 seconds. (Max Stacks: 10)",
+                "When the Evil Queen inflicts a target with Poison, they are also inflicted with a Heartsbane Charge increasing the strength of all Poison damage, from all sources, by 10% each. (Max Stacks: 10)",
+                "The Evil Queen's Basic Attacks deal 50% less damage."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/evilqueen_core.jpg"
+        },
+        {
+            "name": "Heartsbane Harvest",
+            "type": "Special",
+            "info": [
+                "Each enemy is inflicted with Poison, dealing 10% damage per second, for 10 seconds. (Max Stacks: 10)",
+                "All allies Heal 1% each second for 4 seconds. Each Heartsbane Charge on the enemy team adds 0.5% to this value. (Max Stacks: 10)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/evliqueen_special.jpg"
+        },
+        {
+            "name": "Vial Of Living Death",
+            "type": "Signature",
+            "info": [
+                "If an enemy is defeated while inflicted with 1 or more Heartsbane Charges, all enemies have a 100% chance to be inflicted with 1 Heartsbane Charge.",
+                "As long as The Evil Queen is above 50% HP, her Heavy Attack inflicts Poison, dealing 10% damage per second, for 10 seconds. (Max Stacks: 10)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/evilqueen_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Elixir of Constitution",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_evilqueen_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Health at the start of an encounter."
+        },
+        {
+            "name": "Bellowing Dram",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_evilqueen_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Liquid Weakness",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_evilqueen_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "While an enemy is inflicted with Poison and 2 or more Heartsbane Charges, they are inflicted with a -20% Attack Debuff."
+        },
+        {
+            "name": "Repellant Draught",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_evilqueen_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "While an enemy is inflicted with Poison and 3 or more Heartsbane Charges, they are inflicted with a -30% Defense Debuff."
+        },
+        {
+            "name": "Phial of Failure",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_evilqueen_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "While an enemy is inflicted with Poison and 5 or more Heartsbane Charges, they are inflicted with a -50% Dizzy Debuff."
+        },
+        {
+            "name": "Hopeless Cordial",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_evilqueen_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "If an enemy is defeated while inflicted with Poison and 8 or more Heartsbane Charges, all allies are Healed for 5% instantly."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-evilqueen.png"
+}

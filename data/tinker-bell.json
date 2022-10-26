@@ -1,0 +1,173 @@
+{
+    "code_name": "tinker-bell",
+    "name": "Tinker Bell",
+    "catchline": "Fiery pixie avatar",
+    "type": "Ranged",
+    "data": {
+        "rarity_1": {
+            "health": 730,
+            "attack": 709,
+            "defense": 429,
+            "focus": 1155
+        },
+        "rarity_2": {
+            "health": 966,
+            "attack": 945,
+            "defense": 574,
+            "focus": 1511
+        },
+        "rarity_3": {
+            "health": 1727,
+            "attack": 1691,
+            "defense": 1028,
+            "focus": 2697
+        },
+        "rarity_4": {
+            "health": 2637,
+            "attack": 2582,
+            "defense": 1569,
+            "focus": 4120
+        },
+        "rarity_5": {
+            "health": 4101,
+            "attack": 4010,
+            "defense": 2435,
+            "focus": 6418
+        },
+        "astral_1": {
+            "health": 4101,
+            "attack": 4010,
+            "defense": 2435,
+            "focus": 6418
+        },
+        "astral_2": {
+            "health": 4565,
+            "attack": 4468,
+            "defense": 2715,
+            "focus": 7135
+        },
+        "astral_3": {
+            "health": 4939,
+            "attack": 4831,
+            "defense": 2934,
+            "focus": 7727
+        },
+        "astral_4": {
+            "health": 5313,
+            "attack": 5194,
+            "defense": 3154,
+            "focus": 8318
+        },
+        "astral_5": {
+            "health": 5687,
+            "attack": 5557,
+            "defense": 3373,
+            "focus": 8910
+        },
+        "astral_6": {
+            "health": 6062,
+            "attack": 5920,
+            "defense": 3593,
+            "focus": 9502
+        },
+        "astral_7": {
+            "health": 6249,
+            "attack": 6101,
+            "defense": 3703,
+            "focus": 9798
+        },
+        "astral_8": {
+            "health": 6436,
+            "attack": 6282,
+            "defense": 3812,
+            "focus": 10094
+        },
+        "astral_9": {
+            "health": 6623,
+            "attack": 6464,
+            "defense": 3922,
+            "focus": 10390
+        },
+        "astral_10": {
+            "health": 6810,
+            "attack": 6645,
+            "defense": 4032,
+            "focus": 10685
+        }
+    },
+    "abilities": [
+        {
+            "name": "Pixie Dust Orbs",
+            "type": "Core",
+            "info": [
+                "Each time Tinker Bell damages her target with a Basic Attack, she has a 60% chance to gain 1 Pixie Dust. (Max Stacks: 10)",
+                "Tinker Bell's Heavy Attacks guarantee 1 Pixie Dust for each target hit."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/tinkerbell_core.jpg"
+        },
+        {
+            "name": "Supernova",
+            "type": "Special",
+            "info": [
+                "Tinker Bell turns Supernova and gains a 10% Attack Buff for each stack of Pixie Dust.",
+                "Tinker Bell then deals 300% damage plus an instant 300% Burn to enemies in a circle around her, and begins to deplete her Pixie Dust at a rate of 1 per second.",
+                "When Tinker Bell's Pixie Dust is fully depleted, she exits Supernova and her Attack Buffs are removed. Tinker Bell's attacks do not generate Pixie Dust while Supernova."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/tinkerbell_special.jpg"
+        },
+        {
+            "name": "Slow Burn",
+            "type": "Signature",
+            "info": [
+                "Tinker Bell's Pixie Dust lasts for an additional 0.25 seconds before being depleted.",
+                "Tinker Bell gains a 10% Focus Buff for each stack of Pixie Dust she has when Supernova. These Buffs are removed when she exits Supernova."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/tinkerbell_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Spirited Sights",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_tinkerbell_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Fixated Flittering",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_tinkerbell_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Focus at the start of an encounter."
+        },
+        {
+            "name": "Blast Wave",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_tinkerbell_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Whenever Tinker Bell uses her Special Ability, she has a 100% chance to Knock Back enemies in a circle around her."
+        },
+        {
+            "name": "Heat Resistant",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_tinkerbell_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Tinker Bell is Immune to Burn. Whenever Tinker Bell inflicts a Burn, she gains a 30% Focus Buff for 20 seconds. [Max Stacks: 3]"
+        },
+        {
+            "name": "Sparked Ire",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_tinkerbell_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Whenever Tinker Bell uses her Special Ability, enemies in a circle around her are inflicted with a Burn, dealing 30% damage per second, for 5 seconds."
+        },
+        {
+            "name": "Burning Passion",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_tinkerbell_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "While Supernova Tinker Bell's Basic Attacks have a 70% chance to inflict a Burn, dealing 15% damage per second, for 5 seconds. [Max Stacks: 3]"
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-tinker-bell.png"
+}

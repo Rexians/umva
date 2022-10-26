@@ -1,0 +1,172 @@
+{
+    "code_name": "anna",
+    "name": "Anna",
+    "catchline": "Ward of arendelle",
+    "type": "Melee",
+    "data": {
+        "rarity_1": {
+            "health": 803,
+            "attack": 790,
+            "defense": 884,
+            "focus": 610
+        },
+        "rarity_2": {
+            "health": 1063,
+            "attack": 1048,
+            "defense": 1160,
+            "focus": 812
+        },
+        "rarity_3": {
+            "health": 1900,
+            "attack": 1875,
+            "defense": 2072,
+            "focus": 1452
+        },
+        "rarity_4": {
+            "health": 2902,
+            "attack": 2862,
+            "defense": 3164,
+            "focus": 2216
+        },
+        "rarity_5": {
+            "health": 4511,
+            "attack": 4449,
+            "defense": 4927,
+            "focus": 3443
+        },
+        "astral_1": {
+            "health": 4511,
+            "attack": 4449,
+            "defense": 4927,
+            "focus": 3443
+        },
+        "astral_2": {
+            "health": 5023,
+            "attack": 4954,
+            "defense": 5479,
+            "focus": 3835
+        },
+        "astral_3": {
+            "health": 5434,
+            "attack": 5359,
+            "defense": 5932,
+            "focus": 4148
+        },
+        "astral_4": {
+            "health": 5845,
+            "attack": 5764,
+            "defense": 6385,
+            "focus": 4460
+        },
+        "astral_5": {
+            "health": 6256,
+            "attack": 6169,
+            "defense": 6837,
+            "focus": 4772
+        },
+        "astral_6": {
+            "health": 6667,
+            "attack": 6574,
+            "defense": 7290,
+            "focus": 5085
+        },
+        "astral_7": {
+            "health": 6873,
+            "attack": 6776,
+            "defense": 7516,
+            "focus": 5241
+        },
+        "astral_8": {
+            "health": 7078,
+            "attack": 6979,
+            "defense": 7743,
+            "focus": 5397
+        },
+        "astral_9": {
+            "health": 7284,
+            "attack": 7181,
+            "defense": 7969,
+            "focus": 5553
+        },
+        "astral_10": {
+            "health": 7489,
+            "attack": 7383,
+            "defense": 8195,
+            "focus": 5709
+        }
+    },
+    "abilities": [
+        {
+            "name": "Elemental Empowerment",
+            "type": "Core",
+            "info": [
+                "Anna's Basic Attacks have a 25% chance to inflict her target with a Burn, Shock, Wound, or Freeze that deals 3% damage per second, for 6 seconds.",
+                "When Anna uses a Heavy Attack, she gains a 5% Attack Buff for each Burn, Shock, Wound, or Freeze on enemies that lasts for 15 seconds. (Max Stacks: 20)",
+                "While holding a Heavy Attack, Anna cannot be Knocked Back by enemy Heavy Attacks and gains a 30% Defense Buff."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/ability_anna_core.jpg"
+        },
+        {
+            "name": "Elemental Surge",
+            "type": "Special",
+            "info": [
+                "Anna Knocks Back all enemies in a circle around her, then deals 400% damage to each enemy hit.",
+                "Anna has a 60% chance per type to inflict each enemy hit with a Burn, Shock, Wound, or Freeze dealing 6% damage per second, for 6 seconds."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/ability_anna_special.jpg"
+        },
+        {
+            "name": "Relay Strength",
+            "type": "Signature",
+            "info": [
+                "Anna Resists 50% of all Burn, Shock, Wound, and Freeze damage. Each time Anna is inflicted with one of these effects, Anna's own damage of that type is increased by an additional 1%, up to 5%."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/ability_anna_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Sword of Arendelle",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_anna_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Shield of Arendelle",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_anna_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Defense at the start of an encounter."
+        },
+        {
+            "name": "Lasting Guard Stance",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_anna_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Once per Heavy hold if hit by an enemy, Anna has a 70% chance to gain an Indestructible Buff that lasts for 3 seconds."
+        },
+        {
+            "name": "Elemental Ward",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_anna_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Anna\u2019s Basic, Heavy, and Special Ability attacks deal an additional 100% damage to Titanborn. Anna Resists 30% of all Titanborn damage."
+        },
+        {
+            "name": "Controlled Strikes",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_anna_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Anna's chance to inflict Damaging Debuffs with her Core Ability is increased by an additional 10%. The Attack Buff Anna gains from her Core Ability is increased by an additional 5%."
+        },
+        {
+            "name": "Reinforced Resilience",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_anna_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Anna gains 6% Armor when she's inflicted with Burn, Shock, Wound, or Freeze. If Anna's target is Immune to those effects when she inflicts them, she also gains Armor."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-anna.png"
+}

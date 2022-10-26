@@ -1,0 +1,172 @@
+{
+    "code_name": "goofy",
+    "name": "Goofy",
+    "catchline": "Stellar-powered walking disaster",
+    "type": "Ranged",
+    "data": {
+        "rarity_1": {
+            "health": 584,
+            "attack": 693,
+            "defense": 413,
+            "focus": 1368
+        },
+        "rarity_2": {
+            "health": 791,
+            "attack": 927,
+            "defense": 556,
+            "focus": 1767
+        },
+        "rarity_3": {
+            "health": 1417,
+            "attack": 1659,
+            "defense": 996,
+            "focus": 3148
+        },
+        "rarity_4": {
+            "health": 2163,
+            "attack": 2532,
+            "defense": 1520,
+            "focus": 4809
+        },
+        "rarity_5": {
+            "health": 3351,
+            "attack": 3931,
+            "defense": 2358,
+            "focus": 7508
+        },
+        "astral_1": {
+            "health": 3351,
+            "attack": 3931,
+            "defense": 2358,
+            "focus": 7508
+        },
+        "astral_2": {
+            "health": 3740,
+            "attack": 4381,
+            "defense": 2630,
+            "focus": 8334
+        },
+        "astral_3": {
+            "health": 4039,
+            "attack": 4736,
+            "defense": 2842,
+            "focus": 9035
+        },
+        "astral_4": {
+            "health": 4339,
+            "attack": 5092,
+            "defense": 3054,
+            "focus": 9736
+        },
+        "astral_5": {
+            "health": 4638,
+            "attack": 5447,
+            "defense": 3266,
+            "focus": 10436
+        },
+        "astral_6": {
+            "health": 4937,
+            "attack": 5802,
+            "defense": 3477,
+            "focus": 11137
+        },
+        "astral_7": {
+            "health": 5086,
+            "attack": 5979,
+            "defense": 3583,
+            "focus": 11488
+        },
+        "astral_8": {
+            "health": 5236,
+            "attack": 6157,
+            "defense": 3689,
+            "focus": 11838
+        },
+        "astral_9": {
+            "health": 5386,
+            "attack": 6334,
+            "defense": 3795,
+            "focus": 12188
+        },
+        "astral_10": {
+            "health": 5535,
+            "attack": 6512,
+            "defense": 3901,
+            "focus": 12539
+        }
+    },
+    "abilities": [
+        {
+            "name": "Bombs Away",
+            "type": "Core",
+            "info": [
+                "Basic Critical Hits inflict the enemy target with Armor Block for 10 seconds.",
+                "Each time Goofy makes a Heavy Attack, he has a 20% chance to gain a 25% Critical Chance Buff for 2 seconds. (Max Stacks: 1)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/goofy_core.jpg"
+        },
+        {
+            "name": "Boomerang Blast",
+            "type": "Special",
+            "info": [
+                "Goofy's Boomerang deals 300% damage to the enemy target, then ricochets to hit a different enemy for the same amount of damage. (Max Ricochets: 2)",
+                "If the target is Armor Blocked, Goofy's Boomerang deals an additional 200% damage."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/goofy_special.jpg"
+        },
+        {
+            "name": "Impossible Luck",
+            "type": "Signature",
+            "info": [
+                "On basic Critical Hits, Goofy\u2019s (Max Ricochet) stack for his Special increases by 1. (Max Ricochets: 7)",
+                "Goofy's Special Ability has a 50% chance to Stun enemy targets for 3 seconds on each hit."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/goofy_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Clear Mind",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_goofy_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Focus at the start of an encounter."
+        },
+        {
+            "name": "Confident Approach",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_goofy_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Boomerang Bash",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_goofy_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Goofy's Special Ability has a 50% chance to Purge all Defense Buffs from enemy targets on each hit."
+        },
+        {
+            "name": "Explosive Results",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_goofy_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "On basic Critical Hits, Goofy inflicts a Wound, dealing 50% damage per second for 3 seconds. [Max Stacks: 2]"
+        },
+        {
+            "name": "Chaotic Criticals",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_goofy_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Critical Hits additionally remove -50% Armor."
+        },
+        {
+            "name": "Reinforced Ricochets",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_goofy_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Damage from Goofy's Special Ability is increased by an additional 100%."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-goofy.png"
+}

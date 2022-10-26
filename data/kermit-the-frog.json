@@ -1,0 +1,171 @@
+{
+    "code_name": "kermit-the-frog",
+    "name": "Kermit the Frog",
+    "catchline": "Singing swamp king",
+    "type": "Melee",
+    "data": {
+        "rarity_1": {
+            "health": 819,
+            "attack": 794,
+            "defense": 771,
+            "focus": 623
+        },
+        "rarity_2": {
+            "health": 1083,
+            "attack": 1053,
+            "defense": 1025,
+            "focus": 827
+        },
+        "rarity_3": {
+            "health": 1935,
+            "attack": 1883,
+            "defense": 1834,
+            "focus": 1479
+        },
+        "rarity_4": {
+            "health": 2954,
+            "attack": 2875,
+            "defense": 2799,
+            "focus": 2258
+        },
+        "rarity_5": {
+            "health": 4594,
+            "attack": 4470,
+            "defense": 4350,
+            "focus": 3509
+        },
+        "astral_1": {
+            "health": 4594,
+            "attack": 4470,
+            "defense": 4350,
+            "focus": 3509
+        },
+        "astral_2": {
+            "health": 5114,
+            "attack": 4977,
+            "defense": 4845,
+            "focus": 3908
+        },
+        "astral_3": {
+            "health": 5533,
+            "attack": 5384,
+            "defense": 5240,
+            "focus": 4227
+        },
+        "astral_4": {
+            "health": 5953,
+            "attack": 5791,
+            "defense": 5635,
+            "focus": 4546
+        },
+        "astral_5": {
+            "health": 6372,
+            "attack": 6198,
+            "defense": 6030,
+            "focus": 4865
+        },
+        "astral_6": {
+            "health": 6792,
+            "attack": 6605,
+            "defense": 6425,
+            "focus": 5184
+        },
+        "astral_7": {
+            "health": 7001,
+            "attack": 6808,
+            "defense": 6622,
+            "focus": 5344
+        },
+        "astral_8": {
+            "health": 7211,
+            "attack": 7012,
+            "defense": 6820,
+            "focus": 5503
+        },
+        "astral_9": {
+            "health": 7421,
+            "attack": 7215,
+            "defense": 7017,
+            "focus": 5663
+        },
+        "astral_10": {
+            "health": 7631,
+            "attack": 7419,
+            "defense": 7215,
+            "focus": 5822
+        }
+    },
+    "abilities": [
+        {
+            "name": "Rainbow Connection",
+            "type": "Core",
+            "info": [
+                "When Kermit hits his target with a Heavy Attack, he creates a Rainbow Connection between him and his allies which grants 25% Attack and lasts for 8 seconds, or until Kermit is Stunned. When removed by a Stun, the Rainbow Connection has 10 second cooldown."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/kermit_core.jpg"
+        },
+        {
+            "name": "Swamp Song",
+            "type": "Special",
+            "info": [
+                "Kermit grants allies a 2% Swamp Song Buff for 8 seconds and refreshes the Rainbow Connection's timer.",
+                "Kermit then deals 400% damage to his current target and inflicts Knock Back."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/kermit_special.jpg"
+        },
+        {
+            "name": "Inspiring Valor",
+            "type": "Signature",
+            "info": [
+                "Kermit's Rainbow Connection grants an additional 25% Attack.",
+                "While the Rainbow Connection is active, non-controlled Guardians deal Basic Attacks 50% faster."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/kermit_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Song of Vigor",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_kermit_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Song of Vitality",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_kermit_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Health at the start of an encounter."
+        },
+        {
+            "name": "Dazing Solo",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_kermit_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "When Kermit uses his Special Ability while the Rainbow Connection is active, he has a 100% chance to Stun enemies in a small area around him for 2 seconds."
+        },
+        {
+            "name": "Battle Ballad",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_kermit_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "While the Rainbow Connection is active, Kermit's Basic Attacks have a 25% chance to grant a 5% Attack Buff that lasts for 10 seconds to all allies. [Max Stacks: 5]"
+        },
+        {
+            "name": "Encore!",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_kermit_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Kermit's Special Ability deals an additional 100% damage to his target for every other ally with a Rainbow Connection."
+        },
+        {
+            "name": "It Ain't Easy Being Green",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_kermit_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Kermit's Swamp Song Buff is increased by an additional 1%. Healing granted by other allies is 10% stronger while they have a Rainbow Connection."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-featured-kermit.png"
+}

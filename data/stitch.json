@@ -1,0 +1,173 @@
+{
+    "code_name": "stitch",
+    "name": "Stitch",
+    "catchline": "Intermolecular galactic force",
+    "type": "Melee",
+    "data": {
+        "rarity_1": {
+            "health": 811,
+            "attack": 819,
+            "defense": 827,
+            "focus": 551
+        },
+        "rarity_2": {
+            "health": 1073,
+            "attack": 1083,
+            "defense": 1092,
+            "focus": 741
+        },
+        "rarity_3": {
+            "health": 1917,
+            "attack": 1935,
+            "defense": 1952,
+            "focus": 1327
+        },
+        "rarity_4": {
+            "health": 2928,
+            "attack": 2954,
+            "defense": 2980,
+            "focus": 2025
+        },
+        "rarity_5": {
+            "health": 4553,
+            "attack": 4594,
+            "defense": 4636,
+            "focus": 3141
+        },
+        "astral_1": {
+            "health": 4553,
+            "attack": 4594,
+            "defense": 4636,
+            "focus": 3141
+        },
+        "astral_2": {
+            "health": 5068,
+            "attack": 5114,
+            "defense": 5160,
+            "focus": 3503
+        },
+        "astral_3": {
+            "health": 5484,
+            "attack": 5533,
+            "defense": 5583,
+            "focus": 3785
+        },
+        "astral_4": {
+            "health": 5899,
+            "attack": 5953,
+            "defense": 6007,
+            "focus": 4067
+        },
+        "astral_5": {
+            "health": 6314,
+            "attack": 6372,
+            "defense": 6430,
+            "focus": 4349
+        },
+        "astral_6": {
+            "health": 6729,
+            "attack": 6792,
+            "defense": 6854,
+            "focus": 4631
+        },
+        "astral_7": {
+            "health": 6937,
+            "attack": 7001,
+            "defense": 7066,
+            "focus": 4772
+        },
+        "astral_8": {
+            "health": 7145,
+            "attack": 7211,
+            "defense": 7278,
+            "focus": 4913
+        },
+        "astral_9": {
+            "health": 7352,
+            "attack": 7421,
+            "defense": 7489,
+            "focus": 5054
+        },
+        "astral_10": {
+            "health": 7560,
+            "attack": 7631,
+            "defense": 7701,
+            "focus": 5195
+        }
+    },
+    "abilities": [
+        {
+            "name": "Metallic Stitch",
+            "type": "Core",
+            "info": [
+                "Stitch can use a Heavy Attack to change between his regular and Metallic forms.",
+                "While Metallic, Stitch has a 25% Defense Buff and is Immune to Wound and Stun."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/stitch_core_ability.jpg"
+        },
+        {
+            "name": "Superheated Stitch",
+            "type": "Special",
+            "info": [
+                "Stitch becomes Superheated, gaining a 25% Attack Buff and Immunity to Burn. Additionally, if Stitch was Metallic upon activation he keeps the Defense Buff from that form.",
+                "Stitch then Heal Blocks his target for 12 seconds, deals 400% damage, and inflicts Knock Back.",
+                "Stitch will remain Superheated as long as he keeps hitting an enemy at least once every 3 seconds."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/stitch_special.jpg"
+        },
+        {
+            "name": "Molten Stitch",
+            "type": "Signature",
+            "info": [
+                "The Attack Buff Stitch has while Superheated is increased by an additional 50%.",
+                "If Stitch stays Superheated for 6 seconds he becomes Molten, keeping the abilities from Superheated and dealing an instant 15% Burn when attacking. Stitch will remain Molten as long as he keeps hitting an enemy at least once every 3 seconds."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/stitch_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Sharp Scratch",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_stitch_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Thick Hide",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_stitch_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Defense at the start of an encounter."
+        },
+        {
+            "name": "Tempered Metal",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_stitch_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Stitch gains 10% Armor when he triggers his Special Ability."
+        },
+        {
+            "name": "Combustion",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_stitch_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Stitch deals an additional 200% damage to his target with his Special Ability."
+        },
+        {
+            "name": "Metal Quills",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_stitch_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "The Defense Buff Stitch has while Metallic is increased by an additional 15%. While Metallic, if Stitch is hit by an attack from a Melee or Tank enemy, he has a 70% chance to automatically deal 100% damage to them."
+        },
+        {
+            "name": "Controlled Chaos",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_stitch_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Stitch's Special Ability cooldown is reduced by 6 second(s)."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-stitch.png"
+}

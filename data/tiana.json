@@ -1,0 +1,172 @@
+{
+    "code_name": "tiana",
+    "name": "Tiana",
+    "catchline": "Luminous alchemist",
+    "type": "Support",
+    "data": {
+        "rarity_1": {
+            "health": 892,
+            "attack": 584,
+            "defense": 596,
+            "focus": 809
+        },
+        "rarity_2": {
+            "health": 1170,
+            "attack": 780,
+            "defense": 785,
+            "focus": 1065
+        },
+        "rarity_3": {
+            "health": 2089,
+            "attack": 1397,
+            "defense": 1402,
+            "focus": 1903
+        },
+        "rarity_4": {
+            "health": 3191,
+            "attack": 2132,
+            "defense": 2141,
+            "focus": 2906
+        },
+        "rarity_5": {
+            "health": 4968,
+            "attack": 3310,
+            "defense": 3332,
+            "focus": 4523
+        },
+        "astral_1": {
+            "health": 4968,
+            "attack": 3310,
+            "defense": 3332,
+            "focus": 4523
+        },
+        "astral_2": {
+            "health": 5525,
+            "attack": 3689,
+            "defense": 3708,
+            "focus": 5032
+        },
+        "astral_3": {
+            "health": 5982,
+            "attack": 3988,
+            "defense": 4013,
+            "focus": 5446
+        },
+        "astral_4": {
+            "health": 6439,
+            "attack": 4287,
+            "defense": 4318,
+            "focus": 5860
+        },
+        "astral_5": {
+            "health": 6896,
+            "attack": 4586,
+            "defense": 4623,
+            "focus": 6275
+        },
+        "astral_6": {
+            "health": 7352,
+            "attack": 4885,
+            "defense": 4929,
+            "focus": 6689
+        },
+        "astral_7": {
+            "health": 7581,
+            "attack": 5035,
+            "defense": 5081,
+            "focus": 6896
+        },
+        "astral_8": {
+            "health": 7809,
+            "attack": 5184,
+            "defense": 5234,
+            "focus": 7103
+        },
+        "astral_9": {
+            "health": 8038,
+            "attack": 5334,
+            "defense": 5386,
+            "focus": 7310
+        },
+        "astral_10": {
+            "health": 8266,
+            "attack": 5483,
+            "defense": 5539,
+            "focus": 7517
+        }
+    },
+    "abilities": [
+        {
+            "name": "Cleansing Fireflies",
+            "type": "Core",
+            "info": [
+                "Launching Tiana\u2019s Heavy Attack has a 50% chance to gain a Cleanse Buff, automatically removing itself to Cleanse the next Damaging Debuff or Stun that activates. (Max Stacks: 3)",
+                "Each time Tiana or an ally Cleanses any Debuff, Tiana gains a 10% Attack Buff for 10 seconds. (Max Stacks: 3)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/tiana_core.jpg"
+        },
+        {
+            "name": "The Main Course",
+            "type": "Special",
+            "info": [
+                "Tiana throws a potion at her ally, with the lowest HP percentage, dealing 100% damage and Knocking Back enemies in a small area around the target.",
+                "Tiana Heals 10% HP to all allies and grants 1 Cleanse Buff(s)."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/tiana_special.jpg"
+        },
+        {
+            "name": "Picante Potions",
+            "type": "Signature",
+            "info": [
+                "Tiana\u2019s Heavy Attack has a 25% chance to inflict a Burn dealing 25% damage per second for 4 seconds. (Max Stacks: 1)",
+                "Enemies hit with Tiana\u2019s Special Ability have a 50% chance to be inflicted with a Burn dealing 75% damage per second for 4 seconds. (Max Stacks: 1)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/tiana_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Iron Stomach",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_tiana_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Health at the start of an encounter."
+        },
+        {
+            "name": "Knife Edge",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_tiana_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Gastronomic Gusto",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_tiana_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Attack Buffs from Tiana\u2019s Core Ability are 100% stronger."
+        },
+        {
+            "name": "Hearty Gumbo",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_tiana_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Tiana Heals all allies within range of her Special Ability an additional 4% HP per second for 3 seconds."
+        },
+        {
+            "name": "Firefly Sight",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_tiana_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Each Cleanse Buff on Tiana also grants her 20% Critical Damage."
+        },
+        {
+            "name": "Full Belly",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_tiana_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Each time Tiana or her allies would gain a Cleanse Buff from Tiana\u2019s Special Ability but cannot due to the Max Stacks, for each excess Cleanse Buff Tiana instead grants all allies a 10% Attack Buff for 10 seconds."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-tiana.png"
+}

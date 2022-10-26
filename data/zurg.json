@@ -1,0 +1,173 @@
+{
+    "code_name": "zurg",
+    "name": "Zurg",
+    "catchline": "Tyrant of the timelines",
+    "type": "Ranged",
+    "data": {
+        "rarity_1": {
+            "health": 766,
+            "attack": 731,
+            "defense": 560,
+            "focus": 964
+        },
+        "rarity_2": {
+            "health": 1009,
+            "attack": 972,
+            "defense": 732,
+            "focus": 1281
+        },
+        "rarity_3": {
+            "health": 1803,
+            "attack": 1738,
+            "defense": 1307,
+            "focus": 2292
+        },
+        "rarity_4": {
+            "health": 2753,
+            "attack": 2654,
+            "defense": 1996,
+            "focus": 3499
+        },
+        "rarity_5": {
+            "health": 4283,
+            "attack": 4124,
+            "defense": 3111,
+            "focus": 5437
+        },
+        "astral_1": {
+            "health": 4283,
+            "attack": 4124,
+            "defense": 3111,
+            "focus": 5437
+        },
+        "astral_2": {
+            "health": 4766,
+            "attack": 4593,
+            "defense": 3458,
+            "focus": 6055
+        },
+        "astral_3": {
+            "health": 5158,
+            "attack": 4968,
+            "defense": 3745,
+            "focus": 6549
+        },
+        "astral_4": {
+            "health": 5550,
+            "attack": 5342,
+            "defense": 4032,
+            "focus": 7043
+        },
+        "astral_5": {
+            "health": 5943,
+            "attack": 5717,
+            "defense": 4319,
+            "focus": 7537
+        },
+        "astral_6": {
+            "health": 6335,
+            "attack": 6091,
+            "defense": 4606,
+            "focus": 8030
+        },
+        "astral_7": {
+            "health": 6531,
+            "attack": 6278,
+            "defense": 4749,
+            "focus": 8277
+        },
+        "astral_8": {
+            "health": 6727,
+            "attack": 6466,
+            "defense": 4893,
+            "focus": 8524
+        },
+        "astral_9": {
+            "health": 6924,
+            "attack": 6653,
+            "defense": 5036,
+            "focus": 8771
+        },
+        "astral_10": {
+            "health": 7120,
+            "attack": 6840,
+            "defense": 5180,
+            "focus": 9018
+        }
+    },
+    "abilities": [
+        {
+            "name": "Rapid Fire Disruptors",
+            "type": "Core",
+            "info": [
+                "While holding Heavy Attack Zurg enters Rapid Fire Mode, automatically using Basic Attacks twice as fast as usual.",
+                "While in Rapid Fire Mode Zurg gains a 25% Defense Buff. (Max Stacks: 1)",
+                "Each second Zurg stays in Rapid Fire Mode he gains a 20% Focus Buff that each last for as long as he is in the mode. (Max Stacks: 3)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/zurg_core.jpg"
+        },
+        {
+            "name": "Temporal Singularity",
+            "type": "Special",
+            "info": [
+                "Zurg deals 200% damage in a small circle around his current target.",
+                "Zurg inflicts Shock dealing 40% Damage per second for 5 seconds."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/zurg_special.jpg"
+        },
+        {
+            "name": "Tyrant'S Grip",
+            "type": "Signature",
+            "info": [
+                "Zurg's Special Ability deals an additional 300% damage.",
+                "Zurg's Special Ability Roots all hit enemies for 8 seconds. (Max Stacks: 1)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/zurg_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Alien Alloy",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_zurg_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Defense at the start of an encounter."
+        },
+        {
+            "name": "Sinister Sensors",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_zurg_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Focus at the start of the encounter."
+        },
+        {
+            "name": "Reactive Armor",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_zurg_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Zurg gains 20% Armor when knocked out of Rapid Fire Mode by a Knock Back from an enemy."
+        },
+        {
+            "name": "Tech Absorption",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_zurg_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Zurg's Special Ability Purges 1 Defense Buff or Damage Resist Buff from the target. Zurg gains a permanent 30% Defense Buff if a Buff is successfully Purged this way. [Max Stacks: 10]"
+        },
+        {
+            "name": "Armor Syphon",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_zurg_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Zurg's attacks while in Rapid Fire Mode inflict 50% Armor Steal."
+        },
+        {
+            "name": "Electro-Disruption",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_zurg_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Zurg's Critical Hits while in Rapid Fire Mode inflict Shock dealing 30% Damage each second for 5 seconds. [Max Stacks: 3]"
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-zurg.png"
+}

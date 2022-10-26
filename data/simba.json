@@ -1,0 +1,173 @@
+{
+    "code_name": "simba",
+    "name": "Simba",
+    "catchline": "Peaceful radiant protector",
+    "type": "Tank",
+    "data": {
+        "rarity_1": {
+            "health": 1267,
+            "attack": 659,
+            "defense": 1155,
+            "focus": 263
+        },
+        "rarity_2": {
+            "health": 1645,
+            "attack": 874,
+            "defense": 1511,
+            "focus": 366
+        },
+        "rarity_3": {
+            "health": 2934,
+            "attack": 1563,
+            "defense": 2697,
+            "focus": 658
+        },
+        "rarity_4": {
+            "health": 4481,
+            "attack": 2386,
+            "defense": 4120,
+            "focus": 1004
+        },
+        "rarity_5": {
+            "health": 6989,
+            "attack": 3710,
+            "defense": 6418,
+            "focus": 1550
+        },
+        "astral_1": {
+            "health": 6989,
+            "attack": 3710,
+            "defense": 6418,
+            "focus": 1550
+        },
+        "astral_2": {
+            "health": 7763,
+            "attack": 4131,
+            "defense": 7135,
+            "focus": 1735
+        },
+        "astral_3": {
+            "health": 8412,
+            "attack": 4469,
+            "defense": 7727,
+            "focus": 1870
+        },
+        "astral_4": {
+            "health": 9061,
+            "attack": 4806,
+            "defense": 8318,
+            "focus": 2005
+        },
+        "astral_5": {
+            "health": 9710,
+            "attack": 5144,
+            "defense": 8910,
+            "focus": 2140
+        },
+        "astral_6": {
+            "health": 10358,
+            "attack": 5482,
+            "defense": 9502,
+            "focus": 2275
+        },
+        "astral_7": {
+            "health": 10683,
+            "attack": 5651,
+            "defense": 9798,
+            "focus": 2342
+        },
+        "astral_8": {
+            "health": 11007,
+            "attack": 5820,
+            "defense": 10094,
+            "focus": 2410
+        },
+        "astral_9": {
+            "health": 11332,
+            "attack": 5989,
+            "defense": 10390,
+            "focus": 2477
+        },
+        "astral_10": {
+            "health": 11656,
+            "attack": 6158,
+            "defense": 10685,
+            "focus": 2544
+        }
+    },
+    "abilities": [
+        {
+            "name": "Kingly Command",
+            "type": "Core",
+            "info": [
+                "Immune to Stun.",
+                "Simba Resists 30% Basic and Heavy Attack damage from Melee and Tank enemies."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/simba_core.jpg"
+        },
+        {
+            "name": "Enthralling Flare",
+            "type": "Special",
+            "info": [
+                "Simba deals 400% damage to enemies in front of him, then gains an Indestructible Buff and Lures all enemies for 5 seconds.",
+                "While Simba's Lure is active, he's Immune to Knock Back, except from Special Abilities, and gains 15% Armor when hit by a Heavy Attack or Special Ability from a Melee or Tank enemy.",
+                "When his Lure expires, Simba Knocks Back all enemies in a circle around him."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/simba_special.jpg"
+        },
+        {
+            "name": "Strengthening Rays",
+            "type": "Signature",
+            "info": [
+                "Simba deals 200% damage to enemies Knocked Back by his Special Ability.",
+                "When hit by a Melee or Tank enemy while Lure is active, Simba gains a 20% Attack Buff that lasts for 6 seconds. (Max Stacks: 3)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/simba_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Luminous Hide",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_simba_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Defense at the start of an encounter."
+        },
+        {
+            "name": "Bright Strike",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_simba_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Radiant Diversion",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_simba_6.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "When an enemy is attacking Simba, other allies' Basic and Heavy Attacks deal an additional 50% damage to that target."
+        },
+        {
+            "name": "Solar Shielding",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_simba_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Simba gains 15% Armor at the start of the encounter. The amount of Armor Simba gains from his Special Ability is increased by an additional 10%."
+        },
+        {
+            "name": "Blinding Lights",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_simba_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "When Simba\u2019s Lure expires, Melee and Tank enemies adjacent to Simba are inflicted with a -50% Dizzy Debuff for 8 seconds if they do not already have a Dizzy Debuff, reducing their chance of hitting other allies."
+        },
+        {
+            "name": "Alluring Vanguard",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_simba_4.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Each time Simba is hit by an attack from a Melee or Tank enemy while his Lure is active, other allies gain 10% Armor."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-simba.png"
+}

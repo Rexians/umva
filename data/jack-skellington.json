@@ -1,0 +1,173 @@
+{
+    "code_name": "jack-skellington",
+    "name": "Jack Skellington",
+    "catchline": "Inventor of holiday spirit",
+    "type": "Support",
+    "data": {
+        "rarity_1": {
+            "health": 892,
+            "attack": 713,
+            "defense": 499,
+            "focus": 678
+        },
+        "rarity_2": {
+            "health": 1170,
+            "attack": 936,
+            "defense": 669,
+            "focus": 908
+        },
+        "rarity_3": {
+            "health": 2089,
+            "attack": 1671,
+            "defense": 1198,
+            "focus": 1626
+        },
+        "rarity_4": {
+            "health": 3191,
+            "attack": 2552,
+            "defense": 1829,
+            "focus": 2482
+        },
+        "rarity_5": {
+            "health": 4968,
+            "attack": 3975,
+            "defense": 2838,
+            "focus": 3852
+        },
+        "astral_1": {
+            "health": 4968,
+            "attack": 3975,
+            "defense": 2838,
+            "focus": 3852
+        },
+        "astral_2": {
+            "health": 5525,
+            "attack": 4420,
+            "defense": 3164,
+            "focus": 4294
+        },
+        "astral_3": {
+            "health": 5982,
+            "attack": 4786,
+            "defense": 3420,
+            "focus": 4641
+        },
+        "astral_4": {
+            "health": 6439,
+            "attack": 5151,
+            "defense": 3676,
+            "focus": 4988
+        },
+        "astral_5": {
+            "health": 6896,
+            "attack": 5516,
+            "defense": 3931,
+            "focus": 5336
+        },
+        "astral_6": {
+            "health": 7352,
+            "attack": 5882,
+            "defense": 4187,
+            "focus": 5683
+        },
+        "astral_7": {
+            "health": 7581,
+            "attack": 6065,
+            "defense": 4315,
+            "focus": 5856
+        },
+        "astral_8": {
+            "health": 7809,
+            "attack": 6247,
+            "defense": 4443,
+            "focus": 6030
+        },
+        "astral_9": {
+            "health": 8038,
+            "attack": 6430,
+            "defense": 4571,
+            "focus": 6204
+        },
+        "astral_10": {
+            "health": 8266,
+            "attack": 6613,
+            "defense": 4699,
+            "focus": 6377
+        }
+    },
+    "abilities": [
+        {
+            "name": "Stocking Stuffers",
+            "type": "Core",
+            "info": [
+                "Jack\u2019s Heavy Attack Purges one Attribute Buff from its target.",
+                "Whenever any ally Purges a Buff from an enemy, Jack Heals 2.5% and grants all allies a 10% Attack Buff for 10 seconds. (Max Stacks: 3)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/jackskellington_core.jpg"
+        },
+        {
+            "name": "Tricks And Treats",
+            "type": "Special",
+            "info": [
+                "All allies gain a 10% Attack Buff until the end of the encounter. (Max Stacks: 5)",
+                "All other allies Heal 2.5% per second for 5 seconds.",
+                "All enemies are inflicted with a -10% Defense Debuff until the end of combat. (Max Stacks: 5)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/jackskellington_special.jpg"
+        },
+        {
+            "name": "Holiday Spirit",
+            "type": "Signature",
+            "info": [
+                "At the start of combat, each enemy gains a Trick Buff that lasts until the end of combat. Trick Buffs are treated as a 0% Attack Buff. (Max Stacks: 1)",
+                "Whenever Jack Purges an Attribute Buff, he deals an additional 200% damage to that target."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/jackskellington_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Festive Fortitude",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_jackskellington_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Health at the start of an encounter."
+        },
+        {
+            "name": "Inventive Improvements",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_jackskellington_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "The Naughty List",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_jackskellington_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Whenever Jack Purges an Attribute Buff from an enemy, that enemy is inflicted with a -30% Defense Debuff until the end of combat. [Max Stacks: 1]"
+        },
+        {
+            "name": "The Nice List",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_jackskellington_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "At the start of an encounter, all allies gain a 30% Attack Buff that lasts until the end of the encounter. [Max Stacks: 1]"
+        },
+        {
+            "name": "Restorative Moonlight",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_jackskellington_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Whenever Jack Purges an Attribute Buff from an enemy, all other allies have a 100% chance to Heal 2.5%."
+        },
+        {
+            "name": "The Perfect Gift",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_jackskellington_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Attack Buffs and Heals from Jack\u2019s Core and Special Abilities are 50% stronger. Whenever Jack uses his Special Ability, he has a 50% chance to Heal 2.5% per second for 5 seconds."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-jackskellington.png"
+}

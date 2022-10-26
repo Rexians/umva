@@ -1,0 +1,172 @@
+{
+    "code_name": "ursula",
+    "name": "Ursula",
+    "catchline": "Mistress of the darkest depths",
+    "type": "Tank",
+    "data": {
+        "rarity_1": {
+            "health": 912,
+            "attack": 673,
+            "defense": 1216,
+            "focus": 405
+        },
+        "rarity_2": {
+            "health": 1219,
+            "attack": 890,
+            "defense": 1584,
+            "focus": 536
+        },
+        "rarity_3": {
+            "health": 2182,
+            "attack": 1592,
+            "defense": 2826,
+            "focus": 959
+        },
+        "rarity_4": {
+            "health": 3331,
+            "attack": 2430,
+            "defense": 4317,
+            "focus": 1464
+        },
+        "rarity_5": {
+            "health": 5172,
+            "attack": 3779,
+            "defense": 6729,
+            "focus": 2276
+        },
+        "astral_1": {
+            "health": 5172,
+            "attack": 3779,
+            "defense": 6729,
+            "focus": 2276
+        },
+        "astral_2": {
+            "health": 5764,
+            "attack": 4207,
+            "defense": 7477,
+            "focus": 2534
+        },
+        "astral_3": {
+            "health": 6231,
+            "attack": 4551,
+            "defense": 8100,
+            "focus": 2742
+        },
+        "astral_4": {
+            "health": 6699,
+            "attack": 4896,
+            "defense": 8723,
+            "focus": 2949
+        },
+        "astral_5": {
+            "health": 7166,
+            "attack": 5241,
+            "defense": 9346,
+            "focus": 3157
+        },
+        "astral_6": {
+            "health": 7633,
+            "attack": 5585,
+            "defense": 9969,
+            "focus": 3365
+        },
+        "astral_7": {
+            "health": 7867,
+            "attack": 5758,
+            "defense": 10281,
+            "focus": 3469
+        },
+        "astral_8": {
+            "health": 8100,
+            "attack": 5930,
+            "defense": 10592,
+            "focus": 3572
+        },
+        "astral_9": {
+            "health": 8334,
+            "attack": 6102,
+            "defense": 10904,
+            "focus": 3676
+        },
+        "astral_10": {
+            "health": 8567,
+            "attack": 6275,
+            "defense": 11215,
+            "focus": 3780
+        }
+    },
+    "abilities": [
+        {
+            "name": "Disarming Presence",
+            "type": "Core",
+            "info": [
+                "During combat, any enemy Ursula engages is inflicted with a -2.5% Attack Debuff every 1 second(s). These Debuffs are removed if Ursula switches or moves away from her current target. (Max Stacks: 8)",
+                "When a character inflicted with Ursula's Binding Contract activates their Special Ability, Ursula gains a 10% Defense Buff. This activation does not need to be successful. (Max Stacks: 10)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/ursula_core.jpg"
+        },
+        {
+            "name": "Binding Contract",
+            "type": "Special",
+            "info": [
+                "Deals 400% damage to Ursula's current target.",
+                "Ursula's target is inflicted with a Binding Contract for the remainder of the encounter, or until Ursula is defeated.",
+                "Target is Rooted for 5 seconds."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/ursula_special.jpg"
+        },
+        {
+            "name": "Contract Fulfillment",
+            "type": "Signature",
+            "info": [
+                "Whenever an enemy inflicted with a Binding Contract is defeated, Ursula gains 100% Armor."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/ursula_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Defensive Presence",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_ursula_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Defense at the start of an encounter."
+        },
+        {
+            "name": "Contractual Obligation",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_ursula_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Health at the start of an encounter."
+        },
+        {
+            "name": "Fine Print",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_ursula_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Any enemy inflicted with Ursula\u2019s Binding Contract now has a 50% chance to grant Ursula a 10% Defense Buff when they deal damage to her. [Max Stacks: 10]"
+        },
+        {
+            "name": "Parasitic Clause",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_ursula_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "If Ursula hits an enemy that's inflicted with her Core Ability, she has a 20% chance to Heal herself for 5% HP."
+        },
+        {
+            "name": "Aggressive Entanglement",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_ursula_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Ursula\u2019s Special Ability now deals 200% additional damage."
+        },
+        {
+            "name": "Choking Grasp",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_ursula_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Once Ursula\u2019s Core Ability has activated 4 times, it begins to deal 20% damage each second."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-ursula.png"
+}

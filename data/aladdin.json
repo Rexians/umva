@@ -1,0 +1,173 @@
+{
+    "code_name": "aladdin",
+    "name": "Aladdin",
+    "catchline": "Cutting desert diamond",
+    "type": "Melee",
+    "data": {
+        "rarity_1": {
+            "health": 770,
+            "attack": 843,
+            "defense": 649,
+            "focus": 843
+        },
+        "rarity_2": {
+            "health": 1024,
+            "attack": 1112,
+            "defense": 878,
+            "focus": 1092
+        },
+        "rarity_3": {
+            "health": 1832,
+            "attack": 1986,
+            "defense": 1574,
+            "focus": 1946
+        },
+        "rarity_4": {
+            "health": 2796,
+            "attack": 3033,
+            "defense": 2402,
+            "focus": 2973
+        },
+        "rarity_5": {
+            "health": 4345,
+            "attack": 4719,
+            "defense": 3722,
+            "focus": 4639
+        },
+        "astral_1": {
+            "health": 4345,
+            "attack": 4719,
+            "defense": 3722,
+            "focus": 4639
+        },
+        "astral_2": {
+            "health": 4840,
+            "attack": 5251,
+            "defense": 4155,
+            "focus": 5151
+        },
+        "astral_3": {
+            "health": 5234,
+            "attack": 5683,
+            "defense": 4487,
+            "focus": 5583
+        },
+        "astral_4": {
+            "health": 5629,
+            "attack": 6115,
+            "defense": 4819,
+            "focus": 6015
+        },
+        "astral_5": {
+            "health": 6023,
+            "attack": 6547,
+            "defense": 5151,
+            "focus": 6447
+        },
+        "astral_6": {
+            "health": 6418,
+            "attack": 6979,
+            "defense": 5484,
+            "focus": 6879
+        },
+        "astral_7": {
+            "health": 6615,
+            "attack": 7195,
+            "defense": 5650,
+            "focus": 7095
+        },
+        "astral_8": {
+            "health": 6812,
+            "attack": 7410,
+            "defense": 5816,
+            "focus": 7310
+        },
+        "astral_9": {
+            "health": 7010,
+            "attack": 7626,
+            "defense": 5982,
+            "focus": 7526
+        },
+        "astral_10": {
+            "health": 7207,
+            "attack": 7842,
+            "defense": 6148,
+            "focus": 7742
+        }
+    },
+    "abilities": [
+        {
+            "name": "Razor Wind",
+            "type": "Core",
+            "info": [
+                "When hitting an enemy that is not facing him, Aladdin inflicts a Wound dealing 25% Damage each second for 4 seconds. (Max Stacks: 3)",
+                "When Aladdin dashes through a Wounded enemy he delivers an additional basic hit, dealing 50% Damage."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/aladdin_core.jpg"
+        },
+        {
+            "name": "Shrouded Sword",
+            "type": "Special",
+            "info": [
+                "Aladdin deals 400% Damage to his current target and inflicts Knock Back.",
+                "Aladdin inflicts a Wound dealing 25% Damage each second for 8 seconds.",
+                "If the enemy is already Wounded, Aladdin also inflicts a Stun for 3 seconds."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/aladdin_special.jpg"
+        },
+        {
+            "name": "Thief Of Wonders",
+            "type": "Signature",
+            "info": [
+                "Aladdin has a 100% chance to Purge an Attribute Buff when dashing through a Wounded enemy.",
+                "If a Buff is Purged this way Aladdin gains a 50% Attack Buff for 6 seconds. (Max Stacks: 3)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/aladdin_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Cunning Moves",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_aladdin_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Hidden Strike",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_aladdin_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Focus at the start of an encounter."
+        },
+        {
+            "name": "Fine Edge",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_aladdin_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Wounds inflicted by Aladdin last 4 second(s) longer."
+        },
+        {
+            "name": "Counter Strikes",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_aladdin_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Aladdin deals an additional 50% Critical Damage when attacking an enemy activating a Heavy or Special Ability."
+        },
+        {
+            "name": "Skillful Maneuver",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_aladdin_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "When Aladdin dashes through a Wounded or Stunned enemy, he has a 100% chance to gain a 20% Focus Buff for 5 seconds. [Max Stacks: 1]"
+        },
+        {
+            "name": "Shadow in the Sand",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_aladdin_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Aladdin\u2019s Special Ability grants a Shadow Buff, greatly lowering the enemy's aggression towards Aladdin and granting their attacks a 50% chance to Miss for 5 seconds."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-aladdin.png"
+}

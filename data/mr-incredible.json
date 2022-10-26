@@ -1,0 +1,174 @@
+{
+    "code_name": "mr-incredible",
+    "name": "Mr. Incredible",
+    "catchline": "Justice reforged",
+    "type": "Tank",
+    "data": {
+        "rarity_1": {
+            "health": 912,
+            "attack": 740,
+            "defense": 1216,
+            "focus": 345
+        },
+        "rarity_2": {
+            "health": 1219,
+            "attack": 971,
+            "defense": 1584,
+            "focus": 463
+        },
+        "rarity_3": {
+            "health": 2182,
+            "attack": 1734,
+            "defense": 2826,
+            "focus": 830
+        },
+        "rarity_4": {
+            "health": 3331,
+            "attack": 2648,
+            "defense": 4317,
+            "focus": 1267
+        },
+        "rarity_5": {
+            "health": 5172,
+            "attack": 4124,
+            "defense": 6729,
+            "focus": 1965
+        },
+        "astral_1": {
+            "health": 5172,
+            "attack": 4124,
+            "defense": 6729,
+            "focus": 1965
+        },
+        "astral_2": {
+            "health": 5764,
+            "attack": 4586,
+            "defense": 7477,
+            "focus": 2191
+        },
+        "astral_3": {
+            "health": 6231,
+            "attack": 4965,
+            "defense": 8100,
+            "focus": 2368
+        },
+        "astral_4": {
+            "health": 6699,
+            "attack": 5344,
+            "defense": 8723,
+            "focus": 2544
+        },
+        "astral_5": {
+            "health": 7166,
+            "attack": 5723,
+            "defense": 9346,
+            "focus": 2721
+        },
+        "astral_6": {
+            "health": 7633,
+            "attack": 6102,
+            "defense": 9969,
+            "focus": 2897
+        },
+        "astral_7": {
+            "health": 7867,
+            "attack": 6292,
+            "defense": 10281,
+            "focus": 2986
+        },
+        "astral_8": {
+            "health": 8100,
+            "attack": 6482,
+            "defense": 10592,
+            "focus": 3074
+        },
+        "astral_9": {
+            "health": 8334,
+            "attack": 6671,
+            "defense": 10904,
+            "focus": 3162
+        },
+        "astral_10": {
+            "health": 8567,
+            "attack": 6861,
+            "defense": 11215,
+            "focus": 3250
+        }
+    },
+    "abilities": [
+        {
+            "name": "Incredible Strength",
+            "type": "Core",
+            "info": [
+                "Mr. Incredible is Immune to Knock Back, except from Special Abilities.",
+                "For each second Mr. Incredible holds his Heavy Attack, he gains a Kinetic Charge, each increasing damage Resistance by 1%. He loses all Kinetic Charges if inflicted with Stun, Root, or Freeze. (Max Stacks: 5)",
+                "Mr. Incredible\u2019s Heavy Attack has a 50% chance to inflict Kinetic Knockback. This chance is increased by 5% for each Kinetic Charge. This Kinetic Knockback effect can only activate every 10 seconds."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/mrincredible_core.jpg"
+        },
+        {
+            "name": "Unstoppable Justice",
+            "type": "Special",
+            "info": [
+                "Mr. Incredible gains 10% Armor, 5 Kinetic Charges, and deals 400% damage to his combat target, inflicting Kinetic Knockback. (Max Stacks: 5)",
+                "Mr. Incredible gains an Unstoppable Justice Charge for 10 seconds, allowing his Basic Attacks to Purge Attack Buffs and allowing him to activate his Heavy Attack Kinetic Knockback continuously.",
+                "When the Unstoppable Justice Charge expires, Mr. Incredible loses all Kinetic Charges and gains a Defense Buff worth 2% for each charge lost this way. (Max Stacks: 10)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/mrincredible_special.jpg"
+        },
+        {
+            "name": "Kinetic Explosion",
+            "type": "Signature",
+            "info": [
+                "Whenever Mr. Incredible uses his Special Ability, after Unstoppable Justice expires, he deals 200% damage and inflicts Kinetic Knockback to all enemies in an area around him.",
+                "When an enemy inflicted with Kinetic Knockback collides with another enemy, the other enemy is inflicted with Kinetic Knockback and both take 200% damage."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/mrincredible_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Super Strong",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_mrincredible_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Super Tough",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_mrincredible_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Defense at the start of an encounter."
+        },
+        {
+            "name": "Charged Punches",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_mrincredible_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "When Mr. Incredible uses 4 consecutive Basic Attacks, he has a 100% chance to gain a Kinetic Charge. Each Kinetic Charge also increases Basic Attack damage by 10%."
+        },
+        {
+            "name": "Determined",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_mrincredible_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "At the start of each combat, Mr. Incredible gains a 20% Defense Buff that lasts until the end of the encounter. [Max Stacks: 5]"
+        },
+        {
+            "name": "Advanced Super Suit",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_mrincredible_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Whenever Mr. Incredible gains a Kinetic Charge, he also gains a 5% Defense Buff that lasts until the end of combat. [Max Stacks: 10] Mr. Incredible\u2019s Heavy Attack deals an additional 100% damage."
+        },
+        {
+            "name": "Show Time!",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_mrincredible_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "When Mr. Incredible uses his Special Ability, he gains an additional 10% Armor. Whenever Mr. Incredible gains a Kinetic Charge, he also gains a 10% Attack Buff for 5 seconds. [Max Stacks: 10]"
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-mrincredible.png"
+}

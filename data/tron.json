@@ -1,0 +1,174 @@
+{
+    "code_name": "tron",
+    "name": "Tron",
+    "catchline": "World network enforcer",
+    "type": "Ranged",
+    "data": {
+        "rarity_1": {
+            "health": 759,
+            "attack": 709,
+            "defense": 482,
+            "focus": 1105
+        },
+        "rarity_2": {
+            "health": 1001,
+            "attack": 945,
+            "defense": 638,
+            "focus": 1450
+        },
+        "rarity_3": {
+            "health": 1788,
+            "attack": 1691,
+            "defense": 1140,
+            "focus": 2590
+        },
+        "rarity_4": {
+            "health": 2730,
+            "attack": 2582,
+            "defense": 1741,
+            "focus": 3955
+        },
+        "rarity_5": {
+            "health": 4247,
+            "attack": 4010,
+            "defense": 2707,
+            "focus": 6158
+        },
+        "astral_1": {
+            "health": 4247,
+            "attack": 4010,
+            "defense": 2707,
+            "focus": 6158
+        },
+        "astral_2": {
+            "health": 4726,
+            "attack": 4468,
+            "defense": 3014,
+            "focus": 6849
+        },
+        "astral_3": {
+            "health": 5115,
+            "attack": 4831,
+            "defense": 3260,
+            "focus": 7415
+        },
+        "astral_4": {
+            "health": 5503,
+            "attack": 5194,
+            "defense": 3507,
+            "focus": 7981
+        },
+        "astral_5": {
+            "health": 5892,
+            "attack": 5557,
+            "defense": 3754,
+            "focus": 8547
+        },
+        "astral_6": {
+            "health": 6281,
+            "attack": 5920,
+            "defense": 4000,
+            "focus": 9113
+        },
+        "astral_7": {
+            "health": 6475,
+            "attack": 6101,
+            "defense": 4124,
+            "focus": 9395
+        },
+        "astral_8": {
+            "health": 6669,
+            "attack": 6282,
+            "defense": 4247,
+            "focus": 9678
+        },
+        "astral_9": {
+            "health": 6864,
+            "attack": 6464,
+            "defense": 4370,
+            "focus": 9961
+        },
+        "astral_10": {
+            "health": 7058,
+            "attack": 6645,
+            "defense": 4494,
+            "focus": 10244
+        }
+    },
+    "abilities": [
+        {
+            "name": "Identity Discs",
+            "type": "Core",
+            "info": [
+                "Tron's Heavy Attack deals 150% Damage and ricochets to hit multiple enemies. (Max Ricochets: 2)",
+                "On Basic Attacks, Tron has a 50% chance to gain a 20% Focus Buff for 8 seconds. (Max Stacks: 2)",
+                "Heavy Attack Critical Hits inflict a -10% Defense Debuff for 10 seconds. (Max Stacks: 4)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/tron_core.jpg"
+        },
+        {
+            "name": "Bit Swarm",
+            "type": "Special",
+            "info": [
+                "Tron releases a swarm of Bits, dealing 300% Damage to all enemies.",
+                "Each enemy takes an additional 50% Damage for each Attribute Debuff on them. (Max Stacks: 5)",
+                "All allies are Cleansed of 1 Attribute Debuff."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/tron_special.jpg"
+        },
+        {
+            "name": "Network Protection Protocols",
+            "type": "Signature",
+            "info": [
+                "If a hit from Tron's Heavy Attack is not Critical, all ricochet hits from that Heavy Attack have +50% Critical Chance.",
+                "When Tron is the only Guardian in combat, he gains +10% Attack Buff and his Heavy Attack has a 50% chance to inflict Knockback on enemy targets."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/tron_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Software Upgrade",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_tron_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Multi-Threading Support",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_tron_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Focus at the start of an encounter."
+        },
+        {
+            "name": "Advanced Threat Detection",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_tron_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Each time an enemy appears, they are inflicted with a -20% Defense Debuff for the encounter."
+        },
+        {
+            "name": "Threat Containment",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_tron_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Increase the duration of Shocks and Attribute Debuffs by 4 second(s) for Tron and all his allies."
+        },
+        {
+            "name": "Security Firewall",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_tron_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Tron's Special Ability has a 100% chance to Stun for 1.5 seconds. Grants 10% Defense Buff to all Hi-Tech allies at the start of the encounter."
+        },
+        {
+            "name": "Identity Disc Update",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_tron_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Increase the duration and strength of the Focus Buff from Tron's Core Ability by 50%. After a Dash, increase the Max Ricochet limit of Tron\u2019s Heavy Attack by 1 for 5 seconds. [Max Ricochets: 4]"
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-tron.png"
+}

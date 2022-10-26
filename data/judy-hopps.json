@@ -1,0 +1,174 @@
+{
+    "code_name": "judy-hopps",
+    "name": "Judy Hopps",
+    "catchline": "The fastest fuzz",
+    "type": "Ranged",
+    "data": {
+        "rarity_1": {
+            "health": 584,
+            "attack": 693,
+            "defense": 489,
+            "focus": 1367
+        },
+        "rarity_2": {
+            "health": 790,
+            "attack": 927,
+            "defense": 647,
+            "focus": 1765
+        },
+        "rarity_3": {
+            "health": 1417,
+            "attack": 1658,
+            "defense": 1156,
+            "focus": 3146
+        },
+        "rarity_4": {
+            "health": 2162,
+            "attack": 2532,
+            "defense": 1765,
+            "focus": 4806
+        },
+        "rarity_5": {
+            "health": 3350,
+            "attack": 3931,
+            "defense": 2744,
+            "focus": 7503
+        },
+        "astral_1": {
+            "health": 3350,
+            "attack": 3931,
+            "defense": 2744,
+            "focus": 7503
+        },
+        "astral_2": {
+            "health": 3739,
+            "attack": 4381,
+            "defense": 3055,
+            "focus": 8328
+        },
+        "astral_3": {
+            "health": 4038,
+            "attack": 4736,
+            "defense": 3305,
+            "focus": 9028
+        },
+        "astral_4": {
+            "health": 4337,
+            "attack": 5091,
+            "defense": 3555,
+            "focus": 9729
+        },
+        "astral_5": {
+            "health": 4636,
+            "attack": 5446,
+            "defense": 3806,
+            "focus": 10429
+        },
+        "astral_6": {
+            "health": 4935,
+            "attack": 5801,
+            "defense": 4056,
+            "focus": 11129
+        },
+        "astral_7": {
+            "health": 5085,
+            "attack": 5979,
+            "defense": 4182,
+            "focus": 11479
+        },
+        "astral_8": {
+            "health": 5234,
+            "attack": 6156,
+            "defense": 4307,
+            "focus": 11830
+        },
+        "astral_9": {
+            "health": 5384,
+            "attack": 6334,
+            "defense": 4432,
+            "focus": 12180
+        },
+        "astral_10": {
+            "health": 5533,
+            "attack": 6511,
+            "defense": 4557,
+            "focus": 12530
+        }
+    },
+    "abilities": [
+        {
+            "name": "Rooting Carrots",
+            "type": "Core",
+            "info": [
+                "On Critical Hits, Judy's Root Grenades inflicts a -10% Defense Debuff that lasts until the end of combat. (Max Stacks: 5)",
+                "On Critical Hits, if the enemy target has 3 or more Defense Debuffs, it is also Rooted for 5 seconds. This ability has a 20 second cooldown.",
+                "Each time Judy makes a Heavy Attack, she gains a 15% Critical Chance Buff for 3 seconds. (Max Stacks: 1) This Buff is also removed when she hits an enemy target."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/judy_hopps_core.jpg"
+        },
+        {
+            "name": "Arresting Volley",
+            "type": "Special",
+            "info": [
+                "Judy Hopps launches a volley of 6 Root Grenades at an enemy target, also hitting all enemies in a small area.",
+                "Each target takes 400% damage.",
+                "Each target is also Rooted for 10 seconds."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/judy_hopps_special.jpg"
+        },
+        {
+            "name": "Jump Start",
+            "type": "Signature",
+            "info": [
+                "At the start of each combat, all enemies gain a permanent -20% Defense Debuff.",
+                "On Special Ability Critical Hits, if the enemy target has 3 or more Defense Debuffs, the enemy target has a 40% chance to be Stunned for 3 seconds instead of Rooted."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/judy_hopps_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Tactical Goggles",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_judy_hopps_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Focus at the start of an encounter."
+        },
+        {
+            "name": "Protective Vest",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_judy_hopps_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Defense at the start of an encounter."
+        },
+        {
+            "name": "Breach Defenses",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_judy_hopps_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Defense Debuffs from Judy's Core Ability reduce 10% more Defense."
+        },
+        {
+            "name": "Longer Roots",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_judy_hopps_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Root from Judy's Core Ability lasts 3 second(s) longer."
+        },
+        {
+            "name": "Counter Measures",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_judy_hopps_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Whenever an enemy is defeated, Judy has a 100% chance of gaining a 10% Focus Buff that lasts until the end of the encounter. [Max Stacks: 10]"
+        },
+        {
+            "name": "Electrifying Moves",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_judy_hopps_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Judy's Special Ability now inflicts a Shock that deals 10% damage per second, for 10 seconds to all targets it hits."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-judy-hopps.png"
+}

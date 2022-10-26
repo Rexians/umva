@@ -1,0 +1,171 @@
+{
+    "code_name": "maleficent",
+    "name": "Maleficent",
+    "catchline": "Draconic mage",
+    "type": "Ranged",
+    "data": {
+        "rarity_1": {
+            "health": 803,
+            "attack": 695,
+            "defense": 438,
+            "focus": 1277
+        },
+        "rarity_2": {
+            "health": 1053,
+            "attack": 929,
+            "defense": 585,
+            "focus": 1657
+        },
+        "rarity_3": {
+            "health": 1880,
+            "attack": 1662,
+            "defense": 1047,
+            "focus": 2955
+        },
+        "rarity_4": {
+            "health": 2872,
+            "attack": 2537,
+            "defense": 1599,
+            "focus": 4514
+        },
+        "rarity_5": {
+            "health": 4471,
+            "attack": 3939,
+            "defense": 2483,
+            "focus": 7041
+        },
+        "astral_1": {
+            "health": 4471,
+            "attack": 3939,
+            "defense": 2483,
+            "focus": 7041
+        },
+        "astral_2": {
+            "health": 4973,
+            "attack": 4390,
+            "defense": 2767,
+            "focus": 7820
+        },
+        "astral_3": {
+            "health": 5384,
+            "attack": 4745,
+            "defense": 2991,
+            "focus": 8474
+        },
+        "astral_4": {
+            "health": 5795,
+            "attack": 5101,
+            "defense": 3215,
+            "focus": 9128
+        },
+        "astral_5": {
+            "health": 6206,
+            "attack": 5457,
+            "defense": 3440,
+            "focus": 9782
+        },
+        "astral_6": {
+            "health": 6617,
+            "attack": 5813,
+            "defense": 3664,
+            "focus": 10436
+        },
+        "astral_7": {
+            "health": 6823,
+            "attack": 5991,
+            "defense": 3776,
+            "focus": 10763
+        },
+        "astral_8": {
+            "health": 7028,
+            "attack": 6169,
+            "defense": 3888,
+            "focus": 11090
+        },
+        "astral_9": {
+            "health": 7234,
+            "attack": 6347,
+            "defense": 4000,
+            "focus": 11417
+        },
+        "astral_10": {
+            "health": 7439,
+            "attack": 6525,
+            "defense": 4112,
+            "focus": 11744
+        }
+    },
+    "abilities": [
+        {
+            "name": "Cruel Curses",
+            "type": "Core",
+            "info": [
+                "Immune to Burn.",
+                "Basic and Heavy Critical Hits inflict an instant 50% Shock and a -5% Defense Debuff until the end of the encounter.",
+                "Heavy Attack inflicts a -5% Defense Debuff for 10 seconds. (Max Stacks: 2)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/maleficent_core.jpg"
+        },
+        {
+            "name": "Dragon'S Rage",
+            "type": "Special",
+            "info": [
+                "Maleficent deals 300% Damage to all enemies. If the enemy has a Defense Debuff they are inflicted with a Burn, dealing 100% Damage each second for 5 seconds."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/maleficent_special.jpg"
+        },
+        {
+            "name": "Merciless Vengeance",
+            "type": "Signature",
+            "info": [
+                "Maleficent's Defense Debuffs from Critical Hits reduce -15% additional Defense. Additionally, when she inflicts an enemy with 3 Defense Debuffs for the first time she inflicts Shock, dealing 10% damage per second until the end of the encounter."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/maleficent_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Cunning",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_maleficent_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Focus at the start of an encounter."
+        },
+        {
+            "name": "Rage",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_maleficent_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Vengeful Cruelty",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_maleficent_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Once per encounter, when Maleficent is at 75% HP or below, she gains a 50% Critical Damage Buff. Increase the duration of Burns from Maleficent's Special Ability by 1 second(s)."
+        },
+        {
+            "name": "Vengeful Spite",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_maleficent_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Once per encounter, when Maleficent is at 50% HP or below, she gains a 50% Focus Buff. Increase the duration of Burns from Maleficent's Special Ability by 1 second(s)."
+        },
+        {
+            "name": "Vengeful Wrath",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_maleficent_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "When Maleficent is at 75%, 50%, 25% HP or below for the first time in an encounter, she gains a 20% Attack Buff."
+        },
+        {
+            "name": "Electroclasm",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_maleficent_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Maleficent's Burns and Shocks are 30% stronger."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-maleficent.png"
+}

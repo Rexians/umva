@@ -1,0 +1,175 @@
+{
+    "code_name": "woody",
+    "name": "Woody",
+    "catchline": "Heavy hitting cowboy",
+    "type": "Melee",
+    "data": {
+        "rarity_1": {
+            "health": 973,
+            "attack": 730,
+            "defense": 770,
+            "focus": 616
+        },
+        "rarity_2": {
+            "health": 1267,
+            "attack": 976,
+            "defense": 1024,
+            "focus": 819
+        },
+        "rarity_3": {
+            "health": 2261,
+            "attack": 1747,
+            "defense": 1832,
+            "focus": 1465
+        },
+        "rarity_4": {
+            "health": 3453,
+            "attack": 2668,
+            "defense": 2796,
+            "focus": 2237
+        },
+        "rarity_5": {
+            "health": 5384,
+            "attack": 4142,
+            "defense": 4345,
+            "focus": 3476
+        },
+        "astral_1": {
+            "health": 5384,
+            "attack": 4142,
+            "defense": 4345,
+            "focus": 3476
+        },
+        "astral_2": {
+            "health": 5982,
+            "attack": 4616,
+            "defense": 4840,
+            "focus": 3872
+        },
+        "astral_3": {
+            "health": 6480,
+            "attack": 4990,
+            "defense": 5234,
+            "focus": 4187
+        },
+        "astral_4": {
+            "health": 6979,
+            "attack": 5364,
+            "defense": 5629,
+            "focus": 4503
+        },
+        "astral_5": {
+            "health": 7477,
+            "attack": 5739,
+            "defense": 6023,
+            "focus": 4819
+        },
+        "astral_6": {
+            "health": 7975,
+            "attack": 6113,
+            "defense": 6418,
+            "focus": 5134
+        },
+        "astral_7": {
+            "health": 8224,
+            "attack": 6300,
+            "defense": 6615,
+            "focus": 5292
+        },
+        "astral_8": {
+            "health": 8474,
+            "attack": 6487,
+            "defense": 6812,
+            "focus": 5450
+        },
+        "astral_9": {
+            "health": 8723,
+            "attack": 6674,
+            "defense": 7010,
+            "focus": 5608
+        },
+        "astral_10": {
+            "health": 8972,
+            "attack": 6861,
+            "defense": 7207,
+            "focus": 5766
+        }
+    },
+    "abilities": [
+        {
+            "name": "Reach For The Sky!",
+            "type": "Core",
+            "info": [
+                "Woody has close-range Basic Attacks and long-range Heavy Attacks.",
+                "When Woody hits an enemy target with a Heavy Attack, he places a Warrant on it that lasts for 5 seconds. (Max Stacks: 1) Enemies with a Warrant cannot gain or grant Attribute Buffs. Enemies cannot receive a new Warrant until the old one expires.",
+                "The projectile from Woody's Heavy Attack can only hit one target at a time, but its Push Back effect is 3 times as strong."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/woody_core.jpg"
+        },
+        {
+            "name": "Sheriff'S Roundup",
+            "type": "Special",
+            "info": [
+                "Woody's combat target is Pulled to him, from any distance.",
+                "Woody deals 300% damage and inflicts Knock Back on the Pulled target.",
+                "If the combat target has a Warrant, it is Stunned for 4 seconds."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/woody_special.jpg"
+        },
+        {
+            "name": "A Friend In Me",
+            "type": "Signature",
+            "info": [
+                "Woody\u2019s Special Ability deals an additional 200% damage.",
+                "Whenever an enemy with a Warrant is defeated, all allies gain a 15% Attack Buff that lasts until the end of the encounter. (Max Stacks: 4)",
+                "Whenever an enemy with a Warrant is defeated, all other allies have a 50% chance to Heal 10%."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/woody_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Roundup Gang",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_woody_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants an additional 10% Attack at the start of an encounter to Woody and any other Melee or Ranged Guardians in his team, while Woody is in the encounter."
+        },
+        {
+            "name": "Protective Posse",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_woody_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants an additional 10% Health at the start of an encounter to Woody and any other Tank or Support Guardians in his team, while Woody is in the encounter."
+        },
+        {
+            "name": "Frontier Justice",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_woody_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "If Woody\u2019s combat target has a Warrant or is Villainous, Woody\u2019s Basic and Heavy Attacks deal an additional 100% damage."
+        },
+        {
+            "name": "Snakeboot Venom",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_woody_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Enemies Pulled by Woody have a 60% chance to be inflicted with a Stifle Debuff for 10 seconds. [Max Stacks: 1] If the Pulled target has a Warrant or is Villainous, this chance increases by an additional 40%."
+        },
+        {
+            "name": "Cleaning Up This Town",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_woody_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Whenever an enemy gains a Warrant, Woody has a 60% chance to Cleanse one Attribute Debuff from all allies. For each of Woody\u2019s allies that are Leaders, the chance to Cleanse increases by an additional 20%."
+        },
+        {
+            "name": "Favorite Deputies",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_woody_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Basic and Heavy Attacks from all other allies deal an additional 100% damage against enemies with a Warrant. Whenever an enemy with a Warrant is hit by Woody\u2019s Heavy Attack, it gains Lure for 5 seconds. [Max Stacks: 1]"
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-woody.png"
+}

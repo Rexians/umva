@@ -1,0 +1,174 @@
+{
+    "code_name": "dory",
+    "name": "Dory",
+    "catchline": "Low tech fish in a high tech sub",
+    "type": "Support",
+    "data": {
+        "rarity_1": {
+            "health": 1039,
+            "attack": 552,
+            "defense": 625,
+            "focus": 655
+        },
+        "rarity_2": {
+            "health": 1346,
+            "attack": 742,
+            "defense": 820,
+            "focus": 882
+        },
+        "rarity_3": {
+            "health": 2400,
+            "attack": 1329,
+            "defense": 1464,
+            "focus": 1579
+        },
+        "rarity_4": {
+            "health": 3666,
+            "attack": 2029,
+            "defense": 2235,
+            "focus": 2410
+        },
+        "rarity_5": {
+            "health": 5720,
+            "attack": 3148,
+            "defense": 3481,
+            "focus": 3738
+        },
+        "astral_1": {
+            "health": 5720,
+            "attack": 3148,
+            "defense": 3481,
+            "focus": 3738
+        },
+        "astral_2": {
+            "health": 6352,
+            "attack": 3510,
+            "defense": 3871,
+            "focus": 4169
+        },
+        "astral_3": {
+            "health": 6884,
+            "attack": 3793,
+            "defense": 4191,
+            "focus": 4504
+        },
+        "astral_4": {
+            "health": 7416,
+            "attack": 4076,
+            "defense": 4511,
+            "focus": 4840
+        },
+        "astral_5": {
+            "health": 7948,
+            "attack": 4359,
+            "defense": 4831,
+            "focus": 5176
+        },
+        "astral_6": {
+            "health": 8480,
+            "attack": 4641,
+            "defense": 5151,
+            "focus": 5512
+        },
+        "astral_7": {
+            "health": 8747,
+            "attack": 4783,
+            "defense": 5311,
+            "focus": 5680
+        },
+        "astral_8": {
+            "health": 9013,
+            "attack": 4924,
+            "defense": 5471,
+            "focus": 5848
+        },
+        "astral_9": {
+            "health": 9279,
+            "attack": 5066,
+            "defense": 5631,
+            "focus": 6015
+        },
+        "astral_10": {
+            "health": 9545,
+            "attack": 5207,
+            "defense": 5791,
+            "focus": 6183
+        }
+    },
+    "abilities": [
+        {
+            "name": "Short Term Memory Loss",
+            "type": "Core",
+            "info": [
+                "When Dory is inflicted with a Damaging Debuff, she gains a Forgetful Charge for 3 seconds, Cleansing all Damaging Debuffs from all allies on expiry. This effect can only occur once every 7 seconds.",
+                "Dory is Immune to Focus Buffs and Focus Debuffs.",
+                "Dory's Heavy Attack can hit and Knock Back all enemies in a wide arc in front of her."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/dory_core.jpg"
+        },
+        {
+            "name": "Just Keep Swimming",
+            "type": "Special",
+            "info": [
+                "All other allies Heal 2.5% each second for 6 seconds.",
+                "Dory Knocks Back all enemies around her.",
+                "Dory gains a Second Wind Buff for 8 seconds. When this effect expires she Heals for 60% of damage taken. (Max Stacks: 1)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/dory_special.jpg"
+        },
+        {
+            "name": "Fish Tank",
+            "type": "Signature",
+            "info": [
+                "Dory gains 50% Defense at the start of each encounter.",
+                "The potency of Dory's Second Wind Buff from her Special Ability is increased by an additional 35%."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/dory_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Bubbly",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_dory_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Health at the start of an encounter."
+        },
+        {
+            "name": "Reinforced Plating",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_dory_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Defense at the start of an encounter."
+        },
+        {
+            "name": "Have We Met?",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_dory_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Dory gains 20% Armor for each Damaging Debuff Cleansed from her by her Forgetful Charge."
+        },
+        {
+            "name": "Great First Impression",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_dory_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "The first time an enemy hits Dory each combat they receive a -20% Focus Debuff for 15 seconds [Max Stacks: 3]. This effect can be triggered again every time a Forgetful Charge on her expires. Dory\u2019s Special Ability Lures all Ranged enemies for 8 seconds."
+        },
+        {
+            "name": "Blinding Optimism",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_dory_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Enemies that hit Dory with a Critical Hit receive a -50% Critical Damage Debuff for 8 seconds [Max Stacks: 1]. When Dory activates her Special Ability, she Cleanses Root from all allies."
+        },
+        {
+            "name": "Can't Quite Remember",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_dory_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Dory Resists 10% damage from Ranged enemies. When Dory activates her Special Ability, she gains a Forgetful Charge for 3 seconds."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-dory.png"
+}

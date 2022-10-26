@@ -1,0 +1,170 @@
+{
+    "code_name": "mulan",
+    "name": "Mulan",
+    "catchline": "One woman army",
+    "type": "Melee",
+    "data": {
+        "rarity_1": {
+            "health": 658,
+            "attack": 681,
+            "defense": 1014,
+            "focus": 686
+        },
+        "rarity_2": {
+            "health": 889,
+            "attack": 917,
+            "defense": 1317,
+            "focus": 903
+        },
+        "rarity_3": {
+            "health": 1593,
+            "attack": 1643,
+            "defense": 2349,
+            "focus": 1614
+        },
+        "rarity_4": {
+            "health": 2431,
+            "attack": 2507,
+            "defense": 3588,
+            "focus": 2464
+        },
+        "rarity_5": {
+            "health": 3768,
+            "attack": 3888,
+            "defense": 5596,
+            "focus": 3835
+        },
+        "astral_1": {
+            "health": 3768,
+            "attack": 3888,
+            "defense": 5596,
+            "focus": 3835
+        },
+        "astral_2": {
+            "health": 4205,
+            "attack": 4337,
+            "defense": 6215,
+            "focus": 4267
+        },
+        "astral_3": {
+            "health": 4542,
+            "attack": 4686,
+            "defense": 6735,
+            "focus": 4618
+        },
+        "astral_4": {
+            "health": 4879,
+            "attack": 5035,
+            "defense": 7254,
+            "focus": 4970
+        },
+        "astral_5": {
+            "health": 5216,
+            "attack": 5384,
+            "defense": 7774,
+            "focus": 5321
+        },
+        "astral_6": {
+            "health": 5553,
+            "attack": 5733,
+            "defense": 8294,
+            "focus": 5673
+        },
+        "astral_7": {
+            "health": 5721,
+            "attack": 5907,
+            "defense": 8553,
+            "focus": 5848
+        },
+        "astral_8": {
+            "health": 5890,
+            "attack": 6082,
+            "defense": 8813,
+            "focus": 6024
+        },
+        "astral_9": {
+            "health": 6058,
+            "attack": 6256,
+            "defense": 9073,
+            "focus": 6200
+        },
+        "astral_10": {
+            "health": 6226,
+            "attack": 6430,
+            "defense": 9333,
+            "focus": 6376
+        }
+    },
+    "abilities": [
+        {
+            "name": "Dual Blades",
+            "type": "Core",
+            "info": [
+                "Mulan\u2019s Basic Attacks can hit all enemies in a wide arc in front of her.",
+                "If Mulan has no Defense Buffs, her Heavy Attacks grant a 30% Defense Buff for 6 seconds."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/mulan_core.jpg"
+        },
+        {
+            "name": "Ancestral Swords",
+            "type": "Special",
+            "info": [
+                "Mulan deals 180% damage per second for 5 seconds to all enemies within range."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/mulan_special.jpg"
+        },
+        {
+            "name": "Heaven'S Deflector",
+            "type": "Signature",
+            "info": [
+                "Whenever Mulan activates her Special Ability, she gains 20% Armor."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/mulan_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Imperial Training",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_mulan_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Family Armor",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_mulan_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Defense at the start of an encounter."
+        },
+        {
+            "name": "Tempered Blades",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_mulan_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "If Mulan hits multiple enemies with a Basic Attack, she gains a 20% Attack Buff for 10 seconds. [Max Stacks: 1] Mulan cannot receive a new Attack Buff until the old one expires."
+        },
+        {
+            "name": "Ancestral Protection",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_mulan_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Whenever Mulan activates her Special Ability, she gains a 40% Defense Buff for the duration of her Special Ability. [Max Stacks: 1] Mulan cannot receive a new Defense Buff until the old one expires."
+        },
+        {
+            "name": "Sharpened Blades",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_mulan_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Basic Attacks have a 40% chance to inflict a Wound that deals 50% damage every second for 3 seconds. [Max Stacks: 1]"
+        },
+        {
+            "name": "Emperor's Crest",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_mulan_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "The duration of Mulan\u2019s Special Ability is increased by 5 second(s)."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-mulan.png"
+}

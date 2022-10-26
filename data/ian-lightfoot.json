@@ -1,0 +1,172 @@
+{
+    "code_name": "ian-lightfoot",
+    "name": "Ian Lightfoot",
+    "catchline": "Master mage of new mushroomton high",
+    "type": "Support",
+    "data": {
+        "rarity_1": {
+            "health": 851,
+            "attack": 623,
+            "defense": 545,
+            "focus": 762
+        },
+        "rarity_2": {
+            "health": 1121,
+            "attack": 827,
+            "defense": 724,
+            "focus": 1010
+        },
+        "rarity_3": {
+            "health": 2003,
+            "attack": 1479,
+            "defense": 1294,
+            "focus": 1805
+        },
+        "rarity_4": {
+            "health": 3059,
+            "attack": 2258,
+            "defense": 1976,
+            "focus": 2756
+        },
+        "rarity_5": {
+            "health": 4761,
+            "attack": 3509,
+            "defense": 3071,
+            "focus": 4286
+        },
+        "astral_1": {
+            "health": 4761,
+            "attack": 3509,
+            "defense": 3071,
+            "focus": 4286
+        },
+        "astral_2": {
+            "health": 5297,
+            "attack": 3908,
+            "defense": 3420,
+            "focus": 4771
+        },
+        "astral_3": {
+            "health": 5733,
+            "attack": 4227,
+            "defense": 3699,
+            "focus": 5162
+        },
+        "astral_4": {
+            "health": 6169,
+            "attack": 4546,
+            "defense": 3978,
+            "focus": 5553
+        },
+        "astral_5": {
+            "health": 6605,
+            "attack": 4865,
+            "defense": 4257,
+            "focus": 5943
+        },
+        "astral_6": {
+            "health": 7041,
+            "attack": 5184,
+            "defense": 4536,
+            "focus": 6334
+        },
+        "astral_7": {
+            "health": 7259,
+            "attack": 5344,
+            "defense": 4676,
+            "focus": 6529
+        },
+        "astral_8": {
+            "health": 7477,
+            "attack": 5503,
+            "defense": 4815,
+            "focus": 6724
+        },
+        "astral_9": {
+            "health": 7695,
+            "attack": 5663,
+            "defense": 4955,
+            "focus": 6920
+        },
+        "astral_10": {
+            "health": 7913,
+            "attack": 5822,
+            "defense": 5094,
+            "focus": 7115
+        }
+    },
+    "abilities": [
+        {
+            "name": "Lessons Of Yore",
+            "type": "Core",
+            "info": [
+                "Every 10 seconds Ian switches between the Strength Charge gaining +5% Attack and the Fortitude Charge gaining +15% Defense."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/ian_lightfoot_core.jpg"
+        },
+        {
+            "name": "Yore Choice",
+            "type": "Special",
+            "info": [
+                "All allies Heal 2.5% each second for 6 seconds. (Max Stacks: 1)",
+                "If the Strength Charge is active, all other allies gain a +5% Attack Buff. (Max Stacks: 3)",
+                "If the Fortitude Charge is active, all other allies gain a +10% Defense Buff. (Max Stacks: 3)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/ian_lightfoot_special.jpg"
+        },
+        {
+            "name": "Magic Reversal",
+            "type": "Signature",
+            "info": [
+                "When the Strength Charge is active Ian's Special Ability inflicts his target with a -20% Defense Debuff for 10 seconds. (Max Stacks: 3)",
+                "When the Fortitude Charge is active Ian's Special Ability inflicts his target with a -10% Attack Debuff for 10 seconds. (Max Stacks: 3)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/ian_lightfoot_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Confidence Booster",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_ianlightfoot_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Defense at the start of an encounter."
+        },
+        {
+            "name": "Knowledge is Power",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_ianlightfoot_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Battle Magic 101",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_ianlightfoot_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Attack Buffs granted by Ian provide 5% additional Attack."
+        },
+        {
+            "name": "Defensive Magic 201",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_ianlightfoot_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Defense Buffs granted by Ian provide 10% additional Defense."
+        },
+        {
+            "name": "Powerful Legacy",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_ianlightfoot_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Ian's Strength Charge gives 20% additional Attack. Ian's Fortitude Charge gives 20% additional Defense."
+        },
+        {
+            "name": "Advanced Spells",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_ianlightfoot_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "When Ian activates his special with the Strength Charge he gains a +20% Critical Damage Buff for 10 seconds. [Max Stacks: 10] When Ian activates his special with the Fortitude Charge he gains +10% Armor."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-ian.png"
+}

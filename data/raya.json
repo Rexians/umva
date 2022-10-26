@@ -1,0 +1,176 @@
+{
+    "code_name": "raya",
+    "name": "Raya",
+    "catchline": "Unifying light of kumandra",
+    "type": "Melee",
+    "data": {
+        "rarity_1": {
+            "health": 778,
+            "attack": 778,
+            "defense": 730,
+            "focus": 720
+        },
+        "rarity_2": {
+            "health": 1034,
+            "attack": 1034,
+            "defense": 976,
+            "focus": 944
+        },
+        "rarity_3": {
+            "health": 1849,
+            "attack": 1849,
+            "defense": 1746,
+            "focus": 1685
+        },
+        "rarity_4": {
+            "health": 2823,
+            "attack": 2823,
+            "defense": 2665,
+            "focus": 2574
+        },
+        "rarity_5": {
+            "health": 4387,
+            "attack": 4387,
+            "defense": 4138,
+            "focus": 4008
+        },
+        "astral_1": {
+            "health": 4387,
+            "attack": 4387,
+            "defense": 4138,
+            "focus": 4008
+        },
+        "astral_2": {
+            "health": 4886,
+            "attack": 4886,
+            "defense": 4611,
+            "focus": 4457
+        },
+        "astral_3": {
+            "health": 5284,
+            "attack": 5284,
+            "defense": 4985,
+            "focus": 4826
+        },
+        "astral_4": {
+            "health": 5683,
+            "attack": 5683,
+            "defense": 5359,
+            "focus": 5195
+        },
+        "astral_5": {
+            "health": 6082,
+            "attack": 6082,
+            "defense": 5733,
+            "focus": 5564
+        },
+        "astral_6": {
+            "health": 6480,
+            "attack": 6480,
+            "defense": 6106,
+            "focus": 5933
+        },
+        "astral_7": {
+            "health": 6680,
+            "attack": 6680,
+            "defense": 6293,
+            "focus": 6117
+        },
+        "astral_8": {
+            "health": 6879,
+            "attack": 6879,
+            "defense": 6480,
+            "focus": 6302
+        },
+        "astral_9": {
+            "health": 7078,
+            "attack": 7078,
+            "defense": 6667,
+            "focus": 6486
+        },
+        "astral_10": {
+            "health": 7278,
+            "attack": 7278,
+            "defense": 6854,
+            "focus": 6670
+        }
+    },
+    "abilities": [
+        {
+            "name": "Warrior'S Focus",
+            "type": "Core",
+            "info": [
+                "When Raya hits with a Basic Attack, she has a 20% chance to gain a 10% Focus Buff for 5 seconds. (Max Stacks: 3)",
+                "Raya's Heavy Attack deals 2 hits. Each hit deals 150% damage. The second hit causes Knock Back.",
+                "When Raya holds her Heavy Attack she gains a 10% Focus Buff for 10 Seconds. (Max Stacks: 1)",
+                "If Raya is Knocked Back she loses all Focus Buffs granted by her abilities."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/raya_core.jpg"
+        },
+        {
+            "name": "Whip Sword Strike",
+            "type": "Special",
+            "info": [
+                "Raya gains a 5% Attack Buff for each Focus Buff she has for 5 seconds. (Max Stacks: 10)",
+                "Raya flies toward her target, dealing 400% damage and inflicting Knock Back.",
+                "If Raya\u2019s Special Ability is Critical she Stuns the target for 4 seconds. (Max Stacks: 1)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/raya_special.jpg"
+        },
+        {
+            "name": "Hero Of Kumandra",
+            "type": "Signature",
+            "info": [
+                "Attack Buffs from Raya\u2019s Special Ability gain an additional 5% Attack.",
+                "Raya deals an additional 300% damage with her Special Ability.",
+                "Raya's Special Ability deals increased damage the further Raya is from her target, up to an additional 200% damage."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/raya_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Warrior\u2019s Grace",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_raya_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Focus at the start of an encounter."
+        },
+        {
+            "name": "Protective Fury",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_raya_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Focusing Pause",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_raya_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "At the start of each combat, Raya gains a 25% Focus Buff for 30 seconds."
+        },
+        {
+            "name": "Practiced Moves",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_raya_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Focus Buffs and Attack Buffs granted by Raya\u2019s abilities last 5 seconds longer."
+        },
+        {
+            "name": "Surprising Strike",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_raya_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Raya\u2019s Critical Hits inflict a -20% Focus Debuff for 10 seconds. [Max Stacks: 3]"
+        },
+        {
+            "name": "Warrior of Hope",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_raya_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Raya deals an additional 30% damage to Bosses. Raya Resists 5% damage from Bosses."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-featured-raya.png"
+}

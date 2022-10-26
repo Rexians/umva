@@ -1,0 +1,174 @@
+{
+    "code_name": "violet-parr",
+    "name": "Violet Parr",
+    "catchline": "A forcefield for justice",
+    "type": "Support",
+    "data": {
+        "rarity_1": {
+            "health": 860,
+            "attack": 551,
+            "defense": 681,
+            "focus": 655
+        },
+        "rarity_2": {
+            "health": 1132,
+            "attack": 741,
+            "defense": 887,
+            "focus": 881
+        },
+        "rarity_3": {
+            "health": 2022,
+            "attack": 1328,
+            "defense": 1583,
+            "focus": 1577
+        },
+        "rarity_4": {
+            "health": 3088,
+            "attack": 2027,
+            "defense": 2417,
+            "focus": 2407
+        },
+        "rarity_5": {
+            "health": 4806,
+            "attack": 3144,
+            "defense": 3768,
+            "focus": 3733
+        },
+        "astral_1": {
+            "health": 4806,
+            "attack": 3144,
+            "defense": 3768,
+            "focus": 3733
+        },
+        "astral_2": {
+            "health": 5347,
+            "attack": 3506,
+            "defense": 4187,
+            "focus": 4164
+        },
+        "astral_3": {
+            "health": 5788,
+            "attack": 3789,
+            "defense": 4536,
+            "focus": 4499
+        },
+        "astral_4": {
+            "health": 6228,
+            "attack": 4071,
+            "defense": 4885,
+            "focus": 4835
+        },
+        "astral_5": {
+            "health": 6669,
+            "attack": 4354,
+            "defense": 5234,
+            "focus": 5170
+        },
+        "astral_6": {
+            "health": 7109,
+            "attack": 4636,
+            "defense": 5583,
+            "focus": 5505
+        },
+        "astral_7": {
+            "health": 7330,
+            "attack": 4777,
+            "defense": 5757,
+            "focus": 5673
+        },
+        "astral_8": {
+            "health": 7550,
+            "attack": 4918,
+            "defense": 5932,
+            "focus": 5841
+        },
+        "astral_9": {
+            "health": 7770,
+            "attack": 5060,
+            "defense": 6106,
+            "focus": 6008
+        },
+        "astral_10": {
+            "health": 7991,
+            "attack": 5201,
+            "defense": 6280,
+            "focus": 6176
+        }
+    },
+    "abilities": [
+        {
+            "name": "Critical Refraction",
+            "type": "Core",
+            "info": [
+                "At the start of each combat all enemies are inflicted with a -40% Critical Damage Debuff for the remainder of the encounter, or until Violet is defeated.",
+                "Heavy Attacks inflict a Shock dealing 3% damage per second for 10 seconds. (Max Stacks: 1)",
+                "Basic Attacks have a 10% chance to grant allies a 20% Defense Buff that lasts for 10 seconds. (Max Stacks: 3) If Violet's target is inflicted with Shock, her Basics have a 35% chance to grant a Defense Buff."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/violet_core.jpg"
+        },
+        {
+            "name": "Uv Force Fields",
+            "type": "Special",
+            "info": [
+                "Violet grants a Force Field to all allies (Max Stacks: 1). The strength of a Force Field is equal to 50% of Violet's Defense at the time of creation. Force Fields absorb Basic and Heavy projectiles and will last for 10 seconds or until destroyed.",
+                "While a Force Field is active, the protected ally gains 100% Resistance to Shock and Burn damage.",
+                "For the first 5 seconds while a Force Field is active, it grants 2% Armor per second to the ally."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/violet_special.jpg"
+        },
+        {
+            "name": "Ultra Violet",
+            "type": "Signature",
+            "info": [
+                "Violet grants a Force Field to allies at the start of each combat and Armor granted from Force Fields is increased by an additional 2%.",
+                "The strength of Violet\u2019s Force Fields is increased by an additional 50% of her Defense."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/violet_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Steady Hands",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_violet_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Defense at the start of an encounter."
+        },
+        {
+            "name": "Blooming Strength",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_violet_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Shirinking Violet",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_violet_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Once per encounter while at or below 50% HP, Violet gains a 20% Defense Buff that lasts for the rest of the encounter. She also gains an Invisible Buff for 15 seconds, greatly lowering enemy aggression towards her."
+        },
+        {
+            "name": "Deflection Field",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_violet_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Violet's Critical Damage Debuff removes an additional -40% Critical Damage from enemies."
+        },
+        {
+            "name": "Electrostatic Pulse",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_violet_6.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "When a Force Field is destroyed or expires, enemies are inflicted with a Shock dealing 5% damage per second for 10 seconds. While Violet is in the encounter, Shocks inflicted by other allies deal an additional 10% damage."
+        },
+        {
+            "name": "Incredible Defenses",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_violet_5.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "When a Force Field is applied to an ally, adjacent enemies are Knocked Back. Allies Resist 30% Basic and Heavy Attack damage from Tank and Melee enemies while Force Fields are active."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-violet.png"
+}

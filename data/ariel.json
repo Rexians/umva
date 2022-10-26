@@ -1,0 +1,172 @@
+{
+    "code_name": "ariel",
+    "name": "Ariel",
+    "catchline": "Royal champion of atlantica",
+    "type": "Melee",
+    "data": {
+        "rarity_1": {
+            "health": 827,
+            "attack": 721,
+            "defense": 770,
+            "focus": 720
+        },
+        "rarity_2": {
+            "health": 1092,
+            "attack": 966,
+            "defense": 1024,
+            "focus": 944
+        },
+        "rarity_3": {
+            "health": 1952,
+            "attack": 1729,
+            "defense": 1832,
+            "focus": 1685
+        },
+        "rarity_4": {
+            "health": 2980,
+            "attack": 2639,
+            "defense": 2796,
+            "focus": 2573
+        },
+        "rarity_5": {
+            "health": 4636,
+            "attack": 4096,
+            "defense": 4345,
+            "focus": 4008
+        },
+        "astral_1": {
+            "health": 4636,
+            "attack": 4096,
+            "defense": 4345,
+            "focus": 4008
+        },
+        "astral_2": {
+            "health": 5160,
+            "attack": 4566,
+            "defense": 4840,
+            "focus": 4457
+        },
+        "astral_3": {
+            "health": 5583,
+            "attack": 4935,
+            "defense": 5234,
+            "focus": 4825
+        },
+        "astral_4": {
+            "health": 6007,
+            "attack": 5305,
+            "defense": 5629,
+            "focus": 5194
+        },
+        "astral_5": {
+            "health": 6430,
+            "attack": 5675,
+            "defense": 6023,
+            "focus": 5563
+        },
+        "astral_6": {
+            "health": 6854,
+            "attack": 6044,
+            "defense": 6418,
+            "focus": 5932
+        },
+        "astral_7": {
+            "health": 7066,
+            "attack": 6229,
+            "defense": 6615,
+            "focus": 6116
+        },
+        "astral_8": {
+            "health": 7278,
+            "attack": 6414,
+            "defense": 6812,
+            "focus": 6300
+        },
+        "astral_9": {
+            "health": 7489,
+            "attack": 6599,
+            "defense": 7010,
+            "focus": 6485
+        },
+        "astral_10": {
+            "health": 7701,
+            "attack": 6783,
+            "defense": 7207,
+            "focus": 6669
+        }
+    },
+    "abilities": [
+        {
+            "name": "Resilient Waves",
+            "type": "Core",
+            "info": [
+                "Every 2 seconds Ariel has a 35% chance to Cleanse 1 Damaging Debuff from herself.",
+                "Each time a Damaging Debuff is Cleansed from Ariel, she gains a 12% Attack Buff. (Max Stacks: 10)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/ariel_core.jpg"
+        },
+        {
+            "name": "Raging Riptide",
+            "type": "Special",
+            "info": [
+                "Ariel deals 600% Damage and Knocks Back all enemies in a sweep in front of her.",
+                "Ariel Cleanses all Damaging Debuffs and receives one Attack Buff from her Core Ability. If no Damaging Debuffs are Cleansed Ariel instead gains a 12% Attack Buff for 30 seconds. (Max Stacks: 10)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/ariel_special.jpg"
+        },
+        {
+            "name": "Refreshing Rally",
+            "type": "Signature",
+            "info": [
+                "Ariel\u2019s Special Ability Cleanses 1 Damaging Debuff from all adjacent allies.",
+                "Ariel\u2019s Special Ability grants a 20% Attack Buff for 30 seconds to all adjacent allies. (Max Stacks: 1)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/ariel_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Sea\u2019s Might",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_ariel_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Vital Tide",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_ariel_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Health at the start of an encounter."
+        },
+        {
+            "name": "Pelagic Force",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_ariel_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Attack Buffs Ariel grants herself are 50% stronger."
+        },
+        {
+            "name": "Cleansing Current",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_ariel_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "The chance Ariel Cleanses a Damaging Debuff with her Core Ability is increased by 65%."
+        },
+        {
+            "name": "Nacre Nullification",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_ariel_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Ariel\u2019s Special Ability has a 100% chance to Purge 1 Buff from an opponent she hits."
+        },
+        {
+            "name": "Restoring Ripples",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_ariel_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Each time a Damaging Debuff is Cleansed from Ariel, she Heals 1% per second for 2 seconds. [Max Stacks: 1]"
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-ariel.png"
+}

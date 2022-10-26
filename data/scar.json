@@ -1,0 +1,171 @@
+{
+    "code_name": "scar",
+    "name": "Scar",
+    "catchline": "Shadowy manipulator",
+    "type": "Melee",
+    "data": {
+        "rarity_1": {
+            "health": 713,
+            "attack": 738,
+            "defense": 689,
+            "focus": 850
+        },
+        "rarity_2": {
+            "health": 956,
+            "attack": 985,
+            "defense": 927,
+            "focus": 1100
+        },
+        "rarity_3": {
+            "health": 1711,
+            "attack": 1763,
+            "defense": 1660,
+            "focus": 1961
+        },
+        "rarity_4": {
+            "health": 2612,
+            "attack": 2691,
+            "defense": 2534,
+            "focus": 2996
+        },
+        "rarity_5": {
+            "health": 4055,
+            "attack": 4179,
+            "defense": 3930,
+            "focus": 4676
+        },
+        "astral_1": {
+            "health": 4055,
+            "attack": 4179,
+            "defense": 3930,
+            "focus": 4676
+        },
+        "astral_2": {
+            "health": 4520,
+            "attack": 4657,
+            "defense": 4383,
+            "focus": 5192
+        },
+        "astral_3": {
+            "health": 4886,
+            "attack": 5035,
+            "defense": 4736,
+            "focus": 5627
+        },
+        "astral_4": {
+            "health": 5251,
+            "attack": 5413,
+            "defense": 5089,
+            "focus": 6063
+        },
+        "astral_5": {
+            "health": 5616,
+            "attack": 5791,
+            "defense": 5442,
+            "focus": 6498
+        },
+        "astral_6": {
+            "health": 5982,
+            "attack": 6169,
+            "defense": 5795,
+            "focus": 6934
+        },
+        "astral_7": {
+            "health": 6165,
+            "attack": 6358,
+            "defense": 5971,
+            "focus": 7152
+        },
+        "astral_8": {
+            "health": 6347,
+            "attack": 6547,
+            "defense": 6148,
+            "focus": 7369
+        },
+        "astral_9": {
+            "health": 6530,
+            "attack": 6736,
+            "defense": 6324,
+            "focus": 7587
+        },
+        "astral_10": {
+            "health": 6713,
+            "attack": 6925,
+            "defense": 6501,
+            "focus": 7805
+        }
+    },
+    "abilities": [
+        {
+            "name": "Blood Thirsty",
+            "type": "Core",
+            "info": [
+                "On a Critical Hit, Scar inflicts a Wound, dealing 10% damage each second for 10 seconds. (Max Stacks: 5)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/scar_core.jpg"
+        },
+        {
+            "name": "Long Live The King",
+            "type": "Special",
+            "info": [
+                "Deals 300% damage to Scar's current target and knocks them back.",
+                "Inflicts a Wound, dealing 10% damage each second for 10 seconds. (Max Stacks: 5)",
+                "Inflicts Heal Block for as long as the target has a Wound."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/scar_special.jpg"
+        },
+        {
+            "name": "Inevitability",
+            "type": "Signature",
+            "info": [
+                "Scar's Special Ability has a 100% chance to inflict an additional Wound when the target is below 50% HP. (Max Stacks: 5)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/scar_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Sharpened Claws",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_scar_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Lion's Eye",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_scar_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Focus at the start of an encounter."
+        },
+        {
+            "name": "Deep Cuts",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_scar_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Wounds inflicted by Scar's Special Ability deal an additional 5% damage per second."
+        },
+        {
+            "name": "Dire Shadows",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_scar_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Damage from Scar's Special Ability is increased by an additional 300%."
+        },
+        {
+            "name": "Desperate Strikes",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_scar_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Scar has a 10% chance to inflict a Wound, dealing 10% damage each second for 10 seconds on any hit that is not Critical against targets with no Armor. [Max Stacks: 5]"
+        },
+        {
+            "name": "Escalation",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_scar_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Scar's Special Ability has a 100% chance to grant him a 10% Attack Buff. [Max Stacks: 10]"
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-scar.png"
+}

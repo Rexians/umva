@@ -1,0 +1,172 @@
+{
+    "code_name": "baymax",
+    "name": "Baymax",
+    "catchline": "Personal battle companion",
+    "type": "Tank",
+    "data": {
+        "rarity_1": {
+            "health": 1064,
+            "attack": 606,
+            "defense": 1267,
+            "focus": 243
+        },
+        "rarity_2": {
+            "health": 1402,
+            "attack": 810,
+            "defense": 1645,
+            "focus": 342
+        },
+        "rarity_3": {
+            "health": 2504,
+            "attack": 1449,
+            "defense": 2934,
+            "focus": 615
+        },
+        "rarity_4": {
+            "health": 3824,
+            "attack": 2212,
+            "defense": 4481,
+            "focus": 938
+        },
+        "rarity_5": {
+            "health": 5951,
+            "attack": 3434,
+            "defense": 6989,
+            "focus": 1446
+        },
+        "astral_1": {
+            "health": 5951,
+            "attack": 3434,
+            "defense": 6989,
+            "focus": 1446
+        },
+        "astral_2": {
+            "health": 6621,
+            "attack": 3827,
+            "defense": 7763,
+            "focus": 1620
+        },
+        "astral_3": {
+            "health": 7166,
+            "attack": 4138,
+            "defense": 8412,
+            "focus": 1745
+        },
+        "astral_4": {
+            "health": 7711,
+            "attack": 4448,
+            "defense": 9061,
+            "focus": 1870
+        },
+        "astral_5": {
+            "health": 8256,
+            "attack": 4758,
+            "defense": 9710,
+            "focus": 1994
+        },
+        "astral_6": {
+            "health": 8801,
+            "attack": 5068,
+            "defense": 10358,
+            "focus": 2119
+        },
+        "astral_7": {
+            "health": 9074,
+            "attack": 5223,
+            "defense": 10683,
+            "focus": 2181
+        },
+        "astral_8": {
+            "health": 9346,
+            "attack": 5379,
+            "defense": 11007,
+            "focus": 2243
+        },
+        "astral_9": {
+            "health": 9619,
+            "attack": 5534,
+            "defense": 11332,
+            "focus": 2306
+        },
+        "astral_10": {
+            "health": 9891,
+            "attack": 5689,
+            "defense": 11656,
+            "focus": 2368
+        }
+    },
+    "abilities": [
+        {
+            "name": "Defense Aura",
+            "type": "Core",
+            "info": [
+                "Baymax grants a 25% Defense Buff to other allies in an area around him.",
+                "Immune to Wound and Poison."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/baymax_core_ability.jpg"
+        },
+        {
+            "name": "Armor Field",
+            "type": "Special",
+            "info": [
+                "Baymax activates his Armor Field for 5 seconds.",
+                "While in the field, Baymax and allies gain 1% of their total Defense as Armor every second.",
+                "Enemies within the Armor Field are inflicted with Stun for 1.5 seconds when it activates."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/baymax_special.jpg"
+        },
+        {
+            "name": "Life Support System",
+            "type": "Signature",
+            "info": [
+                "Other allies under 50% HP Heal 1% every second while in the Armor Field."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/baymax_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Mk 1 Defense Chip",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_baymax_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Defense at the start of an encounter."
+        },
+        {
+            "name": "Mk 1 Health Chip",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_baymax_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Health at the start of an encounter."
+        },
+        {
+            "name": "Advanced Field Chip",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_baymax_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Defense Aura grants an additional 5% Defense."
+        },
+        {
+            "name": "Advanced Armor Chip",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_baymax_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Armor Field grants an additional 3% Armor."
+        },
+        {
+            "name": "Kinetic Compensation Chip",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_baymax_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Enemies within the Defense Aura receive a -30% Attack Debuff."
+        },
+        {
+            "name": "Sustainer Chip",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_baymax_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Armor Field lasts 3 seconds longer."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-baymax.png"
+}

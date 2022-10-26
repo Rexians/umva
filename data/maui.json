@@ -1,0 +1,172 @@
+{
+    "code_name": "maui",
+    "name": "Maui",
+    "catchline": "Living legend",
+    "type": "Tank",
+    "data": {
+        "rarity_1": {
+            "health": 1115,
+            "attack": 606,
+            "defense": 912,
+            "focus": 486
+        },
+        "rarity_2": {
+            "health": 1463,
+            "attack": 810,
+            "defense": 1219,
+            "focus": 634
+        },
+        "rarity_3": {
+            "health": 2612,
+            "attack": 1449,
+            "defense": 2182,
+            "focus": 1130
+        },
+        "rarity_4": {
+            "health": 3988,
+            "attack": 2212,
+            "defense": 3331,
+            "focus": 1727
+        },
+        "rarity_5": {
+            "health": 6210,
+            "attack": 3434,
+            "defense": 5172,
+            "focus": 2692
+        },
+        "astral_1": {
+            "health": 6210,
+            "attack": 3434,
+            "defense": 5172,
+            "focus": 2692
+        },
+        "astral_2": {
+            "health": 6906,
+            "attack": 3827,
+            "defense": 5764,
+            "focus": 2991
+        },
+        "astral_3": {
+            "health": 7477,
+            "attack": 4138,
+            "defense": 6231,
+            "focus": 3240
+        },
+        "astral_4": {
+            "health": 8048,
+            "attack": 4448,
+            "defense": 6699,
+            "focus": 3489
+        },
+        "astral_5": {
+            "health": 8619,
+            "attack": 4758,
+            "defense": 7166,
+            "focus": 3738
+        },
+        "astral_6": {
+            "health": 9190,
+            "attack": 5068,
+            "defense": 7633,
+            "focus": 3988
+        },
+        "astral_7": {
+            "health": 9476,
+            "attack": 5223,
+            "defense": 7867,
+            "focus": 4112
+        },
+        "astral_8": {
+            "health": 9761,
+            "attack": 5379,
+            "defense": 8100,
+            "focus": 4237
+        },
+        "astral_9": {
+            "health": 10047,
+            "attack": 5534,
+            "defense": 8334,
+            "focus": 4361
+        },
+        "astral_10": {
+            "health": 10332,
+            "attack": 5689,
+            "defense": 8567,
+            "focus": 4486
+        }
+    },
+    "abilities": [
+        {
+            "name": "Thank You!",
+            "type": "Core",
+            "info": [
+                "Each time an enemy gains a Buff, Maui gains a 10% Defense Buff. (Max Stacks: 10)",
+                "When Maui hits an enemy with a Heavy Attack, he has a 50% chance to gain a 10% Defense Buff from his Core Ability."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/maui_core.jpg"
+        },
+        {
+            "name": "You'Re Welcome!",
+            "type": "Special",
+            "info": [
+                "Maui deals 400% Damage and Knocks Back all enemies around him.",
+                "Maui grants 3% Armor to his allies for each Defense Buff he has then removes all of his Defense Buffs."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/maui_special.jpg"
+        },
+        {
+            "name": "Hero Of Men",
+            "type": "Signature",
+            "info": [
+                "Maui's Special Ability now has a 100% chance to Stun all targets for 2 seconds.",
+                "Maui's Core Ability Defense Buffs now have a (Max Stacks: 15)."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/maui_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Drag Down the Sun",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_maui_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Defense at the start of an encounter."
+        },
+        {
+            "name": "Pull Up the Islands",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_maui_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Health at the start of an encounter."
+        },
+        {
+            "name": "Gracious Gifts",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_maui_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Maui's Special Ability now has a 100% chance to add a 10% Defense Buff to all allies when used. [Max Stacks: 3]"
+        },
+        {
+            "name": "The Mighty Tamatoa",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_maui_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Maui's Special Ability now grants an additional 5% Armor to all his allies when used."
+        },
+        {
+            "name": "Battling the Volcano",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_maui_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Each time Maui gains a Defense Buff from his Core Ability, he also has a 100% chance to gain a 10% Attack Buff. [Max Stacks: 10]"
+        },
+        {
+            "name": "Fighting the Winged Beast",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_maui_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Each time Maui gains a Defense Buff from his Core Ability, he also gains 5% Armor as well."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-maui.png"
+}

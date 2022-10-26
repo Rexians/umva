@@ -1,0 +1,173 @@
+{
+    "code_name": "elsa",
+    "name": "Elsa",
+    "catchline": "Ice storm elemental",
+    "type": "Ranged",
+    "data": {
+        "rarity_1": {
+            "health": 730,
+            "attack": 693,
+            "defense": 414,
+            "focus": 1318
+        },
+        "rarity_2": {
+            "health": 966,
+            "attack": 927,
+            "defense": 556,
+            "focus": 1707
+        },
+        "rarity_3": {
+            "health": 1726,
+            "attack": 1659,
+            "defense": 996,
+            "focus": 3043
+        },
+        "rarity_4": {
+            "health": 2635,
+            "attack": 2533,
+            "defense": 1521,
+            "focus": 4648
+        },
+        "rarity_5": {
+            "health": 4098,
+            "attack": 3932,
+            "defense": 2359,
+            "focus": 7254
+        },
+        "astral_1": {
+            "health": 4098,
+            "attack": 3932,
+            "defense": 2359,
+            "focus": 7254
+        },
+        "astral_2": {
+            "health": 4562,
+            "attack": 4382,
+            "defense": 2631,
+            "focus": 8054
+        },
+        "astral_3": {
+            "health": 4936,
+            "attack": 4737,
+            "defense": 2842,
+            "focus": 8729
+        },
+        "astral_4": {
+            "health": 5309,
+            "attack": 5093,
+            "defense": 3054,
+            "focus": 9405
+        },
+        "astral_5": {
+            "health": 5683,
+            "attack": 5448,
+            "defense": 3266,
+            "focus": 10080
+        },
+        "astral_6": {
+            "health": 6057,
+            "attack": 5803,
+            "defense": 3478,
+            "focus": 10756
+        },
+        "astral_7": {
+            "health": 6244,
+            "attack": 5981,
+            "defense": 3584,
+            "focus": 11093
+        },
+        "astral_8": {
+            "health": 6431,
+            "attack": 6158,
+            "defense": 3690,
+            "focus": 11431
+        },
+        "astral_9": {
+            "health": 6618,
+            "attack": 6336,
+            "defense": 3796,
+            "focus": 11769
+        },
+        "astral_10": {
+            "health": 6805,
+            "attack": 6513,
+            "defense": 3902,
+            "focus": 12106
+        }
+    },
+    "abilities": [
+        {
+            "name": "North Wind",
+            "type": "Core",
+            "info": [
+                "Immune to Freeze.",
+                "Every 10 seconds, a gust of North Wind buffets all enemies, inflicting a -10% Defense Debuff on them. (Max Stacks: 10)",
+                "If an enemy has Frostbite Debuff, the North Wind deals an additional 100% damage to that enemy."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/elsa_core.jpg"
+        },
+        {
+            "name": "Frostbite",
+            "type": "Special",
+            "info": [
+                "Elsa casts a Frostbite Aura on her target's position, which stays in place for 5 seconds. The target is inflicted with a Frostbite Debuff until the end of the encounter.",
+                "Enemies that enter the Frostbite Aura are Rooted and inflicted with Freeze damage, dealing 20% damage per second for as long as they remain inside the Frostbite Aura."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/elsa_special.jpg"
+        },
+        {
+            "name": "Solid Resolve",
+            "type": "Signature",
+            "info": [
+                "Elsa's Frostbite Aura duration is increased by 1 second. While inside the Frostbite Aura, Elsa gains an additional 100% Attack.",
+                "Elsa Resists 25% of all damage while inside the Frostbite Aura."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/elsa_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Ice Spirals",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_elsa_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Focus at the start of an encounter. Elsa's Frostbite Aura duration is increased by 1 second."
+        },
+        {
+            "name": "Black Ice",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_elsa_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Attack at the start of an encounter. Elsa's Frostbite Aura duration is increased by 1 second."
+        },
+        {
+            "name": "Frostlock",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_elsa_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Any Enemy inside the Frostbite Aura has a 100% chance to be inflicted with a -20% Attack Debuff. Elsa's Frostbite Aura duration is increased by 1 second."
+        },
+        {
+            "name": "Frostburn",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_elsa_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Any Enemy inside the Frostbite Aura has a 100% chance to be inflicted with a -20% Defense Debuff. Elsa's Frostbite Aura duration is increased by 1 second."
+        },
+        {
+            "name": "Pack Ice",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_elsa_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "North Wind has a 100% chance to inflict Freeze on all enemies with a Frostbite Debuff. This Freeze deals 50% damage per second for 4 seconds. Elsa's Frostbite Aura duration is increased by 1 second."
+        },
+        {
+            "name": "Flurries",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_elsa_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Elsa's Frostbite Aura now deals an additional 30% damage. Elsa's Frostbite Aura duration is increased by 1 second."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-elsa.png"
+}

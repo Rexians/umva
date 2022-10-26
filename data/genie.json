@@ -1,0 +1,173 @@
+{
+    "code_name": "genie",
+    "name": "Genie",
+    "catchline": "Ascended cosmic comic",
+    "type": "Tank",
+    "data": {
+        "rarity_1": {
+            "health": 1217,
+            "attack": 545,
+            "defense": 1227,
+            "focus": 288
+        },
+        "rarity_2": {
+            "health": 1585,
+            "attack": 737,
+            "defense": 1598,
+            "focus": 396
+        },
+        "rarity_3": {
+            "health": 2828,
+            "attack": 1321,
+            "defense": 2850,
+            "focus": 711
+        },
+        "rarity_4": {
+            "health": 4320,
+            "attack": 2016,
+            "defense": 4353,
+            "focus": 1084
+        },
+        "rarity_5": {
+            "health": 6735,
+            "attack": 3124,
+            "defense": 6787,
+            "focus": 1677
+        },
+        "astral_1": {
+            "health": 6735,
+            "attack": 3124,
+            "defense": 6787,
+            "focus": 1677
+        },
+        "astral_2": {
+            "health": 7483,
+            "attack": 3486,
+            "defense": 7540,
+            "focus": 1874
+        },
+        "astral_3": {
+            "health": 8107,
+            "attack": 3765,
+            "defense": 8169,
+            "focus": 2022
+        },
+        "astral_4": {
+            "health": 8730,
+            "attack": 4045,
+            "defense": 8797,
+            "focus": 2170
+        },
+        "astral_5": {
+            "health": 9353,
+            "attack": 4324,
+            "defense": 9426,
+            "focus": 2317
+        },
+        "astral_6": {
+            "health": 9977,
+            "attack": 4603,
+            "defense": 10055,
+            "focus": 2465
+        },
+        "astral_7": {
+            "health": 10289,
+            "attack": 4743,
+            "defense": 10369,
+            "focus": 2539
+        },
+        "astral_8": {
+            "health": 10600,
+            "attack": 4882,
+            "defense": 10683,
+            "focus": 2613
+        },
+        "astral_9": {
+            "health": 10912,
+            "attack": 5022,
+            "defense": 10998,
+            "focus": 2686
+        },
+        "astral_10": {
+            "health": 11224,
+            "attack": 5161,
+            "defense": 11312,
+            "focus": 2760
+        }
+    },
+    "abilities": [
+        {
+            "name": "Near Unlimited Power",
+            "type": "Core",
+            "info": [
+                "When Genie drops below 75%, 50% or 25% HP for the first time in an encounter, he gains an Indestructible Buff for 5 seconds. When this Buff expires or is removed, he Stuns all nearby enemies for 4 seconds.",
+                "Whenever Genie gains an Indestructible Buff in this way, he gains 25% Armor."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/genie_core.jpg"
+        },
+        {
+            "name": "Cosmic Commotion",
+            "type": "Special",
+            "info": [
+                "Genie deals 400% damage and Knock Back to all enemies around him.",
+                "Genie gains a 25% Defense Buff for 10 seconds (Max Stacks: 1), gains 10% Armor, and Lures all enemies for 10 seconds."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/genie_special.jpg"
+        },
+        {
+            "name": "Cosmic Might",
+            "type": "Signature",
+            "info": [
+                "Whenever Genie's Core Ability activates, he gains a 50% Attack Buff that lasts until the end of the encounter. (Max Stacks: 3)",
+                "Genie's Core Ability grants an additional 25% Armor.",
+                "Genie's Special Ability grants an additional 5% Armor."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/genie_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Stellar Connection",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_genie_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Health at the start of an encounter."
+        },
+        {
+            "name": "Cosmic Constitution",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_genie_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Defense at the start of an encounter."
+        },
+        {
+            "name": "Disarming Personality",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_genie_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Defense Buffs provided by Genie grant an additional 30% Defense."
+        },
+        {
+            "name": "Wish #1",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_genie_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Whenever Genie's Core Ability activates, he grants a 30% Defense Buff to all other allies."
+        },
+        {
+            "name": "Wish #2",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_genie_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Whenever Genie's Core Ability activates, he grants 20% Armor to all other allies."
+        },
+        {
+            "name": "Wish #3",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_genie_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Whenever Genie's Core Ability activates, he grants an Indestructible Buff for 8 seconds to all other allies."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-genie.png"
+}

@@ -1,0 +1,172 @@
+{
+    "code_name": "wall-e",
+    "name": "WALL\u2022E",
+    "catchline": "Terraformer of planets",
+    "type": "Tank",
+    "data": {
+        "rarity_1": {
+            "health": 1165,
+            "attack": 572,
+            "defense": 1064,
+            "focus": 365
+        },
+        "rarity_2": {
+            "health": 1523,
+            "attack": 769,
+            "defense": 1402,
+            "focus": 488
+        },
+        "rarity_3": {
+            "health": 2719,
+            "attack": 1378,
+            "defense": 2504,
+            "focus": 873
+        },
+        "rarity_4": {
+            "health": 4152,
+            "attack": 2103,
+            "defense": 3824,
+            "focus": 1333
+        },
+        "rarity_5": {
+            "health": 6470,
+            "attack": 3262,
+            "defense": 5951,
+            "focus": 2069
+        },
+        "astral_1": {
+            "health": 6470,
+            "attack": 3262,
+            "defense": 5951,
+            "focus": 2069
+        },
+        "astral_2": {
+            "health": 7192,
+            "attack": 3638,
+            "defense": 6621,
+            "focus": 2306
+        },
+        "astral_3": {
+            "health": 7789,
+            "attack": 3931,
+            "defense": 7166,
+            "focus": 2493
+        },
+        "astral_4": {
+            "health": 8386,
+            "attack": 4224,
+            "defense": 7711,
+            "focus": 2679
+        },
+        "astral_5": {
+            "health": 8983,
+            "attack": 4517,
+            "defense": 8256,
+            "focus": 2866
+        },
+        "astral_6": {
+            "health": 9580,
+            "attack": 4810,
+            "defense": 8801,
+            "focus": 3053
+        },
+        "astral_7": {
+            "health": 9878,
+            "attack": 4956,
+            "defense": 9074,
+            "focus": 3147
+        },
+        "astral_8": {
+            "health": 10177,
+            "attack": 5103,
+            "defense": 9346,
+            "focus": 3240
+        },
+        "astral_9": {
+            "health": 10475,
+            "attack": 5249,
+            "defense": 9619,
+            "focus": 3334
+        },
+        "astral_10": {
+            "health": 10774,
+            "attack": 5396,
+            "defense": 9891,
+            "focus": 3427
+        }
+    },
+    "abilities": [
+        {
+            "name": "Recycle Cycle",
+            "type": "Core",
+            "info": [
+                "Immune to Wound and Poison.",
+                "WALL\u2022E cannot be Healed by allies or other effects. When WALL\u2022E is the target of a Heal effect, he gains 5% Armor.",
+                "Whenever any Buff on WALL\u2022E expires, he gains 5% Armor.",
+                "Every 10 seconds, WALL\u2022E gets a 5% Defense Buff for 10 seconds."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/walle_core.jpg"
+        },
+        {
+            "name": "Full Tank",
+            "type": "Special",
+            "info": [
+                "WALL\u2022E gains 5 5% Defense Buffs for 5 seconds. (Max Stacks: 5). Then, WALL\u2022E Knocks Back all enemies around him."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/walle_special.jpg"
+        },
+        {
+            "name": "Trickle Charge",
+            "type": "Signature",
+            "info": [
+                "When WALL\u2022E is the target of a Heal effect, he gains a Heal Charge (Max Stacks: 3). If WALL\u2022E uses his Special Ability when he has 3 Heal Charges, all Heal Charges are removed, and he is Healed for 25% HP."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/walle_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Reinforced Tread",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_walle_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Defense at the start of an encounter. WALL\u2022E's Basic Attacks break Chromastones in a single hit."
+        },
+        {
+            "name": "Rubberized Underlay",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_walle_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Health at the start of an encounter. If an enemy with a Shock is defeated, WALL\u2022E gains 1 Junk Buff for 10 seconds. [Max Stacks: 10]"
+        },
+        {
+            "name": "Reduce",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_walle_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Whenever an enemy with a Buff is defeated, WALL\u2022E has a 100% chance of gaining a Junk Buff for 10 seconds. [Max Stacks: 10]"
+        },
+        {
+            "name": "Reuse",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_walle_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "When an ally's Buff expires, or is Purged, WALL\u2022E grants them 5% Armor."
+        },
+        {
+            "name": "Recycle",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_walle_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "If an enemy has a Buff removed or Purged WALL\u2022E has a 100% chance of gaining a Junk Buff for 10 seconds. [Max Stacks: 10]"
+        },
+        {
+            "name": "Junk Collector",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_walle_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Each time an enemy's Debuff is removed, expires or is Cleansed, WALL\u2022E has a 100% chance to gain a Junk Buff for 10 seconds. [Max Stacks: 10] If an enemy has a Buff Purged, WALL\u2022E grants all allies 5% Armor."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-walle.png"
+}

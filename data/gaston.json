@@ -1,0 +1,172 @@
+{
+    "code_name": "gaston",
+    "name": "Gaston",
+    "catchline": "Merciless beast hunter",
+    "type": "Ranged",
+    "data": {
+        "rarity_1": {
+            "health": 730,
+            "attack": 716,
+            "defense": 428,
+            "focus": 1216
+        },
+        "rarity_2": {
+            "health": 966,
+            "attack": 954,
+            "defense": 574,
+            "focus": 1584
+        },
+        "rarity_3": {
+            "health": 1726,
+            "attack": 1707,
+            "defense": 1027,
+            "focus": 2826
+        },
+        "rarity_4": {
+            "health": 2635,
+            "attack": 2607,
+            "defense": 1567,
+            "focus": 4317
+        },
+        "rarity_5": {
+            "health": 4098,
+            "attack": 4049,
+            "defense": 2433,
+            "focus": 6729
+        },
+        "astral_1": {
+            "health": 4098,
+            "attack": 4049,
+            "defense": 2433,
+            "focus": 6729
+        },
+        "astral_2": {
+            "health": 4561,
+            "attack": 4511,
+            "defense": 2712,
+            "focus": 7477
+        },
+        "astral_3": {
+            "health": 4935,
+            "attack": 4878,
+            "defense": 2931,
+            "focus": 8100
+        },
+        "astral_4": {
+            "health": 5309,
+            "attack": 5245,
+            "defense": 3151,
+            "focus": 8723
+        },
+        "astral_5": {
+            "health": 5683,
+            "attack": 5612,
+            "defense": 3370,
+            "focus": 9346
+        },
+        "astral_6": {
+            "health": 6056,
+            "attack": 5979,
+            "defense": 3589,
+            "focus": 9969
+        },
+        "astral_7": {
+            "health": 6243,
+            "attack": 6162,
+            "defense": 3699,
+            "focus": 10281
+        },
+        "astral_8": {
+            "health": 6430,
+            "attack": 6346,
+            "defense": 3808,
+            "focus": 10592
+        },
+        "astral_9": {
+            "health": 6617,
+            "attack": 6529,
+            "defense": 3918,
+            "focus": 10904
+        },
+        "astral_10": {
+            "health": 6804,
+            "attack": 6713,
+            "defense": 4028,
+            "focus": 11215
+        }
+    },
+    "abilities": [
+        {
+            "name": "Thrill Of The Hunt",
+            "type": "Core",
+            "info": [
+                "Heavy Attacks inflict a Wound on Gaston's target, dealing 20% damage per second, for 5 seconds. (Max Stacks: 1)",
+                "While his target is inflicted with Wound, Gaston gains +15% Critical Chance.",
+                "Gaston's Critical Hits Purge 1 Defense Buff from his target if they are inflicted with Wound."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/gaston_core.jpg"
+        },
+        {
+            "name": "Fatal Wound",
+            "type": "Special",
+            "info": [
+                "Gaston fires an arrow at his target which deals 300% damage on hit.",
+                "If Gaston's target is inflicted with Wound, he deals an additional 500% damage."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/gaston_special.jpg"
+        },
+        {
+            "name": "No Mercy",
+            "type": "Signature",
+            "info": [
+                "When Gaston damages an enemy below 30% HP, he gains a 75% Attack Buff for 5 seconds. (Max Stacks: 1)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/gaston_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Broadhead Bolts",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_gaston_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Target Practice",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_gaston_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Focus at the start of an encounter."
+        },
+        {
+            "name": "Insult to Injury",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_gaston_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Each time Gaston Purges a Defense Buff from his target, he has a 50% chance to inflict a Wound, dealing 10% damage per second, for 5 seconds."
+        },
+        {
+            "name": "Prized Possessions",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_gaston_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Each time Gaston defeats an enemy, he gains a 15% Focus Buff for the duration of the encounter. [Max Stacks: 5]"
+        },
+        {
+            "name": "Intimidate",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_gaston_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Enemies close to Gaston receive a -30% Defense Debuff."
+        },
+        {
+            "name": "Snare",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_gaston_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Gaston's Special Ability has a 100% chance to Root his target for 2 seconds. [Max Stacks: 1]"
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-gaston.png"
+}

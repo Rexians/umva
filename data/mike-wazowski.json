@@ -1,0 +1,174 @@
+{
+    "code_name": "mike-wazowski",
+    "name": "Mike Wazowski",
+    "catchline": "Monstrous mechanized pal",
+    "type": "Support",
+    "data": {
+        "rarity_1": {
+            "health": 851,
+            "attack": 519,
+            "defense": 511,
+            "focus": 847
+        },
+        "rarity_2": {
+            "health": 1121,
+            "attack": 703,
+            "defense": 683,
+            "focus": 1112
+        },
+        "rarity_3": {
+            "health": 2003,
+            "attack": 1259,
+            "defense": 1222,
+            "focus": 1985
+        },
+        "rarity_4": {
+            "health": 3059,
+            "attack": 1922,
+            "defense": 1866,
+            "focus": 3031
+        },
+        "rarity_5": {
+            "health": 4761,
+            "attack": 2978,
+            "defense": 2896,
+            "focus": 4720
+        },
+        "astral_1": {
+            "health": 4761,
+            "attack": 2978,
+            "defense": 2896,
+            "focus": 4720
+        },
+        "astral_2": {
+            "health": 5297,
+            "attack": 3324,
+            "defense": 3228,
+            "focus": 5249
+        },
+        "astral_3": {
+            "health": 5733,
+            "attack": 3589,
+            "defense": 3490,
+            "focus": 5683
+        },
+        "astral_4": {
+            "health": 6169,
+            "attack": 3855,
+            "defense": 3751,
+            "focus": 6117
+        },
+        "astral_5": {
+            "health": 6605,
+            "attack": 4121,
+            "defense": 4013,
+            "focus": 6551
+        },
+        "astral_6": {
+            "health": 7041,
+            "attack": 4387,
+            "defense": 4275,
+            "focus": 6985
+        },
+        "astral_7": {
+            "health": 7259,
+            "attack": 4520,
+            "defense": 4405,
+            "focus": 7202
+        },
+        "astral_8": {
+            "health": 7477,
+            "attack": 4653,
+            "defense": 4536,
+            "focus": 7419
+        },
+        "astral_9": {
+            "health": 7695,
+            "attack": 4786,
+            "defense": 4667,
+            "focus": 7636
+        },
+        "astral_10": {
+            "health": 7913,
+            "attack": 4918,
+            "defense": 4798,
+            "focus": 7853
+        }
+    },
+    "abilities": [
+        {
+            "name": "Expert Coach",
+            "type": "Core",
+            "info": [
+                "After a Heavy Attack, the ally with the lowest HP percentage Heals 6%, and all allies with less than 20% health Heal 6%. This ability has a 5 second cooldown.",
+                "Defense Buffs from all allies grant an additional 10% Defense while Mike is in the encounter.",
+                "Any time an ally gains Armor while they already have Armor, they gain a 10% Attack Buff for 5 seconds. (Max Stacks: 1)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/mikewazowski_core.jpg"
+        },
+        {
+            "name": "Rallying Cry",
+            "type": "Special",
+            "info": [
+                "Current target gains Lure for 10 seconds.",
+                "Allies gain 10% Armor.",
+                "80% chance to Cleanse 1 Attribute Debuff from all allies."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/mike_wazowski_special.jpg"
+        },
+        {
+            "name": "We'Re A Team!",
+            "type": "Signature",
+            "info": [
+                "Grants 8% to all Attributes for all allies while Mike is in the encounter.",
+                "When Mike or one of his allies drops below 20% Health for the first time in an encounter, that ally immediately Heals 25%."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/mikewazowski_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Keep an Eye Out",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_mikewazowski_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +10% Attack at the start of an encounter. Grants +5% Attack to all other allies while Mike is in the encounter."
+        },
+        {
+            "name": "Importance of Friendship",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_mikewazowski_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +10% Defense at the start of an encounter. Grants +5% Defense to all other allies while Mike is in the encounter."
+        },
+        {
+            "name": "I Need a Favor",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_mikewazowski_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Increase chance for Special Ability to Cleanse by 20%. +70% chance for Special Ability to Cleanse an additional Attribute Debuff from Mike and his allies."
+        },
+        {
+            "name": "Encouraging Words",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_mikewazowski_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Heals from all allies are 20% stronger while Mike is in the encounter."
+        },
+        {
+            "name": "Proper Threat",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_mikewazowski_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Armor gained by all allies is 20% stronger while Mike is in the encounter."
+        },
+        {
+            "name": "You Got This Buddy!",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_mikewazowski_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Ally Special Abilities are 30% stronger while Mike is in the encounter."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-mikewazowski.png"
+}

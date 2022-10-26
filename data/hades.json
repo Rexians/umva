@@ -1,0 +1,174 @@
+{
+    "code_name": "hades",
+    "name": "Hades",
+    "catchline": "Commander of the underworld",
+    "type": "Ranged",
+    "data": {
+        "rarity_1": {
+            "health": 766,
+            "attack": 732,
+            "defense": 413,
+            "focus": 1319
+        },
+        "rarity_2": {
+            "health": 1009,
+            "attack": 973,
+            "defense": 556,
+            "focus": 1708
+        },
+        "rarity_3": {
+            "health": 1803,
+            "attack": 1740,
+            "defense": 996,
+            "focus": 3045
+        },
+        "rarity_4": {
+            "health": 2753,
+            "attack": 2657,
+            "defense": 1520,
+            "focus": 4652
+        },
+        "rarity_5": {
+            "health": 4285,
+            "attack": 4128,
+            "defense": 2358,
+            "focus": 7259
+        },
+        "astral_1": {
+            "health": 4285,
+            "attack": 4128,
+            "defense": 2358,
+            "focus": 7259
+        },
+        "astral_2": {
+            "health": 4767,
+            "attack": 4598,
+            "defense": 2630,
+            "focus": 8060
+        },
+        "astral_3": {
+            "health": 5159,
+            "attack": 4973,
+            "defense": 2842,
+            "focus": 8736
+        },
+        "astral_4": {
+            "health": 5552,
+            "attack": 5347,
+            "defense": 3053,
+            "focus": 9412
+        },
+        "astral_5": {
+            "health": 5944,
+            "attack": 5722,
+            "defense": 3265,
+            "focus": 10087
+        },
+        "astral_6": {
+            "health": 6337,
+            "attack": 6097,
+            "defense": 3477,
+            "focus": 10763
+        },
+        "astral_7": {
+            "health": 6533,
+            "attack": 6284,
+            "defense": 3583,
+            "focus": 11101
+        },
+        "astral_8": {
+            "health": 6729,
+            "attack": 6472,
+            "defense": 3689,
+            "focus": 11439
+        },
+        "astral_9": {
+            "health": 6925,
+            "attack": 6659,
+            "defense": 3795,
+            "focus": 11777
+        },
+        "astral_10": {
+            "health": 7122,
+            "attack": 6847,
+            "defense": 3901,
+            "focus": 12115
+        }
+    },
+    "abilities": [
+        {
+            "name": "Flames Of Tartarus",
+            "type": "Core",
+            "info": [
+                "Immune to Burn.",
+                "Critical Hits inflict a Burn dealing 10% damage per second for 3 seconds. If the target has Armor, the damage and duration of the Burn is doubled.",
+                "Heavy Attacks have a 50% chance to inflict the same Burn and effect as Hades' Core Ability."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/hades_core.jpg"
+        },
+        {
+            "name": "Well Of Souls",
+            "type": "Special",
+            "info": [
+                "Hades Purges Indestructible Buffs from all targets hit by this attack.",
+                "Hades then deals 400% damage to all enemies in a small area around the current target.",
+                "If the target is inflicted with a Burn, they suffer 600% damage instead.",
+                "Finally, Hades inflicts a Burn dealing 10% damage per second, for 5 seconds."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/hades_special.jpg"
+        },
+        {
+            "name": "Last Laugh",
+            "type": "Signature",
+            "info": [
+                "If Hades defeats a target with his Special Ability, that target explodes, dealing 400% damage to all enemies. This ability can be retriggered by itself and enemies defeated in this way also explode and deal the same damage to all enemies."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/hades_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Panic",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_hades_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Focus at the start of an encounter."
+        },
+        {
+            "name": "Pain",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_hades_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Spite",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_hades_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "On Critical Hits, Hades' attacks have a 100% chance to inflict a -10% Attack Debuff to any enemies they hit for 5 seconds. [Max Stacks: 1] On Critical Hits, Hades' attacks Purge an Attack Buff or Defense Buff for each Burn on any enemies they hit."
+        },
+        {
+            "name": "Fury",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_hades_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Hades' Special Ability deals an additional 200% damage. Hades' Special Ability deals an additional 100% damage to all enemies it hits for each Burn on the targeted enemy."
+        },
+        {
+            "name": "Cruelty",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_hades_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Each time an enemy gains Armor, Hades gains a 40% Focus Buff. [Max Stacks: 5]"
+        },
+        {
+            "name": "Arrogance",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_hades_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Hades' Special Ability inflicts a Burn dealing 10% Damage per second for 3 seconds. All of Hades' Burns are increased by 3 second(s), for each enemy defeated by his Special Ability. [Max Stacks: 5]"
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-hades.png"
+}

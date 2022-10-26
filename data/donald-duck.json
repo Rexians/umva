@@ -1,0 +1,172 @@
+{
+    "code_name": "donald-duck",
+    "name": "Donald Duck",
+    "catchline": "Cantankerous iron-clad sailor",
+    "type": "Tank",
+    "data": {
+        "rarity_1": {
+            "health": 861,
+            "attack": 639,
+            "defense": 1216,
+            "focus": 365
+        },
+        "rarity_2": {
+            "health": 1159,
+            "attack": 850,
+            "defense": 1584,
+            "focus": 488
+        },
+        "rarity_3": {
+            "health": 2075,
+            "attack": 1520,
+            "defense": 2826,
+            "focus": 873
+        },
+        "rarity_4": {
+            "health": 3167,
+            "attack": 2321,
+            "defense": 4317,
+            "focus": 1333
+        },
+        "rarity_5": {
+            "health": 4912,
+            "attack": 3607,
+            "defense": 6729,
+            "focus": 2069
+        },
+        "astral_1": {
+            "health": 4912,
+            "attack": 3607,
+            "defense": 6729,
+            "focus": 2069
+        },
+        "astral_2": {
+            "health": 5479,
+            "attack": 4017,
+            "defense": 7477,
+            "focus": 2306
+        },
+        "astral_3": {
+            "health": 5920,
+            "attack": 4345,
+            "defense": 8100,
+            "focus": 2493
+        },
+        "astral_4": {
+            "health": 6361,
+            "attack": 4672,
+            "defense": 8723,
+            "focus": 2679
+        },
+        "astral_5": {
+            "health": 6802,
+            "attack": 4999,
+            "defense": 9346,
+            "focus": 2866
+        },
+        "astral_6": {
+            "health": 7244,
+            "attack": 5327,
+            "defense": 9969,
+            "focus": 3053
+        },
+        "astral_7": {
+            "health": 7464,
+            "attack": 5491,
+            "defense": 10281,
+            "focus": 3147
+        },
+        "astral_8": {
+            "health": 7685,
+            "attack": 5654,
+            "defense": 10592,
+            "focus": 3240
+        },
+        "astral_9": {
+            "health": 7906,
+            "attack": 5818,
+            "defense": 10904,
+            "focus": 3334
+        },
+        "astral_10": {
+            "health": 8126,
+            "attack": 5982,
+            "defense": 11215,
+            "focus": 3427
+        }
+    },
+    "abilities": [
+        {
+            "name": "Passive Aggression",
+            "type": "Core",
+            "info": [
+                "Each time an enemy hits Donald Duck, he has a 10% chance to gain a 10% Defense Buff for the remainder of the Encounter. (Max Stacks: 10)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/donald_duck_core.jpg"
+        },
+        {
+            "name": "Aggressive Passion",
+            "type": "Special",
+            "info": [
+                "Each time Donald Duck activates his Special Ability, he gains 10% Defense as Armor.",
+                "Each Defense Buff on Donald Duck is removed, and replaced with a 10% Attack Buff for 10 seconds. (Max Stacks: 10)",
+                "Donald Duck deals 400% damage and Knocks Back all enemies around him."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/donald_duck_special.jpg"
+        },
+        {
+            "name": "Reinforcements",
+            "type": "Signature",
+            "info": [
+                "Donald Duck's Special Ability grants an additional 50% Armor.",
+                "Donald Duck's Special Ability now deals 200% additional damage."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/donald_duck_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Anchor Aweigh",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_donald_duck_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Defense at the start of an encounter."
+        },
+        {
+            "name": "Fighting Mad",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_donald_duck_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Boiling Over",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_donald_duck_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Donald Duck's Core Ability has an additional 20% chance to activate."
+        },
+        {
+            "name": "Steeled Resolve",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_donald_duck_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Donald Duck's Special Ability grants an additional 5% Armor when activated."
+        },
+        {
+            "name": "Defensive Attitude",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_donald_duck_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Donald Duck's Core Ability has a 100% chance to grant an additional 10% Defense Buff when it activates."
+        },
+        {
+            "name": "Short Fuse",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_donald_duck_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "The Attack Buffs granted by Donald Duck's Special Ability last an additional 5 seconds."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-donald-duck.png"
+}

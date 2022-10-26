@@ -1,0 +1,176 @@
+{
+    "code_name": "captain-hook",
+    "name": "Captain Hook",
+    "catchline": "Vainglorious vengeful swordsman",
+    "type": "Melee",
+    "data": {
+        "rarity_1": {
+            "health": 689,
+            "attack": 811,
+            "defense": 770,
+            "focus": 713
+        },
+        "rarity_2": {
+            "health": 927,
+            "attack": 1073,
+            "defense": 1024,
+            "focus": 936
+        },
+        "rarity_3": {
+            "health": 1660,
+            "attack": 1918,
+            "defense": 1832,
+            "focus": 1671
+        },
+        "rarity_4": {
+            "health": 2534,
+            "attack": 2928,
+            "defense": 2797,
+            "focus": 2552
+        },
+        "rarity_5": {
+            "health": 3930,
+            "attack": 4553,
+            "defense": 4346,
+            "focus": 3975
+        },
+        "astral_1": {
+            "health": 3930,
+            "attack": 4553,
+            "defense": 4346,
+            "focus": 3975
+        },
+        "astral_2": {
+            "health": 4383,
+            "attack": 5069,
+            "defense": 4840,
+            "focus": 4420
+        },
+        "astral_3": {
+            "health": 4736,
+            "attack": 5484,
+            "defense": 5235,
+            "focus": 4786
+        },
+        "astral_4": {
+            "health": 5089,
+            "attack": 5899,
+            "defense": 5629,
+            "focus": 5151
+        },
+        "astral_5": {
+            "health": 5442,
+            "attack": 6315,
+            "defense": 6024,
+            "focus": 5516
+        },
+        "astral_6": {
+            "health": 5795,
+            "attack": 6730,
+            "defense": 6419,
+            "focus": 5882
+        },
+        "astral_7": {
+            "health": 5971,
+            "attack": 6938,
+            "defense": 6616,
+            "focus": 6065
+        },
+        "astral_8": {
+            "health": 6148,
+            "attack": 7145,
+            "defense": 6813,
+            "focus": 6247
+        },
+        "astral_9": {
+            "health": 6324,
+            "attack": 7353,
+            "defense": 7010,
+            "focus": 6430
+        },
+        "astral_10": {
+            "health": 6501,
+            "attack": 7561,
+            "defense": 7208,
+            "focus": 6613
+        }
+    },
+    "abilities": [
+        {
+            "name": "Captain'S Mark",
+            "type": "Core",
+            "info": [
+                "When Captain Hook attacks an enemy without Armor or Lure, he applies a Mark. Only one enemy can be Marked at a time.",
+                "When a Marked enemy gains Armor or Lure, Mark is removed.",
+                "Captain Hook gains a 20% Attack Buff against Marked enemies.",
+                "If Captain Hook is the only Guardian attacking a Marked enemy, the enemy gains a -10% Attack Debuff.",
+                "When a Marked enemy is defeated, Captain Hook gains a 15% Attack Buff for 4 seconds."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/captain_hook_core.jpg"
+        },
+        {
+            "name": "Duelist'S Edge",
+            "type": "Special",
+            "info": [
+                "Captain Hook deals 4 hits, totaling 300% damage and inflicts Knock Back.",
+                "An additional 300% damage is dealt if the enemy is Marked.",
+                "If this defeats an enemy, Captain Hook gains 10% Attack Buff until the end of the Encounter. (Max Stacks: 4)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/captain_hook_special.jpg"
+        },
+        {
+            "name": "Rising Revenge",
+            "type": "Signature",
+            "info": [
+                "Captain Hook's Basic Attacks have a 25% chance to Purge 1 Buff from a Marked enemy.",
+                "The chance to Purge 1 Buff increases by 5% for each consecutive Basic Attack on the same target, up to 35%."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/captain_hook_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Captain's Cutlass",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_captain_hook_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Captain's Spyglass",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_captain_hook_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Focus at the start of an encounter."
+        },
+        {
+            "name": "Durable Doublet",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_captain_hook_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Gain a 30% Defense Buff when fighting a Marked enemy target."
+        },
+        {
+            "name": "Pirate's Blockade",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_captain_hook_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Captain Hook's Basic Attacks have a 50% chance to Heal Block a Marked enemy for 10 seconds. Enemies cannot receive a new Heal Block until the old one expires. Captain Hook's Special Ability has a 100% chance for the same effect."
+        },
+        {
+            "name": "Slashing Strike",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_captain_hook_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Captain Hook's Basic Attacks have a 50% chance to Wound a Marked enemy, dealing 15% damage per second, for 4 seconds. Captain Hook's Special Ability has a 100% chance for the same effect. [Max Stacks: 1]"
+        },
+        {
+            "name": "Overboard",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_captain_hook_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "If two or more enemies are targeting Captain Hook, his Basic Attacks have a 20% chance to Knock Back his targeted enemy and Stun them for 1 second(s). This Knock Back does not affect Bosses. Captain Hook's Special Ability has a 50% chance for the same effect."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-captain-hook.png"
+}

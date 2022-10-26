@@ -1,0 +1,173 @@
+{
+    "code_name": "buzz-lightyear",
+    "name": "Buzz Lightyear",
+    "catchline": "Prototypical space ranger",
+    "type": "Ranged",
+    "data": {
+        "rarity_1": {
+            "health": 657,
+            "attack": 693,
+            "defense": 486,
+            "focus": 1267
+        },
+        "rarity_2": {
+            "health": 878,
+            "attack": 927,
+            "defense": 644,
+            "focus": 1645
+        },
+        "rarity_3": {
+            "health": 1571,
+            "attack": 1658,
+            "defense": 1150,
+            "focus": 2934
+        },
+        "rarity_4": {
+            "health": 2399,
+            "attack": 2532,
+            "defense": 1757,
+            "focus": 4481
+        },
+        "rarity_5": {
+            "health": 3724,
+            "attack": 3931,
+            "defense": 2732,
+            "focus": 6989
+        },
+        "astral_1": {
+            "health": 3724,
+            "attack": 3931,
+            "defense": 2732,
+            "focus": 6989
+        },
+        "astral_2": {
+            "health": 4150,
+            "attack": 4381,
+            "defense": 3041,
+            "focus": 7763
+        },
+        "astral_3": {
+            "health": 4487,
+            "attack": 4736,
+            "defense": 3290,
+            "focus": 8412
+        },
+        "astral_4": {
+            "health": 4823,
+            "attack": 5091,
+            "defense": 3539,
+            "focus": 9061
+        },
+        "astral_5": {
+            "health": 5159,
+            "attack": 5446,
+            "defense": 3788,
+            "focus": 9710
+        },
+        "astral_6": {
+            "health": 5496,
+            "attack": 5801,
+            "defense": 4038,
+            "focus": 10358
+        },
+        "astral_7": {
+            "health": 5664,
+            "attack": 5979,
+            "defense": 4162,
+            "focus": 10683
+        },
+        "astral_8": {
+            "health": 5832,
+            "attack": 6156,
+            "defense": 4287,
+            "focus": 11007
+        },
+        "astral_9": {
+            "health": 6000,
+            "attack": 6334,
+            "defense": 4411,
+            "focus": 11332
+        },
+        "astral_10": {
+            "health": 6169,
+            "attack": 6511,
+            "defense": 4536,
+            "focus": 11656
+        }
+    },
+    "abilities": [
+        {
+            "name": "Disruptor Pulse",
+            "type": "Core",
+            "info": [
+                "Buzz's Basic Attacks remove 5% Armor from enemy targets.",
+                "Buzz's Heavy Attacks remove 20% Armor and have a 60% chance to inflict a Shock, dealing 5% damage per second, for 5 seconds. (Max Stacks: 1)",
+                "After a Dash, Buzz gains a +50% Focus Buff for 2 seconds. (Max Stacks: 1)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/buzz_lightyear_core.jpg"
+        },
+        {
+            "name": "Disruptor Cannon",
+            "type": "Special",
+            "info": [
+                "Buzz deals 200% damage to all enemies in a straight line and removes 100% Armor from each target.",
+                "Enemies hit by Buzz's Special Ability are inflicted with a Shock, dealing 60% damage per second, for 5 seconds.",
+                "If an enemy is inflicted with a Shock, then hit by the Special Ability, they are Stunned for 2 seconds."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/buzz_lightyear_special.jpg"
+        },
+        {
+            "name": "Disruptive Plating",
+            "type": "Signature",
+            "info": [
+                "When Buzz uses his Special Ability, he gains 15% Armor."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/buzz_lightyear_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Targeting System",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_buzzlightyear_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Focus at the start of an encounter."
+        },
+        {
+            "name": "Terillium-Carbonic Alloy",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_buzzlightyear_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Defense at the start of an encounter."
+        },
+        {
+            "name": "Focus Fire",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_buzzlightyear_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "When Buzz\u2019s attack removes all of an enemy target\u2019s Armor, he receives a 10% Focus Buff that lasts until the end of the encounter."
+        },
+        {
+            "name": "Energy Shield",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_buzzlightyear_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Critical Hits give Buzz a 30% Defense Buff that lasts until the end of the encounter."
+        },
+        {
+            "name": "EMP Modulator",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_buzzlightyear_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "If an enemy target has no Armor, Critical Hits from Buzz's Basic Attacks inflict a Shock, dealing 50% damage per second, for 3 seconds. [Max Stacks: 2]"
+        },
+        {
+            "name": "Disruptor Upgrade",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_buzzlightyear_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "When Buzz activates his Core Ability, he removes an additional 5% Armor. The Shock from Buzz's Special Ability deals an additional 60% damage."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-buzz-lightyear.png"
+}

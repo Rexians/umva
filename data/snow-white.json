@@ -1,0 +1,174 @@
+{
+    "code_name": "snow-white",
+    "name": "Snow White",
+    "catchline": "Stalwart friend of the forest",
+    "type": "Melee",
+    "data": {
+        "rarity_1": {
+            "health": 811,
+            "attack": 811,
+            "defense": 892,
+            "focus": 584
+        },
+        "rarity_2": {
+            "health": 1073,
+            "attack": 1073,
+            "defense": 1170,
+            "focus": 780
+        },
+        "rarity_3": {
+            "health": 1917,
+            "attack": 1917,
+            "defense": 2089,
+            "focus": 1397
+        },
+        "rarity_4": {
+            "health": 2928,
+            "attack": 2928,
+            "defense": 3191,
+            "focus": 2132
+        },
+        "rarity_5": {
+            "health": 4553,
+            "attack": 4553,
+            "defense": 4968,
+            "focus": 3310
+        },
+        "astral_1": {
+            "health": 4553,
+            "attack": 4553,
+            "defense": 4968,
+            "focus": 3310
+        },
+        "astral_2": {
+            "health": 5068,
+            "attack": 5068,
+            "defense": 5525,
+            "focus": 3689
+        },
+        "astral_3": {
+            "health": 5484,
+            "attack": 5484,
+            "defense": 5982,
+            "focus": 3988
+        },
+        "astral_4": {
+            "health": 5899,
+            "attack": 5899,
+            "defense": 6439,
+            "focus": 4287
+        },
+        "astral_5": {
+            "health": 6314,
+            "attack": 6314,
+            "defense": 6896,
+            "focus": 4586
+        },
+        "astral_6": {
+            "health": 6729,
+            "attack": 6729,
+            "defense": 7352,
+            "focus": 4885
+        },
+        "astral_7": {
+            "health": 6937,
+            "attack": 6937,
+            "defense": 7581,
+            "focus": 5035
+        },
+        "astral_8": {
+            "health": 7145,
+            "attack": 7145,
+            "defense": 7809,
+            "focus": 5184
+        },
+        "astral_9": {
+            "health": 7352,
+            "attack": 7352,
+            "defense": 8038,
+            "focus": 5334
+        },
+        "astral_10": {
+            "health": 7560,
+            "attack": 7560,
+            "defense": 8266,
+            "focus": 5483
+        }
+    },
+    "abilities": [
+        {
+            "name": "Rosewood Armor",
+            "type": "Core",
+            "info": [
+                "Immune to Poison.",
+                "Every 5 seconds, Snow White gains a Thorns Charge. Each Thorns Charge grants Snow White an additional 10% Defense. (Max Stacks: 5)",
+                "While Snow White has a Thorns Charge, if she is hit by a Basic Attack or Heavy Attack from a Melee or Tank role, Thorns deals 100% damage to them, and Snow White loses 1 Thorns Charge.",
+                "Snow White\u2019s Heavy Attack has a 5% chance to inflict a Wound dealing 10% damage per second for 5 seconds (Max Stacks: 1). Each stack of Thorns increases this chance by 10%."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/snowwhite_core.jpg"
+        },
+        {
+            "name": "Thornhammer Surge",
+            "type": "Special",
+            "info": [
+                "Deals 400% damage and inflicts the targets with Knock Back.",
+                "Snow White Lures all enemies for 5 seconds."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/snowwhite_special.jpg"
+        },
+        {
+            "name": "Rampant Brambles",
+            "type": "Signature",
+            "info": [
+                "When Snow White's Thorns deal damage, it has a 100% chance to inflict a Wound dealing 10% damage per second for 5 seconds. (Max Stacks: 3)",
+                "Each time Snow White hits an Enemy with a Heavy Attack, she has a 100% chance to gain a Thorns Charge."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/snowwhite_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Friend to the Mighty",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_snowwhite_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Friend to the Stalwart",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_snowwhite_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Defense at the start of an encounter."
+        },
+        {
+            "name": "Friend to the Porcupine",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_snowwhite_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Snow White's Thorns now deal an additional 100% damage."
+        },
+        {
+            "name": "Friend to the Spider",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_snowwhite_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "After Snow White hits an Enemy with a Heavy Attack, she has a 70% chance to Root them for 3 seconds."
+        },
+        {
+            "name": "Friend to the Bear",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_snowwhite_6.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Snow White's Heavy Attack deals an additional 100% damage. Heavy Attacks from all allies deal an additional 100% damage to Enemies inflicted with a Root, or when an Ally has a Lure active on them."
+        },
+        {
+            "name": "Friend to the Bees",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_snowwhite_5.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Snow White's Special Ability now deals an additional 50% damage for each Thorns Charge she currently has. Snow White's Special Ability has a 100% chance to grant her a 10% Attack Buff until the end of combat. [Max Stacks: 10]"
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-snowwhite.png"
+}

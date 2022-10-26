@@ -1,0 +1,175 @@
+{
+    "code_name": "baloo",
+    "name": "Baloo",
+    "catchline": "Bold pilot fighter",
+    "type": "Tank",
+    "data": {
+        "rarity_1": {
+            "health": 1267,
+            "attack": 606,
+            "defense": 1216,
+            "focus": 284
+        },
+        "rarity_2": {
+            "health": 1645,
+            "attack": 810,
+            "defense": 1584,
+            "focus": 391
+        },
+        "rarity_3": {
+            "health": 2934,
+            "attack": 1449,
+            "defense": 2826,
+            "focus": 702
+        },
+        "rarity_4": {
+            "health": 4481,
+            "attack": 2212,
+            "defense": 4317,
+            "focus": 1070
+        },
+        "rarity_5": {
+            "health": 6989,
+            "attack": 3435,
+            "defense": 6730,
+            "focus": 1655
+        },
+        "astral_1": {
+            "health": 6989,
+            "attack": 3435,
+            "defense": 6730,
+            "focus": 1655
+        },
+        "astral_2": {
+            "health": 7763,
+            "attack": 3828,
+            "defense": 7478,
+            "focus": 1850
+        },
+        "astral_3": {
+            "health": 8412,
+            "attack": 4138,
+            "defense": 8101,
+            "focus": 1995
+        },
+        "astral_4": {
+            "health": 9061,
+            "attack": 4448,
+            "defense": 8724,
+            "focus": 2141
+        },
+        "astral_5": {
+            "health": 9710,
+            "attack": 4759,
+            "defense": 9347,
+            "focus": 2286
+        },
+        "astral_6": {
+            "health": 10359,
+            "attack": 5069,
+            "defense": 9970,
+            "focus": 2432
+        },
+        "astral_7": {
+            "health": 10684,
+            "attack": 5224,
+            "defense": 10281,
+            "focus": 2505
+        },
+        "astral_8": {
+            "health": 11008,
+            "attack": 5379,
+            "defense": 10593,
+            "focus": 2577
+        },
+        "astral_9": {
+            "health": 11333,
+            "attack": 5534,
+            "defense": 10904,
+            "focus": 2650
+        },
+        "astral_10": {
+            "health": 11657,
+            "attack": 5689,
+            "defense": 11216,
+            "focus": 2723
+        }
+    },
+    "abilities": [
+        {
+            "name": "Cargo Delivery",
+            "type": "Core",
+            "info": [
+                "Hitting with Basic Attacks has a 40% chance to gain a Cargo Charge. (Max Cargo: 5)",
+                "While holding a Heavy Attack, Baloo removes 1 Cargo Charge every 1 second(s) to give himself and all allies a random Buff.",
+                "Removed Cargo Charges randomly give an instant 2% Heal, 5% Armor, or 12% Defense Buff for 5 seconds.",
+                "Baloo's Heavy Attack hits all enemies around him."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/baloo_core.jpg"
+        },
+        {
+            "name": "Air Drop",
+            "type": "Special",
+            "info": [
+                "Baloo removes all Cargo Charges and gives a random Buff from his Core Ability to himself and his allies for each Cargo Charge removed.",
+                "40% chance to Stun nearby enemies for 2 seconds.",
+                "Deal 400% damage to nearby enemies."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/baloo_special.jpg"
+        },
+        {
+            "name": "Relax, Jack",
+            "type": "Signature",
+            "info": [
+                "While holding a Heavy Attack, Baloo gains 50% Damage Resist Buff.",
+                "When attacked while holding a Heavy Attack, Baloo has a 70% chance to ignore Stun and Knock Back."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/baloo_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Custom Shield",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_baloo_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Defense at the start of an encouter."
+        },
+        {
+            "name": "Pilot's Cap",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_baloo_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Health at the start of an encouter."
+        },
+        {
+            "name": "Well Whatta Ya Know!",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_baloo_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Increase maximum Cargo Charges by 2. Whenever Baloo spends a Cargo Charge, he has a 5% chance to gain a 20% Attack Buff for 10 seconds. [Max Stacks: 1]"
+        },
+        {
+            "name": "Mango Fandango",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_baloo_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Whenever Baloo gains Healing from his Core Ability or Special Ability, he has a 70% chance to Heal himself an additional 3%."
+        },
+        {
+            "name": "Take it Easy",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_baloo_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Each time Baloo gains a Cargo Charge, inflict a -20% Attack Debuff to his target for 5 seconds. [Max Stacks: 1]"
+        },
+        {
+            "name": "Spin It!",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_baloo_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "When Baloo hits an enemy with a Heavy Attack, 100% chance to gain a Cargo Charge."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-baloo.png"
+}

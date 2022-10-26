@@ -1,0 +1,171 @@
+{
+    "code_name": "eve",
+    "name": "EVE",
+    "catchline": "Planetary security sentry",
+    "type": "Ranged",
+    "data": {
+        "rarity_1": {
+            "health": 730,
+            "attack": 694,
+            "defense": 413,
+            "focus": 1307
+        },
+        "rarity_2": {
+            "health": 966,
+            "attack": 928,
+            "defense": 556,
+            "focus": 1694
+        },
+        "rarity_3": {
+            "health": 1727,
+            "attack": 1660,
+            "defense": 996,
+            "focus": 3019
+        },
+        "rarity_4": {
+            "health": 2637,
+            "attack": 2535,
+            "defense": 1520,
+            "focus": 4612
+        },
+        "rarity_5": {
+            "health": 4101,
+            "attack": 3935,
+            "defense": 2358,
+            "focus": 7197
+        },
+        "astral_1": {
+            "health": 4101,
+            "attack": 3935,
+            "defense": 2358,
+            "focus": 7197
+        },
+        "astral_2": {
+            "health": 4566,
+            "attack": 4386,
+            "defense": 2630,
+            "focus": 7991
+        },
+        "astral_3": {
+            "health": 4940,
+            "attack": 4741,
+            "defense": 2842,
+            "focus": 8661
+        },
+        "astral_4": {
+            "health": 5314,
+            "attack": 5097,
+            "defense": 3053,
+            "focus": 9331
+        },
+        "astral_5": {
+            "health": 5688,
+            "attack": 5452,
+            "defense": 3265,
+            "focus": 10000
+        },
+        "astral_6": {
+            "health": 6062,
+            "attack": 5808,
+            "defense": 3477,
+            "focus": 10670
+        },
+        "astral_7": {
+            "health": 6249,
+            "attack": 5985,
+            "defense": 3583,
+            "focus": 11005
+        },
+        "astral_8": {
+            "health": 6436,
+            "attack": 6163,
+            "defense": 3689,
+            "focus": 11340
+        },
+        "astral_9": {
+            "health": 6623,
+            "attack": 6341,
+            "defense": 3795,
+            "focus": 11674
+        },
+        "astral_10": {
+            "health": 6810,
+            "attack": 6519,
+            "defense": 3901,
+            "focus": 12009
+        }
+    },
+    "abilities": [
+        {
+            "name": "Electrostatic Shielding",
+            "type": "Core",
+            "info": [
+                "Immune to Wound and Poison.",
+                "Every 10 seconds, EVE's Shield charges.",
+                "If EVE is hit by a Melee or Tank role while her Shield is charged, they are inflicted with a Shock, dealing 10% damage per second, for 10 seconds. EVE's Shield then needs to recharge."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/eve_core.jpg"
+        },
+        {
+            "name": "Orbital Isolation Drive",
+            "type": "Special",
+            "info": [
+                "EVE deals 600% damage to all enemies in a small area around the current target."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/eve_special.jpg"
+        },
+        {
+            "name": "Stunning Protector",
+            "type": "Signature",
+            "info": [
+                "EVE's Shield now has a 100% chance to Stun the target for 4 seconds."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/eve_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Targeting Priority",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_eve_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Focus at the start of an encounter."
+        },
+        {
+            "name": "External Shielding",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_eve_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Defense at the start of an encounter."
+        },
+        {
+            "name": "Feedback Boost",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_eve_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "EVE's Heavy Attack has a 100% chance to inflict a Shock, dealing 10% damage per second, for 10 seconds."
+        },
+        {
+            "name": "Electrostatic Envelope",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_eve_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "EVE's Special Ability now adds a Shock after hitting the target, dealing 10% damage per second, for 20 seconds."
+        },
+        {
+            "name": "Polarity Shift",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_eve_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "EVE's Shield now has a 100% chance to inflict Knock Back on the affected enemy."
+        },
+        {
+            "name": "Enhanced Electrostatics",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_eve_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "EVE's Special Ability deals an additional 100% damage for each Shock on the target."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-eve.png"
+}

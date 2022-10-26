@@ -1,0 +1,173 @@
+{
+    "code_name": "frank-wolff",
+    "name": "Frank Wolff",
+    "catchline": "Natural navigator",
+    "type": "Support",
+    "data": {
+        "rarity_1": {
+            "health": 1054,
+            "attack": 519,
+            "defense": 454,
+            "focus": 924
+        },
+        "rarity_2": {
+            "health": 1365,
+            "attack": 703,
+            "defense": 615,
+            "focus": 1204
+        },
+        "rarity_3": {
+            "health": 2433,
+            "attack": 1259,
+            "defense": 1102,
+            "focus": 2148
+        },
+        "rarity_4": {
+            "health": 3716,
+            "attack": 1922,
+            "defense": 1682,
+            "focus": 3281
+        },
+        "rarity_5": {
+            "health": 5799,
+            "attack": 2978,
+            "defense": 2606,
+            "focus": 5114
+        },
+        "astral_1": {
+            "health": 5799,
+            "attack": 2978,
+            "defense": 2606,
+            "focus": 5114
+        },
+        "astral_2": {
+            "health": 6439,
+            "attack": 3324,
+            "defense": 2908,
+            "focus": 5683
+        },
+        "astral_3": {
+            "health": 6979,
+            "attack": 3589,
+            "defense": 3141,
+            "focus": 6156
+        },
+        "astral_4": {
+            "health": 7518,
+            "attack": 3855,
+            "defense": 3373,
+            "focus": 6630
+        },
+        "astral_5": {
+            "health": 8058,
+            "attack": 4121,
+            "defense": 3606,
+            "focus": 7103
+        },
+        "astral_6": {
+            "health": 8598,
+            "attack": 4387,
+            "defense": 3838,
+            "focus": 7577
+        },
+        "astral_7": {
+            "health": 8868,
+            "attack": 4520,
+            "defense": 3955,
+            "focus": 7813
+        },
+        "astral_8": {
+            "health": 9138,
+            "attack": 4653,
+            "defense": 4071,
+            "focus": 8050
+        },
+        "astral_9": {
+            "health": 9408,
+            "attack": 4786,
+            "defense": 4187,
+            "focus": 8287
+        },
+        "astral_10": {
+            "health": 9678,
+            "attack": 4918,
+            "defense": 4304,
+            "focus": 8523
+        }
+    },
+    "abilities": [
+        {
+            "name": "Resilience",
+            "type": "Core",
+            "info": [
+                "Frank\u2019s thick bark hide provides 60% Resistance to Wound, Shock, and Poison damage.",
+                "At the beginning of combat and when struck by a Critical Hit, Frank gains a 10% Defense Buff. (Max Stacks: 10)",
+                "If Frank is inflicted with Burn all Defense Buffs from his Core Ability are Purged."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/frankwolff_core.jpg"
+        },
+        {
+            "name": "Dense Foliage",
+            "type": "Special",
+            "info": [
+                "Frank grows a patch of Dense Foliage beneath him that lasts for 16 seconds.",
+                "All Guardians Heal 3.75% every second for 4 seconds upon entering the Dense Foliage for the first time after each Special activation.",
+                "Allies within the Dense Foliage Resist 30% damage from Ranged and Support enemies, and become Immune to Root."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/frankwolff_special.jpg"
+        },
+        {
+            "name": "Caught In The Weeds",
+            "type": "Signature",
+            "info": [
+                "The first time an enemy enters Dense Foliage per activation, they are dealt 400% Damage and become Rooted for 4 seconds."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/frankwolff_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Deep Forest Guide",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_frankwolff_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Health at the start of an encounter."
+        },
+        {
+            "name": "Vine Carapace",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_frankwolff_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Defense at the start of an encounter."
+        },
+        {
+            "name": "Might of Timbers",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_frankwolff_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "If Frank Wolff is standing in Dense Foliage, his Heavy Attack gains 40% Attack and a 30% chance to inflict Root for 5 seconds."
+        },
+        {
+            "name": "Oakenhide",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_frankwolff_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Allies within Dense Foliage gain 50% Defense. Enemies within Dense Foliage are inflicted with -50% Critical Damage."
+        },
+        {
+            "name": "Druidic Determination",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_frankwolff_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Frank Heals 5% when struck by a Critical Hit while standing in Dense Foliage."
+        },
+        {
+            "name": "Verdant Shroud",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_frankwolff_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Ranged and Support enemies have a 30% chance to Miss allies standing inside Dense Foliage."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-frankwolff.png"
+}

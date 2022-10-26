@@ -1,0 +1,170 @@
+{
+    "code_name": "belle",
+    "name": "Belle",
+    "catchline": "Explorer mage",
+    "type": "Support",
+    "data": {
+        "rarity_1": {
+            "health": 730,
+            "attack": 525,
+            "defense": 596,
+            "focus": 809
+        },
+        "rarity_2": {
+            "health": 976,
+            "attack": 710,
+            "defense": 785,
+            "focus": 1066
+        },
+        "rarity_3": {
+            "health": 1746,
+            "attack": 1273,
+            "defense": 1402,
+            "focus": 1905
+        },
+        "rarity_4": {
+            "health": 2665,
+            "attack": 1943,
+            "defense": 2141,
+            "focus": 2909
+        },
+        "rarity_5": {
+            "health": 4138,
+            "attack": 3011,
+            "defense": 3332,
+            "focus": 4527
+        },
+        "astral_1": {
+            "health": 4138,
+            "attack": 3011,
+            "defense": 3332,
+            "focus": 4527
+        },
+        "astral_2": {
+            "health": 4611,
+            "attack": 3360,
+            "defense": 3708,
+            "focus": 5036
+        },
+        "astral_3": {
+            "health": 4985,
+            "attack": 3629,
+            "defense": 4013,
+            "focus": 5451
+        },
+        "astral_4": {
+            "health": 5359,
+            "attack": 3898,
+            "defense": 4318,
+            "focus": 5865
+        },
+        "astral_5": {
+            "health": 5733,
+            "attack": 4168,
+            "defense": 4623,
+            "focus": 6280
+        },
+        "astral_6": {
+            "health": 6106,
+            "attack": 4437,
+            "defense": 4929,
+            "focus": 6695
+        },
+        "astral_7": {
+            "health": 6293,
+            "attack": 4571,
+            "defense": 5081,
+            "focus": 6902
+        },
+        "astral_8": {
+            "health": 6480,
+            "attack": 4706,
+            "defense": 5234,
+            "focus": 7109
+        },
+        "astral_9": {
+            "health": 6667,
+            "attack": 4840,
+            "defense": 5386,
+            "focus": 7317
+        },
+        "astral_10": {
+            "health": 6854,
+            "attack": 4975,
+            "defense": 5539,
+            "focus": 7524
+        }
+    },
+    "abilities": [
+        {
+            "name": "Enchanting Defense",
+            "type": "Core",
+            "info": [
+                "At the beginning of each combat, Belle grants all allies a 10% Defense Buff for the duration of the encounter."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/belle_core_ability.jpg"
+        },
+        {
+            "name": "Healing Bloom",
+            "type": "Special",
+            "info": [
+                "All allies Heal 2.5% each second for 4 seconds. (Max Stacks: 1)",
+                "Belle has a 15% chance to additionally grant 10% Armor to all allies."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/belle_special.jpg"
+        },
+        {
+            "name": "Nature'S Spell",
+            "type": "Signature",
+            "info": [
+                "Belle\u2019s Special Ability gains an additional 35% chance to grant Armor to allies."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/belle_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Nature's Voice",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/reflections_belle_philippe.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Health at the start of an encounter."
+        },
+        {
+            "name": "Forgotten Knowledge",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/reflections_belle_sheep.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Focus at the start of an encounter."
+        },
+        {
+            "name": "Healer\u2019s Touch",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/reflections_belle_cogsw.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Heals from Belle are 40% stronger."
+        },
+        {
+            "name": "Enchantment Enhancement",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/reflections_belle_maurice.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Whenever Belle activates a Heal on an ally, that ally gains a 10% Defense Buff for 10 seconds."
+        },
+        {
+            "name": "Active Growth",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/reflections_belle_lumiere.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "When Belle\u2019s Core Ability activates, all allies gain 15% Armor."
+        },
+        {
+            "name": "Reflexive Restoration",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/reflections_belle_potts.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "When Belle\u2019s Core Ability activates, all allies also Heal 3.5% each second for 4 seconds. Belle\u2019s Core Ability will activate during combat when a teammate reaches 10% HP. This effect will only activate once per encounter for each teammate."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-belle.png"
+}

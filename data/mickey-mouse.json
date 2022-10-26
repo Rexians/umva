@@ -1,0 +1,174 @@
+{
+    "code_name": "mickey-mouse",
+    "name": "Mickey Mouse",
+    "catchline": "Stellar sorcerer",
+    "type": "Support",
+    "data": {
+        "rarity_1": {
+            "health": 876,
+            "attack": 629,
+            "defense": 539,
+            "focus": 709
+        },
+        "rarity_2": {
+            "health": 1151,
+            "attack": 835,
+            "defense": 717,
+            "focus": 945
+        },
+        "rarity_3": {
+            "health": 2055,
+            "attack": 1493,
+            "defense": 1282,
+            "focus": 1691
+        },
+        "rarity_4": {
+            "health": 3138,
+            "attack": 2279,
+            "defense": 1957,
+            "focus": 2582
+        },
+        "rarity_5": {
+            "health": 4885,
+            "attack": 3543,
+            "defense": 3042,
+            "focus": 4010
+        },
+        "astral_1": {
+            "health": 4885,
+            "attack": 3543,
+            "defense": 3042,
+            "focus": 4010
+        },
+        "astral_2": {
+            "health": 5434,
+            "attack": 3945,
+            "defense": 3388,
+            "focus": 4468
+        },
+        "astral_3": {
+            "health": 5882,
+            "attack": 4267,
+            "defense": 3664,
+            "focus": 4831
+        },
+        "astral_4": {
+            "health": 6331,
+            "attack": 4589,
+            "defense": 3940,
+            "focus": 5194
+        },
+        "astral_5": {
+            "health": 6779,
+            "attack": 4912,
+            "defense": 4216,
+            "focus": 5557
+        },
+        "astral_6": {
+            "health": 7228,
+            "attack": 5234,
+            "defense": 4493,
+            "focus": 5920
+        },
+        "astral_7": {
+            "health": 7452,
+            "attack": 5395,
+            "defense": 4631,
+            "focus": 6101
+        },
+        "astral_8": {
+            "health": 7676,
+            "attack": 5556,
+            "defense": 4769,
+            "focus": 6282
+        },
+        "astral_9": {
+            "health": 7901,
+            "attack": 5717,
+            "defense": 4907,
+            "focus": 6464
+        },
+        "astral_10": {
+            "health": 8125,
+            "attack": 5879,
+            "defense": 5045,
+            "focus": 6645
+        }
+    },
+    "abilities": [
+        {
+            "name": "Stellar Energy",
+            "type": "Core",
+            "info": [
+                "Mickey gains a Stellar Charge every 5 seconds, each granting 10% Attack. (Max Stacks: 3)",
+                "Each time an ally uses their Special Ability, Mickey gains a Stellar Charge for 5 seconds. (Max Stacks: 2)",
+                "Each time Mickey gains a Stellar Charge and is at 3 or more charges, he activates his Mirror Shield Buff for 10 seconds, reflecting 20% of incoming damage back at his attacker as Direct Damage."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/apprentice_mickey_core.jpg"
+        },
+        {
+            "name": "Cosmic Command",
+            "type": "Special",
+            "info": [
+                "If Mickey has 3 or more Stellar Charges on him, he Knocks Back and Stuns enemies that are activating their Special Abilities for 2 seconds.",
+                "If Mickey has 5 or more Stellar Charges on him, he Knocks Back and Stuns all enemies for 2 seconds instead.",
+                "Mickey Heals all allies 1% HP for each Stellar Charge on him every second for 4 seconds, then removes all Stellar Charges."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/apprentice_mickey_special.jpg"
+        },
+        {
+            "name": "Mirror Master",
+            "type": "Signature",
+            "info": [
+                "Mickey's Mirror Shield Buff reflects an additional 15% damage back at his attacker as Direct Damage.",
+                "Each time Mickey uses his Special Ability, he grants a Mirror Shield Buff to all other allies for 10 seconds. (Max Stacks: 1)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/apprentice_mickey_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Stellar Fortitude",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_apprenticemickey_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Health at the start of an encounter."
+        },
+        {
+            "name": "Innate Strength",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_apprenticemickey_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Power Cascade",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_apprenticemickey_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Each time an ally activates their Special Ability, Mickey grants them a 10% Attack Buff, plus 10% Attack for each Stellar Charge on Mickey for 10 seconds. [Max Stacks: 1]"
+        },
+        {
+            "name": "Empowered Protection",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_apprenticemickey_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Each time an ally activates their Special Ability, Mickey grants them a 10% Defense Buff, plus 10% Defense for each Stellar Charge on Mickey for 10 seconds. [Max Stacks: 1]"
+        },
+        {
+            "name": "Focusing Light",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_apprenticemickey_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Each time an ally activates their Special Ability, Mickey grants them a 10% Focus Buff, plus 10% Focus for each Stellar Charge on Mickey for 10 seconds. [Max Stacks: 1]"
+        },
+        {
+            "name": "Stellar Boon",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_apprenticemickey_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Each time Mickey activates his Special Ability, he has a 100% chance to grant all other allies a Stellar Boon Buff, reducing the Cooldown of their next Special Ability by 2 seconds. [Max Stacks: 1] If Mickey is defeated before the Stellar Boon Buff activates, it is removed."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-apprentice-mickey.png"
+}

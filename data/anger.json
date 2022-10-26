@@ -1,0 +1,173 @@
+{
+    "code_name": "anger",
+    "name": "Anger",
+    "catchline": "Fiery arbiter of justice",
+    "type": "Melee",
+    "data": {
+        "rarity_1": {
+            "health": 748,
+            "attack": 730,
+            "defense": 739,
+            "focus": 745
+        },
+        "rarity_2": {
+            "health": 997,
+            "attack": 976,
+            "defense": 986,
+            "focus": 974
+        },
+        "rarity_3": {
+            "health": 1784,
+            "attack": 1746,
+            "defense": 1765,
+            "focus": 1739
+        },
+        "rarity_4": {
+            "health": 2723,
+            "attack": 2665,
+            "defense": 2694,
+            "focus": 2655
+        },
+        "rarity_5": {
+            "health": 4230,
+            "attack": 4138,
+            "defense": 4184,
+            "focus": 4137
+        },
+        "astral_1": {
+            "health": 4230,
+            "attack": 4138,
+            "defense": 4184,
+            "focus": 4137
+        },
+        "astral_2": {
+            "health": 4713,
+            "attack": 4611,
+            "defense": 4662,
+            "focus": 4599
+        },
+        "astral_3": {
+            "health": 5096,
+            "attack": 4985,
+            "defense": 5040,
+            "focus": 4981
+        },
+        "astral_4": {
+            "health": 5479,
+            "attack": 5359,
+            "defense": 5419,
+            "focus": 5363
+        },
+        "astral_5": {
+            "health": 5862,
+            "attack": 5733,
+            "defense": 5797,
+            "focus": 5744
+        },
+        "astral_6": {
+            "health": 6245,
+            "attack": 6106,
+            "defense": 6176,
+            "focus": 6126
+        },
+        "astral_7": {
+            "health": 6436,
+            "attack": 6293,
+            "defense": 6365,
+            "focus": 6317
+        },
+        "astral_8": {
+            "health": 6628,
+            "attack": 6480,
+            "defense": 6554,
+            "focus": 6508
+        },
+        "astral_9": {
+            "health": 6819,
+            "attack": 6667,
+            "defense": 6743,
+            "focus": 6699
+        },
+        "astral_10": {
+            "health": 7011,
+            "attack": 6854,
+            "defense": 6932,
+            "focus": 6890
+        }
+    },
+    "abilities": [
+        {
+            "name": "Escalating Rage",
+            "type": "Core",
+            "info": [
+                "Immune to Burn.",
+                "Each time an enemy appears, Anger gains a 5% Attack Buff.",
+                "When Anger reaches 4 or 8 Attack Buffs, he Burns all enemies, dealing 10% damage per second for 2 seconds."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/anger_core.jpg"
+        },
+        {
+            "name": "Blaze Of Justice",
+            "type": "Special",
+            "info": [
+                "Anger deals 800% damage and Knocks Back all enemies around him.",
+                "If his Attack Buffs are at 10 or more, he removes all of them and explodes, dealing a 30% damage hit to all enemies, and Knocking Back all enemies around him.",
+                "Additionally, while at 10 or more Attack Buffs, each enemy is inflicted with a Burn dealing 20% damage per second for 10 seconds to all targets it hits."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/anger_special.jpg"
+        },
+        {
+            "name": "Inferno Of Justice",
+            "type": "Signature",
+            "info": [
+                "When Anger gains 8 Attack Buffs, his Basic Attacks have a 100% chance to inflict a Burn dealing 20% damage per second for 5 seconds. (Max Stacks: 1)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/anger_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Small Steps",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_anger_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Healthy Concern",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_anger_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Health at the start of an encounter."
+        },
+        {
+            "name": "Feedback Loops",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_anger_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "After Anger's Special Ability has been used, he has a 100% chance to gain a 5% Attack Buff."
+        },
+        {
+            "name": "Rising Fury",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_anger_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Anger will not explode until he has reached 15 Attack Buffs. Anger\u2019s Special Ability now deals 50% additional damage."
+        },
+        {
+            "name": "Anger Management",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_anger_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Every time an enemy enters combat, there is a 100% chance Anger's next Basic Attack will deal a Critical Hit."
+        },
+        {
+            "name": "Enduring Justice",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_anger_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "When a Boss enters combat, Anger will gain 6, 5% Attack Buff(s)."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-anger.png"
+}

@@ -1,0 +1,170 @@
+{
+    "code_name": "rapunzel",
+    "name": "Rapunzel",
+    "catchline": "Illuminated warrior",
+    "type": "Melee",
+    "data": {
+        "rarity_1": {
+            "health": 892,
+            "attack": 732,
+            "defense": 649,
+            "focus": 688
+        },
+        "rarity_2": {
+            "health": 1170,
+            "attack": 978,
+            "defense": 878,
+            "focus": 906
+        },
+        "rarity_3": {
+            "health": 2089,
+            "attack": 1751,
+            "defense": 1574,
+            "focus": 1618
+        },
+        "rarity_4": {
+            "health": 3191,
+            "attack": 2673,
+            "defense": 2402,
+            "focus": 2470
+        },
+        "rarity_5": {
+            "health": 4968,
+            "attack": 4150,
+            "defense": 3722,
+            "focus": 3845
+        },
+        "astral_1": {
+            "health": 4968,
+            "attack": 4150,
+            "defense": 3722,
+            "focus": 3845
+        },
+        "astral_2": {
+            "health": 5525,
+            "attack": 4625,
+            "defense": 4155,
+            "focus": 4278
+        },
+        "astral_3": {
+            "health": 5982,
+            "attack": 5000,
+            "defense": 4487,
+            "focus": 4630
+        },
+        "astral_4": {
+            "health": 6439,
+            "attack": 5375,
+            "defense": 4819,
+            "focus": 4983
+        },
+        "astral_5": {
+            "health": 6896,
+            "attack": 5750,
+            "defense": 5151,
+            "focus": 5335
+        },
+        "astral_6": {
+            "health": 7352,
+            "attack": 6125,
+            "defense": 5484,
+            "focus": 5688
+        },
+        "astral_7": {
+            "health": 7581,
+            "attack": 6313,
+            "defense": 5650,
+            "focus": 5864
+        },
+        "astral_8": {
+            "health": 7809,
+            "attack": 6500,
+            "defense": 5816,
+            "focus": 6040
+        },
+        "astral_9": {
+            "health": 8038,
+            "attack": 6688,
+            "defense": 5982,
+            "focus": 6216
+        },
+        "astral_10": {
+            "health": 8266,
+            "attack": 6875,
+            "defense": 6148,
+            "focus": 6393
+        }
+    },
+    "abilities": [
+        {
+            "name": "Solar Strength",
+            "type": "Core",
+            "info": [
+                "When Rapunzel completes 4 consecutive Basic Attacks, she gains a 10% Attack Buff. (Max Stacks: 4) If Rapunzel hits an enemy with her Special Ability, these Buffs are removed."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/rapunzel_core_ability.jpg"
+        },
+        {
+            "name": "Rising Sunshot",
+            "type": "Special",
+            "info": [
+                "Rapunzel deals 800% damage and inflicts Knock Back.",
+                "Once per encounter, if Rapunzel uses her Special Ability and is below 50% HP, she Heals 4% per second for 5 seconds."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/rapunzel_special.jpg"
+        },
+        {
+            "name": "Healing Rays",
+            "type": "Signature",
+            "info": [
+                "Once per encounter, if Rapunzel uses her Special Ability and is below 50% HP, she Heals all other allies for 15% HP."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/rapunzel_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Cast Iron Will",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_rapunzel_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Sun's Warmth",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_rapunzel_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Health at the start of an encounter."
+        },
+        {
+            "name": "Pan-O-Rama",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_rapunzel_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Whenever Rapunzel has 4 Attack Buffs from her Core Ability, her Special Ability Knocks Back all enemies in a small area around her and deals an additional 300% damage to both her target and enemies Knocked Back."
+        },
+        {
+            "name": "Reinforced Iron",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_rapunzel_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "When Rapunzel deals the last hit on an enemy target before it\u2019s defeated, she gets a 10% Attack Buff for 10 seconds. [Max Stacks: 5]"
+        },
+        {
+            "name": "Helping Hand",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_rapunzel_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Attack Buffs from Rapunzel's Core Ability provide an additional 10% Attack."
+        },
+        {
+            "name": "Flower's Blessing",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_rapunzel_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Rapunzel's Special Ability Heals an additional 5% HP per second."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-rapunzel.png"
+}

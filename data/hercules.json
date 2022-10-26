@@ -1,0 +1,172 @@
+{
+    "code_name": "hercules",
+    "name": "Hercules",
+    "catchline": "Wings of olympus",
+    "type": "Melee",
+    "data": {
+        "rarity_1": {
+            "health": 783,
+            "attack": 851,
+            "defense": 706,
+            "focus": 714
+        },
+        "rarity_2": {
+            "health": 1040,
+            "attack": 1121,
+            "defense": 947,
+            "focus": 937
+        },
+        "rarity_3": {
+            "health": 1859,
+            "attack": 2003,
+            "defense": 1696,
+            "focus": 1673
+        },
+        "rarity_4": {
+            "health": 2839,
+            "attack": 3059,
+            "defense": 2589,
+            "focus": 2555
+        },
+        "rarity_5": {
+            "health": 4412,
+            "attack": 4761,
+            "defense": 4018,
+            "focus": 3978
+        },
+        "astral_1": {
+            "health": 4412,
+            "attack": 4761,
+            "defense": 4018,
+            "focus": 3978
+        },
+        "astral_2": {
+            "health": 4913,
+            "attack": 5297,
+            "defense": 4479,
+            "focus": 4424
+        },
+        "astral_3": {
+            "health": 5315,
+            "attack": 5733,
+            "defense": 4841,
+            "focus": 4789
+        },
+        "astral_4": {
+            "health": 5716,
+            "attack": 6169,
+            "defense": 5203,
+            "focus": 5155
+        },
+        "astral_5": {
+            "health": 6117,
+            "attack": 6605,
+            "defense": 5565,
+            "focus": 5521
+        },
+        "astral_6": {
+            "health": 6518,
+            "attack": 7041,
+            "defense": 5926,
+            "focus": 5887
+        },
+        "astral_7": {
+            "health": 6719,
+            "attack": 7259,
+            "defense": 6107,
+            "focus": 6070
+        },
+        "astral_8": {
+            "health": 6919,
+            "attack": 7477,
+            "defense": 6288,
+            "focus": 6253
+        },
+        "astral_9": {
+            "health": 7120,
+            "attack": 7695,
+            "defense": 6469,
+            "focus": 6436
+        },
+        "astral_10": {
+            "health": 7321,
+            "attack": 7913,
+            "defense": 6650,
+            "focus": 6618
+        }
+    },
+    "abilities": [
+        {
+            "name": "Favored Son",
+            "type": "Core",
+            "info": [
+                "When attacking an enemy, Hercules gains a 2% Attack Buff each time he hits his current target. (Max Stacks: 10)",
+                "Additionally while he is attacking, Hercules gains a 2% Focus Buff each time he is hit by his current target. (Max Stacks: 10)",
+                "Buffs Hercules gains from his Core Ability are removed if he stops attacking or attacks a new enemy."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/hercules_core.jpg"
+        },
+        {
+            "name": "Gift Of Olympus",
+            "type": "Special",
+            "info": [
+                "Hercules deals 400% damage to his current target and inflicts Knock Back.",
+                "Hercules gains a 15% Attack Buff for 15 seconds for each enemy in combat. (Max Stacks: 10)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/hercules_special.jpg"
+        },
+        {
+            "name": "The Perfect Gift",
+            "type": "Signature",
+            "info": [
+                "Whenever Hercules defeats an enemy, he has a 100% chance to gain an Indestructible Buff for the next 3 seconds."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/hercules_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Ares' Strike",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_hercules_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Aphrodite's Protection",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_hercules_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Defense at the start of an encounter."
+        },
+        {
+            "name": "Artemis' Shield",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_hercules_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "While he is attacking, anytime Hercules is hit by his target, he has a 100%[-] chance to gain a 5% Defense Buff. These Buffs are removed when Hercules changes his target. [Max Stacks: 10]"
+        },
+        {
+            "name": "Poseidon's Surge",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_hercules_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Hercules' Special Ability deals an additional 300% damage when used."
+        },
+        {
+            "name": "Athena's Tactics",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_hercules_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "The Attack Buffs granted by Hercules' Core Ability provide an additional 10% Attack."
+        },
+        {
+            "name": "Dionysus' Influence",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_hercules_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Hercules' Special Ability has a 100% chance to inflict a Stun on his target for 2 seconds."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-hercules.png"
+}

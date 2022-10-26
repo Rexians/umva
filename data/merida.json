@@ -1,0 +1,170 @@
+{
+    "code_name": "merida",
+    "name": "Merida",
+    "catchline": "Rebellious wisp archer",
+    "type": "Ranged",
+    "data": {
+        "rarity_1": {
+            "health": 766,
+            "attack": 693,
+            "defense": 413,
+            "focus": 1017
+        },
+        "rarity_2": {
+            "health": 1009,
+            "attack": 927,
+            "defense": 556,
+            "focus": 1346
+        },
+        "rarity_3": {
+            "health": 1803,
+            "attack": 1658,
+            "defense": 996,
+            "focus": 2405
+        },
+        "rarity_4": {
+            "health": 2753,
+            "attack": 2532,
+            "defense": 1520,
+            "focus": 3673
+        },
+        "rarity_5": {
+            "health": 4285,
+            "attack": 3931,
+            "defense": 2358,
+            "focus": 5712
+        },
+        "astral_1": {
+            "health": 4285,
+            "attack": 3931,
+            "defense": 2358,
+            "focus": 5712
+        },
+        "astral_2": {
+            "health": 4767,
+            "attack": 4381,
+            "defense": 2630,
+            "focus": 6358
+        },
+        "astral_3": {
+            "health": 5159,
+            "attack": 4736,
+            "defense": 2842,
+            "focus": 6879
+        },
+        "astral_4": {
+            "health": 5552,
+            "attack": 5091,
+            "defense": 3053,
+            "focus": 7401
+        },
+        "astral_5": {
+            "health": 5944,
+            "attack": 5446,
+            "defense": 3265,
+            "focus": 7922
+        },
+        "astral_6": {
+            "health": 6337,
+            "attack": 5801,
+            "defense": 3477,
+            "focus": 8443
+        },
+        "astral_7": {
+            "health": 6533,
+            "attack": 5979,
+            "defense": 3583,
+            "focus": 8704
+        },
+        "astral_8": {
+            "health": 6729,
+            "attack": 6156,
+            "defense": 3689,
+            "focus": 8964
+        },
+        "astral_9": {
+            "health": 6925,
+            "attack": 6334,
+            "defense": 3795,
+            "focus": 9225
+        },
+        "astral_10": {
+            "health": 7122,
+            "attack": 6511,
+            "defense": 3901,
+            "focus": 9485
+        }
+    },
+    "abilities": [
+        {
+            "name": "Wisp Focus",
+            "type": "Core",
+            "info": [
+                "Every 8 shots, Merida gains a Wisp Focus Buff for 5 seconds, granting +20% Critical Chance."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/merida_core_ability.jpg"
+        },
+        {
+            "name": "Bear Spirit",
+            "type": "Special",
+            "info": [
+                "Merida deals 400% damage to her current target. If she has a Wisp Focus Buff, enemies around her target are also hit.",
+                "Hit enemies are inflicted with a Wound, dealing 50% Damage per second for 6 seconds."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/merida_special.jpg"
+        },
+        {
+            "name": "Dunbroch Battle Cry",
+            "type": "Signature",
+            "info": [
+                "Wounds inflicted by Merida are 50% stronger."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/merida_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Arrowsplitter",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_merida_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Focus at the start of an encounter."
+        },
+        {
+            "name": "Hunter's Eye",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_merida_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Wrathful Spirit",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_merida_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Merida's Special Ability now deals an additional 50% damage on a Critical Hit."
+        },
+        {
+            "name": "Highlander Arrows",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_merida_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Basic Critical Hits now deal an additional 50% Damage."
+        },
+        {
+            "name": "Savage Wisps",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_merida_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Each time Merida's Special Ability deals a Critical Hit, Merida's Critical Damage is increased by 20% for the rest of the encounter. [Max Stacks: 5]"
+        },
+        {
+            "name": "Wounding Wisps",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_merida_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Basic Attacks that deal Critical Hits inflict a Wound that deals 20% damage per second for 2 seconds."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-merida.png"
+}

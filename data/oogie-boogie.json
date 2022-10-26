@@ -1,0 +1,172 @@
+{
+    "code_name": "oogie-boogie",
+    "name": "Oogie Boogie",
+    "catchline": "Dicey heavy hitter",
+    "type": "Tank",
+    "data": {
+        "rarity_1": {
+            "health": 1317,
+            "attack": 538,
+            "defense": 1317,
+            "focus": 203
+        },
+        "rarity_2": {
+            "health": 1706,
+            "attack": 729,
+            "defense": 1706,
+            "focus": 293
+        },
+        "rarity_3": {
+            "health": 3041,
+            "attack": 1306,
+            "defense": 3041,
+            "focus": 529
+        },
+        "rarity_4": {
+            "health": 4645,
+            "attack": 1994,
+            "defense": 4645,
+            "focus": 807
+        },
+        "rarity_5": {
+            "health": 7249,
+            "attack": 3090,
+            "defense": 7249,
+            "focus": 1238
+        },
+        "astral_1": {
+            "health": 7249,
+            "attack": 3090,
+            "defense": 7249,
+            "focus": 1238
+        },
+        "astral_2": {
+            "health": 8048,
+            "attack": 3448,
+            "defense": 8048,
+            "focus": 1392
+        },
+        "astral_3": {
+            "health": 8723,
+            "attack": 3724,
+            "defense": 8723,
+            "focus": 1496
+        },
+        "astral_4": {
+            "health": 9398,
+            "attack": 4000,
+            "defense": 9398,
+            "focus": 1600
+        },
+        "astral_5": {
+            "health": 10073,
+            "attack": 4276,
+            "defense": 10073,
+            "focus": 1704
+        },
+        "astral_6": {
+            "health": 10748,
+            "attack": 4551,
+            "defense": 10748,
+            "focus": 1807
+        },
+        "astral_7": {
+            "health": 11085,
+            "attack": 4689,
+            "defense": 11085,
+            "focus": 1859
+        },
+        "astral_8": {
+            "health": 11423,
+            "attack": 4827,
+            "defense": 11423,
+            "focus": 1911
+        },
+        "astral_9": {
+            "health": 11760,
+            "attack": 4965,
+            "defense": 11760,
+            "focus": 1963
+        },
+        "astral_10": {
+            "health": 12097,
+            "attack": 5103,
+            "defense": 12097,
+            "focus": 2015
+        }
+    },
+    "abilities": [
+        {
+            "name": "Oogie'S Bugs",
+            "type": "Core",
+            "info": [
+                "Every 4 hits received, Oogie sends Bugs to chase the enemy. Each Bug inflicts the attacking enemy with a -10% Attack Debuff that lasts until Oogie Boogie is defeated. (Max Stacks: 4).",
+                "If the enemy target has 4 Attack Debuffs stacked, the next Attack Debuff applied lasts only 6 seconds."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/oogie_boogie_core.jpg"
+        },
+        {
+            "name": "Wheel Of Misfortune",
+            "type": "Special",
+            "info": [
+                "Oogie deals 600% damage and Knocks Back the current target. Oogie's Bugs are activated once, targeting all enemies.",
+                "If the enemy target has 4 Attack Debuffs stacked, the next Attack Debuff applied lasts only 6 seconds."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/oogie_boogie_special.jpg"
+        },
+        {
+            "name": "Stunning Swarms",
+            "type": "Signature",
+            "info": [
+                "Oogie's Bugs have a 50% chance to Stun enemy targets for 2 seconds.",
+                "Oogie's Special Ability deals an 50% additional damage"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/oogie_boogie_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Loaded Dice",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_oogie_boogie_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Creepy Carapace",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_oogie_boogie_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Defense at the start of an encounter."
+        },
+        {
+            "name": "Black Widow Charm",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_oogie_boogie_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Whenever Oogie hits an enemy target with his Special Ability, the target becomes Attack Buff Blocked for 20 seconds."
+        },
+        {
+            "name": "Two-Headed Coin",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_oogie_boogie_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "When Oogie uses his Special Ability, he either deals an additional 200% damage from his Special Ability or activates Oogie's Bugs, targeting all enemies."
+        },
+        {
+            "name": "Weighted Wheel",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_oogie_boogie_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Oogie's Special Ability deals an additional 50% damage and Purges Attack Buffs from the target."
+        },
+        {
+            "name": "Boogie Bug Bites",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_oogie_boogie_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Oogie\u2019s Bugs deal 200% damage."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-oogie-boogie.png"
+}

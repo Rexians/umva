@@ -1,0 +1,174 @@
+{
+    "code_name": "cruella-de-vil",
+    "name": "Cruella De Vil",
+    "catchline": "Devilish queen of crime",
+    "type": "Ranged",
+    "data": {
+        "rarity_1": {
+            "health": 649,
+            "attack": 535,
+            "defense": 480,
+            "focus": 1216
+        },
+        "rarity_2": {
+            "health": 869,
+            "attack": 737,
+            "defense": 636,
+            "focus": 1584
+        },
+        "rarity_3": {
+            "health": 1556,
+            "attack": 1324,
+            "defense": 1137,
+            "focus": 2826
+        },
+        "rarity_4": {
+            "health": 2375,
+            "attack": 2020,
+            "defense": 1736,
+            "focus": 4317
+        },
+        "rarity_5": {
+            "health": 3687,
+            "attack": 3122,
+            "defense": 2698,
+            "focus": 6729
+        },
+        "astral_1": {
+            "health": 3687,
+            "attack": 3122,
+            "defense": 2698,
+            "focus": 6729
+        },
+        "astral_2": {
+            "health": 4110,
+            "attack": 3492,
+            "defense": 3004,
+            "focus": 7477
+        },
+        "astral_3": {
+            "health": 4442,
+            "attack": 3766,
+            "defense": 3250,
+            "focus": 8100
+        },
+        "astral_4": {
+            "health": 4775,
+            "attack": 4040,
+            "defense": 3496,
+            "focus": 8723
+        },
+        "astral_5": {
+            "health": 5108,
+            "attack": 4314,
+            "defense": 3742,
+            "focus": 9346
+        },
+        "astral_6": {
+            "health": 5440,
+            "attack": 4589,
+            "defense": 3988,
+            "focus": 9969
+        },
+        "astral_7": {
+            "health": 5607,
+            "attack": 4726,
+            "defense": 4110,
+            "focus": 10281
+        },
+        "astral_8": {
+            "health": 5773,
+            "attack": 4863,
+            "defense": 4233,
+            "focus": 10592
+        },
+        "astral_9": {
+            "health": 5939,
+            "attack": 5000,
+            "defense": 4356,
+            "focus": 10904
+        },
+        "astral_10": {
+            "health": 6106,
+            "attack": 5137,
+            "defense": 4479,
+            "focus": 11215
+        }
+    },
+    "abilities": [
+        {
+            "name": "Ruthless Ingenuity",
+            "type": "Core",
+            "info": [
+                "Basic Attacks inflict a -5% Dizzy Debuff to the target for 8 seconds. (Max Stacks: 4)",
+                "Heavy Attacks only hit one target and have a 25% chance per Dizzy Debuff to inflict Root for 6 seconds. (Max Stacks: 1)",
+                "This Root cannot be reapplied until it expires. When this Root expires it also removes all Dizzy Debuffs affecting the target."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/cruella_core.jpg"
+        },
+        {
+            "name": "Neural Supression Cannon",
+            "type": "Special",
+            "info": [
+                "Enemies in a line are Rooted for 6 seconds, then are dealt 400% damage. (Max Stacks: 1)",
+                "Enemies that are already Rooted are instead Stunned for 6 seconds before damage is dealt. (Max Stacks: 1)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/cruella_special.jpg"
+        },
+        {
+            "name": "Seeing Spots",
+            "type": "Signature",
+            "info": [
+                "Cruella deals an additional 30% damage to Dizzy enemies.",
+                "Cruella deals an additional 60% damage to Rooted enemies.",
+                "Cruella deals an additional 90% damage to Stunned enemies."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/cruella_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Cunning Mastermind",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_cruella_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Focus at the start of an encounter."
+        },
+        {
+            "name": "Incandescent Rage",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_cruella_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Get Them, You Louts!",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_cruella_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "If Cruella hits a Rooted enemy with a Heavy Attack, that enemy gains Lure for 5 seconds and other allies gain a 20% Attack Buff for the same duration. Only one enemy can be Lured at a time. [Max Stacks: 1]"
+        },
+        {
+            "name": "Pit Maneuver",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_cruella_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "When Cruella dashes through an enemy with 4 or more Dizzy Debuffs, she removes all Dizzy Debuffs from that target and Stuns them for 4 seconds. [Max Stacks: 1] This ability has an 8 second cooldown."
+        },
+        {
+            "name": "Subsonic Lummox Flummoxer",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_cruella_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "If an enemy is Rooted or Stunned by any of Cruella's abilities and has Armor remaining, they are inflicted with an instant 300% Shock."
+        },
+        {
+            "name": "Auric Sonic Pistol",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_cruella_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "While Cruella is in the encounter, her allies deal an additional 30% damage to Rooted enemies. When an enemy inflicted with a Dizzy Debuff misses, they receive a -5% Defense Debuff for 12 seconds. [Max Stacks: 5]"
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-cruella.png"
+}

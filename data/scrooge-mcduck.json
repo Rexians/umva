@@ -1,0 +1,177 @@
+{
+    "code_name": "scrooge-mcduck",
+    "name": "Scrooge McDuck",
+    "catchline": "Adventure venture investor",
+    "type": "Support",
+    "data": {
+        "rarity_1": {
+            "health": 900,
+            "attack": 642,
+            "defense": 312,
+            "focus": 1024
+        },
+        "rarity_2": {
+            "health": 1180,
+            "attack": 850,
+            "defense": 445,
+            "focus": 1324
+        },
+        "rarity_3": {
+            "health": 2106,
+            "attack": 1520,
+            "defense": 801,
+            "focus": 2360
+        },
+        "rarity_4": {
+            "health": 3217,
+            "attack": 2321,
+            "defense": 1222,
+            "focus": 3605
+        },
+        "rarity_5": {
+            "health": 5010,
+            "attack": 3609,
+            "defense": 1879,
+            "focus": 5627
+        },
+        "astral_1": {
+            "health": 5010,
+            "attack": 3609,
+            "defense": 1879,
+            "focus": 5627
+        },
+        "astral_2": {
+            "health": 5571,
+            "attack": 4018,
+            "defense": 2109,
+            "focus": 6247
+        },
+        "astral_3": {
+            "health": 6032,
+            "attack": 4347,
+            "defense": 2269,
+            "focus": 6772
+        },
+        "astral_4": {
+            "health": 6493,
+            "attack": 4676,
+            "defense": 2429,
+            "focus": 7296
+        },
+        "astral_5": {
+            "health": 6954,
+            "attack": 5005,
+            "defense": 2588,
+            "focus": 7821
+        },
+        "astral_6": {
+            "health": 7415,
+            "attack": 5334,
+            "defense": 2748,
+            "focus": 8346
+        },
+        "astral_7": {
+            "health": 7645,
+            "attack": 5498,
+            "defense": 2828,
+            "focus": 8608
+        },
+        "astral_8": {
+            "health": 7876,
+            "attack": 5663,
+            "defense": 2908,
+            "focus": 8871
+        },
+        "astral_9": {
+            "health": 8106,
+            "attack": 5827,
+            "defense": 2988,
+            "focus": 9133
+        },
+        "astral_10": {
+            "health": 8337,
+            "attack": 5992,
+            "defense": 3068,
+            "focus": 9395
+        }
+    },
+    "abilities": [
+        {
+            "name": "Adventure Capital",
+            "type": "Core",
+            "info": [
+                "Scrooge creates Coins that each grant him 10% Focus. (Max Coins: 10)",
+                "Whenever Scrooge releases his Heavy Attack, create 1 Coin.",
+                "If Scrooge's Heavy Attack hits a target, create 1 Coin.",
+                "Whenever any enemy is defeated, create 1 Coin.",
+                "Scrooge's Heavy Attack can only hit 1 target, but it inflicts Knock Back instead of Push Back."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/scrooge_core.jpg"
+        },
+        {
+            "name": "Shared Fortune",
+            "type": "Special",
+            "info": [
+                "All allies Heal for 10% HP, then all Coins are spent. For each Coin spent:",
+                "All allies gain a 10% Focus Buff for 30 seconds. (Max Stacks: 20)",
+                "All allies Heal 0.25% HP.",
+                "If Scrooge has 0 Coins when he uses his Special, he instead creates 3 Coins."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/scrooge_special.jpg"
+        },
+        {
+            "name": "Towering Riches",
+            "type": "Signature",
+            "info": [
+                "Scrooge's Basic Attacks deal 50% more damage.",
+                "Whenever Scrooge reaches 10 Coins, all allies gain a 10% Attack Buff that lasts until the end of the encounter. (Max Stacks: 5)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/scrooge_mcduck_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Smarter than the Smarties",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_scroogemcduck_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Focus at the start of an encounter."
+        },
+        {
+            "name": "Tougher than the Toughies",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_scroogemcduck_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Health at the start of an encounter."
+        },
+        {
+            "name": "Spending Power",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_scroogemcduck_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Whenever Scrooge reaches 10 Coins, all allies gain a 10% Critical Damage Buff for 10 seconds. Allies cannot receive a new Critical Damage Buff until the old one expires. [Max Stacks: 1]"
+        },
+        {
+            "name": "Healthy Profit",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_scroogemcduck_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "The Healing effect of each Coin spent in Scrooge\u2019s Special Ability is 200% stronger. Each Coin spent also Cleanses 1 Attack Debuff from each ally."
+        },
+        {
+            "name": "Hard Bargain",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_scroogemcduck_6.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "Whenever any enemy gains an Attack Buff, all allies gain a 15% Attack Buff for 5 seconds. [Max Stacks: 3]"
+        },
+        {
+            "name": "Fortune's Favor",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_scroogemcduck_5.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Whenever Scrooge reaches 10 Coins, all allies gain a 10% Critical Chance Buff for 10 seconds. Allies cannot receive a new Critical Chance Buff until the old one expires. [Max Stacks: 1] Focus Buffs granted by Scrooge's Special Ability provide an additional 10% Focus."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-scrooge-mcduck.png"
+}

@@ -1,0 +1,170 @@
+{
+    "code_name": "sulley",
+    "name": "Sulley",
+    "catchline": "Fearsome protector",
+    "type": "Tank",
+    "data": {
+        "rarity_1": {
+            "health": 1115,
+            "attack": 673,
+            "defense": 1115,
+            "focus": 284
+        },
+        "rarity_2": {
+            "health": 1463,
+            "attack": 890,
+            "defense": 1463,
+            "focus": 391
+        },
+        "rarity_3": {
+            "health": 2612,
+            "attack": 1592,
+            "defense": 2612,
+            "focus": 702
+        },
+        "rarity_4": {
+            "health": 3989,
+            "attack": 2430,
+            "defense": 3988,
+            "focus": 1072
+        },
+        "rarity_5": {
+            "health": 6211,
+            "attack": 3779,
+            "defense": 6210,
+            "focus": 1656
+        },
+        "astral_1": {
+            "health": 6211,
+            "attack": 3779,
+            "defense": 6210,
+            "focus": 1656
+        },
+        "astral_2": {
+            "health": 6907,
+            "attack": 4207,
+            "defense": 6906,
+            "focus": 1852
+        },
+        "astral_3": {
+            "health": 7478,
+            "attack": 4552,
+            "defense": 7477,
+            "focus": 1998
+        },
+        "astral_4": {
+            "health": 8049,
+            "attack": 4896,
+            "defense": 8048,
+            "focus": 2143
+        },
+        "astral_5": {
+            "health": 8620,
+            "attack": 5241,
+            "defense": 8619,
+            "focus": 2289
+        },
+        "astral_6": {
+            "health": 9191,
+            "attack": 5586,
+            "defense": 9190,
+            "focus": 2435
+        },
+        "astral_7": {
+            "health": 9477,
+            "attack": 5758,
+            "defense": 9476,
+            "focus": 2507
+        },
+        "astral_8": {
+            "health": 9762,
+            "attack": 5931,
+            "defense": 9761,
+            "focus": 2580
+        },
+        "astral_9": {
+            "health": 10048,
+            "attack": 6103,
+            "defense": 10047,
+            "focus": 2653
+        },
+        "astral_10": {
+            "health": 10333,
+            "attack": 6275,
+            "defense": 10332,
+            "focus": 2726
+        }
+    },
+    "abilities": [
+        {
+            "name": "Armor Up",
+            "type": "Core",
+            "info": [
+                "Sulley gains 20% of Defense as Armor at the start of each combat in an Encounter."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/sulley_core_ability.jpg"
+        },
+        {
+            "name": "Sulley Slam",
+            "type": "Special",
+            "info": [
+                "Sulley deals 600% damage and Knocks Back all enemies around him.",
+                "Sulley has a 50% chance to Stun all enemies hit for 3 seconds."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/sulley_special.jpg"
+        },
+        {
+            "name": "Fierce Protector",
+            "type": "Signature",
+            "info": [
+                "When Sulley or one of his allies drops below 20% HP for the first time in an encounter, he gains a 50% Attack Buff (Max Stacks: 3) and Lures all enemies for the remainder of that combat. (Max Stacks: 1)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/sulley_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Defensive Plating",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_sulley_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Defense at the start of an encounter."
+        },
+        {
+            "name": "Force Multiplier",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_sulley_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Attack at the start of an encounter."
+        },
+        {
+            "name": "Seismic Surge",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_sulley_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Sulley\u2019s Special Ability deals an additional 200% damage."
+        },
+        {
+            "name": "Emergency Backup",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_sulley_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "When Sulley drops below 50% HP for the first time in an encounter, he gains 30% Armor."
+        },
+        {
+            "name": "Kinetic Transfer",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_sulley_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "When Sulley activates his Special Ability, he gains 5% Armor for each enemy target hit."
+        },
+        {
+            "name": "Enhanced Armor Core",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_sulley_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Sulley\u2019s Core Ability grants +10% additional Armor when activated."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-sulley.png"
+}

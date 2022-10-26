@@ -1,0 +1,170 @@
+{
+    "code_name": "jack-sparrow",
+    "name": "Jack Sparrow",
+    "catchline": "Curse collector",
+    "type": "Support",
+    "data": {
+        "rarity_1": {
+            "health": 1013,
+            "attack": 519,
+            "defense": 454,
+            "focus": 924
+        },
+        "rarity_2": {
+            "health": 1316,
+            "attack": 703,
+            "defense": 615,
+            "focus": 1204
+        },
+        "rarity_3": {
+            "health": 2347,
+            "attack": 1259,
+            "defense": 1102,
+            "focus": 2148
+        },
+        "rarity_4": {
+            "health": 3585,
+            "attack": 1922,
+            "defense": 1682,
+            "focus": 3281
+        },
+        "rarity_5": {
+            "health": 5591,
+            "attack": 2978,
+            "defense": 2606,
+            "focus": 5114
+        },
+        "astral_1": {
+            "health": 5591,
+            "attack": 2978,
+            "defense": 2606,
+            "focus": 5114
+        },
+        "astral_2": {
+            "health": 6210,
+            "attack": 3324,
+            "defense": 2908,
+            "focus": 5683
+        },
+        "astral_3": {
+            "health": 6729,
+            "attack": 3589,
+            "defense": 3141,
+            "focus": 6156
+        },
+        "astral_4": {
+            "health": 7249,
+            "attack": 3855,
+            "defense": 3373,
+            "focus": 6630
+        },
+        "astral_5": {
+            "health": 7768,
+            "attack": 4121,
+            "defense": 3606,
+            "focus": 7103
+        },
+        "astral_6": {
+            "health": 8287,
+            "attack": 4387,
+            "defense": 3838,
+            "focus": 7577
+        },
+        "astral_7": {
+            "health": 8546,
+            "attack": 4520,
+            "defense": 3955,
+            "focus": 7813
+        },
+        "astral_8": {
+            "health": 8806,
+            "attack": 4653,
+            "defense": 4071,
+            "focus": 8050
+        },
+        "astral_9": {
+            "health": 9065,
+            "attack": 4786,
+            "defense": 4187,
+            "focus": 8287
+        },
+        "astral_10": {
+            "health": 9325,
+            "attack": 4918,
+            "defense": 4304,
+            "focus": 8523
+        }
+    },
+    "abilities": [
+        {
+            "name": "Collector'S Curse",
+            "type": "Core",
+            "info": [
+                "Jack Sparrow gains a Curse Charge every 5 seconds as long as he has less than 3 Curses. Jack Sparrow has a 7% chance when dealing and receiving a hit to gain a Curse Charge. (Max Stacks: 10)"
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/cores/jack_sparrow_core.jpg"
+        },
+        {
+            "name": "Cleansing Tide",
+            "type": "Special",
+            "info": [
+                "Jack Sparrow Cleanses all Attribute Debuffs from each ally.",
+                "Jack Sparrow then removes all Curse Charges and Heals all allies 1% HP, plus 1% HP per Curse Charge removed, and Attribute Debuff Cleansed."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/specials/jack_sparrow_special.jpg"
+        },
+        {
+            "name": "Blessed Curse",
+            "type": "Signature",
+            "info": [
+                "Each time Jack scores a Critical Hit, he has a 100% chance to inflict a -10% Focus Debuff on his target for 5 seconds."
+            ],
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/signatures/jack_sparrow_sig.jpg"
+        }
+    ],
+    "talents": [
+        {
+            "name": "Collector's Code",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_jacksparrow_1.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 12",
+            "info": "Grants +20% Health at the start of an encounter."
+        },
+        {
+            "name": "The Interceptor",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_jacksparrow_2.png",
+            "type": "BASIC",
+            "max_level": "LEVEL 15",
+            "info": "Grants +20% Focus at the start of an encounter."
+        },
+        {
+            "name": "Mounting Affliction",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_jacksparrow_3.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "On activation, Jack Sparrow's Core Ability has a 70% chance to grant an additional Curse Charge."
+        },
+        {
+            "name": "Sympathy",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_jacksparrow_4.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 20",
+            "info": "Jack Sparrow's Special Ability now Heals an additional 1%, and an additional 1% per Curse Charge attached when used."
+        },
+        {
+            "name": "Tempting Fate",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_jacksparrow_5.png",
+            "type": "ADVANCED",
+            "max_level": "LEVEL 25",
+            "info": "When Jack Sparrow accumulates 10 Curse Charges, the next time he uses his Special, there is a 100% chance each enemy is inflicted with a -50% Focus Debuff for the duration of the Encounter. [Max Stacks: 1]"
+        },
+        {
+            "name": "Fortune's Fool",
+            "image_url": "https://disneymirrorverse.com/wp-content/uploads/talents/ref_jacksparrow_6.png",
+            "type": "ELITE",
+            "max_level": "LEVEL 30",
+            "info": "Jack Sparrow's Special Ability now has a 70% chance to add a 10% Focus Buff to allies for the rest of the encounter."
+        }
+    ],
+    "image_url": "https://disneymirrorverse.com/wp-content/uploads/portraits/portrait-jack-sparrow.png"
+}
